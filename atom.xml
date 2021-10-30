@@ -1,13 +1,38 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
-    <title>Hexo</title>
-    <link href="http://example.com" />
-    <updated>2021-10-30T09:12:11.001Z</updated>
+    <id>https://astolfocat.github.io</id>
+    <title>阿福の可爱猫窝</title>
+    <link href="https://astolfocat.github.io" />
+    <updated>2021-10-30T17:45:45.131Z</updated>
     <entry>
-        <id>http://example.com/2021/10/30/hello-world/</id>
+        <id>https://astolfocat.github.io/2021/10/31/%E5%AD%A6%E4%B9%A0%E3%81%AE%E8%AE%B0%E5%BD%95/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</id>
+        <title></title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E5%AD%A6%E4%B9%A0%E3%81%AE%E8%AE%B0%E5%BD%95/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+        <content type="html">&lt;h1 id=&#34;记录一些其他的学习进度&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#记录一些其他的学习进度&#34;&gt;#&lt;/a&gt; 记录一些其他的学习进度&lt;/h1&gt;
+&lt;p&gt;正文就先随便写点东西吧&lt;/p&gt;
+</content>
+        <updated>2021-10-30T17:45:45.131Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0/</id>
+        <title></title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html">&lt;h2 id=&#34;数据结构&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构&#34;&gt;#&lt;/a&gt; 数据结构&lt;/h2&gt;
+</content>
+        <updated>2021-10-30T17:45:08.407Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/2021/10/31/%E7%83%A7%E8%84%91%E3%81%AE%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
+        <title></title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E7%83%A7%E8%84%91%E3%81%AE%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html">&lt;h2 id=&#34;算法学习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#算法学习&#34;&gt;#&lt;/a&gt; 算法学习&lt;/h2&gt;
+</content>
+        <updated>2021-10-30T17:44:12.410Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/2021/10/30/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2021/10/30/hello-world/"/>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/30/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;

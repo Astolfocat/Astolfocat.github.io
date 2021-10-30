@@ -1,12 +1,36 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "description": "",
-    "home_page_url": "http://example.com",
+    "title": "阿福の可爱猫窝",
+    "description": "想要变可爱~",
+    "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
-            "id": "http://example.com/2021/10/30/hello-world/",
-            "url": "http://example.com/2021/10/30/hello-world/",
+            "id": "https://astolfocat.github.io/2021/10/31/%E5%AD%A6%E4%B9%A0%E3%81%AE%E8%AE%B0%E5%BD%95/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
+            "url": "https://astolfocat.github.io/2021/10/31/%E5%AD%A6%E4%B9%A0%E3%81%AE%E8%AE%B0%E5%BD%95/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
+            "title": "",
+            "date_published": "2021-10-30T17:45:45.131Z",
+            "content_html": "<h1 id=\"记录一些其他的学习进度\"><a class=\"markdownIt-Anchor\" href=\"#记录一些其他的学习进度\">#</a> 记录一些其他的学习进度</h1>\n<p>正文就先随便写点东西吧</p>\n",
+            "tags": []
+        },
+        {
+            "id": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0/",
+            "url": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0/",
+            "title": "",
+            "date_published": "2021-10-30T17:45:08.407Z",
+            "content_html": "<h2 id=\"数据结构\"><a class=\"markdownIt-Anchor\" href=\"#数据结构\">#</a> 数据结构</h2>\n",
+            "tags": []
+        },
+        {
+            "id": "https://astolfocat.github.io/2021/10/31/%E7%83%A7%E8%84%91%E3%81%AE%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "url": "https://astolfocat.github.io/2021/10/31/%E7%83%A7%E8%84%91%E3%81%AE%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "title": "",
+            "date_published": "2021-10-30T17:44:12.410Z",
+            "content_html": "<h2 id=\"算法学习\"><a class=\"markdownIt-Anchor\" href=\"#算法学习\">#</a> 算法学习</h2>\n",
+            "tags": []
+        },
+        {
+            "id": "https://astolfocat.github.io/2021/10/30/hello-world/",
+            "url": "https://astolfocat.github.io/2021/10/30/hello-world/",
             "title": "Hello World",
             "date_published": "2021-10-30T09:12:11.001Z",
             "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is your very first post. Check <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv\">documentation</span> for more info. If you get any problems when using Hexo, you can find the answer in <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=\">troubleshooting</span> or you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==\">GitHub</span>.</p>\n<h2 id=\"quick-start\"><a class=\"markdownIt-Anchor\" href=\"#quick-start\">#</a> Quick Start</h2>\n<h3 id=\"create-a-new-post\"><a class=\"markdownIt-Anchor\" href=\"#create-a-new-post\">#</a> Create a new post</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo new <span class=\"string\">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s\">Writing</span></p>\n<h3 id=\"run-server\"><a class=\"markdownIt-Anchor\" href=\"#run-server\">#</a> Run server</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo server</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=\">Server</span></p>\n<h3 id=\"generate-static-files\"><a class=\"markdownIt-Anchor\" href=\"#generate-static-files\">#</a> Generate static files</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo generate</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s\">Generating</span></p>\n<h3 id=\"deploy-to-remote-sites\"><a class=\"markdownIt-Anchor\" href=\"#deploy-to-remote-sites\">#</a> Deploy to remote sites</h3>\n<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">$ hexo deploy</span><br></pre></td></tr></table></figure>\n<p>More info: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s\">Deployment</span></p>\n",
