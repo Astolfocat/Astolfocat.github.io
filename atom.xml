@@ -5,16 +5,25 @@
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-30T16:00:00.000Z</updated>
     <category term="日记~" />
+    <category term="数据结构~" />
     <category term="杂谈~" />
     <category term="算法~" />
-    <category term="数据结构~" />
     <entry>
         <id>https://astolfocat.github.io/2021/10/31/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</id>
         <title>学习日记</title>
         <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
-        <content type="html">&lt;p&gt;这里就负责记录学习日记吧～&lt;/p&gt;
+        <content type="html">&lt;p&gt;这里就负责记录学习日记吧~&lt;/p&gt;
 </content>
         <category term="日记~" />
+        <updated>2021-10-30T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/</id>
+        <title>[数据结构] 二叉树</title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/"/>
+        <content type="html">&lt;h1 id=&#34;数据结构02-二叉树&#34;&gt;&lt;a href=&#34;#数据结构02-二叉树&#34; class=&#34;headerlink&#34; title=&#34;数据结构02_二叉树&#34;&gt;&lt;/a&gt;数据结构02_二叉树&lt;/h1&gt;&lt;p&gt;二叉树是巴拉巴拉巴拉巴拉……&lt;/p&gt;
+</content>
+        <category term="数据结构~" />
         <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -27,49 +36,34 @@
         <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/</id>
-        <title>[数据结构] 二叉树</title>
-        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/"/>
-        <content type="html">&lt;h1 id=&#34;数据结构02_二叉树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构02_二叉树&#34;&gt;#&lt;/a&gt; 数据结构 02_二叉树&lt;/h1&gt;
-&lt;p&gt;二叉树是巴拉巴拉巴拉巴拉……&lt;/p&gt;
+        <id>https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/</id>
+        <title>[数据结构] 链表</title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/"/>
+        <content type="html">&lt;h1 id=&#34;数据结构01-序言&#34;&gt;&lt;a href=&#34;#数据结构01-序言&#34; class=&#34;headerlink&#34; title=&#34;数据结构01_序言&#34;&gt;&lt;/a&gt;数据结构01_序言&lt;/h1&gt;&lt;p&gt;比如这是数据结构的第一篇笔记&lt;/p&gt;
 </content>
         <category term="数据结构~" />
-        <updated>2021-10-30T16:00:00.000Z</updated>
+        <updated>2021-10-29T16:00:00.000Z</updated>
     </entry>
     <entry>
         <id>https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</id>
         <title>博客书写格式</title>
         <link rel="alternate" href="https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/"/>
-        <content type="html">&lt;p&gt;从上面这三个短线开始的内容都会显示在首页的内容部分～&lt;br&gt;
- 这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了 QAQ）&lt;br&gt;
-title 是显示在博客主页的标题，以防空格报错可以用单引号括起来&lt;br&gt;
- date 是日期（不知道能不能自动填写呢）&lt;br&gt;
-categories 会按照分类来显示&lt;/p&gt;
+        <content type="html">&lt;p&gt;从上面这三个短线开始的内容都会显示在首页的内容部分~&lt;br&gt;这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）&lt;br&gt;title 是显示在博客主页的标题,以防空格报错可以用单引号括起来&lt;br&gt;date 是日期（不知道能不能自动填写呢）&lt;br&gt;categories 会按照分类来显示  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目前暂不设置分类（分类的设置有点点晕）&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;tags 会按照标签来显示&lt;/p&gt;
+&lt;p&gt;tags 会按照标签来显示  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;目前设置有以下标签：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;数据结构～&lt;/li&gt;
-&lt;li&gt;算法～&lt;/li&gt;
-&lt;li&gt;杂谈～&lt;/li&gt;
-&lt;li&gt;日记～&lt;/li&gt;
+&lt;li&gt;数据结构~&lt;/li&gt;
+&lt;li&gt;算法~&lt;/li&gt;
+&lt;li&gt;杂谈~&lt;/li&gt;
+&lt;li&gt;日记~&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 </content>
         <category term="杂谈~" />
-        <updated>2021-10-29T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/</id>
-        <title>[数据结构] 链表</title>
-        <link rel="alternate" href="https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/"/>
-        <content type="html">&lt;h1 id=&#34;数据结构01_序言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构01_序言&#34;&gt;#&lt;/a&gt; 数据结构 01_序言&lt;/h1&gt;
-&lt;p&gt;比如这是数据结构的第一篇笔记&lt;/p&gt;
-</content>
-        <category term="数据结构~" />
         <updated>2021-10-29T16:00:00.000Z</updated>
     </entry>
 </feed>
