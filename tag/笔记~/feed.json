@@ -1,9 +1,20 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "阿福の可爱猫窝 • All posts by \"数据结构~\" tag",
+    "title": "阿福の可爱猫窝 • All posts by \"笔记~\" tag",
     "description": "一只想要变可爱的男孩纸~",
     "home_page_url": "https://astolfocat.github.io",
     "items": [
+        {
+            "id": "https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "url": "https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "title": "算法01",
+            "date_published": "2021-10-30T16:00:00.000Z",
+            "content_html": "<p>等一个算法笔记（QAQ）</p>\n",
+            "tags": [
+                "笔记~",
+                "算法~"
+            ]
+        },
         {
             "id": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",
             "url": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",

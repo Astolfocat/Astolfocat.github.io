@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "阿福の可爱猫窝 • All posts by \"日记~\" tag",
-    "description": "想要变可爱~",
+    "description": "一只想要变可爱的男孩纸~",
     "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
@@ -9,7 +9,7 @@
             "url": "https://astolfocat.github.io/2021/10/31/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
             "title": "学习日记",
             "date_published": "2021-10-30T16:00:00.000Z",
-            "content_html": "<p>这里就负责记录学习日记吧～</p>\n",
+            "content_html": "<p>这里就负责记录学习日记吧~</p>\n",
             "tags": [
                 "日记~"
             ]

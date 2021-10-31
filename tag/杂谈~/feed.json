@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "阿福の可爱猫窝 • All posts by \"杂谈~\" tag",
-    "description": "想要变可爱~",
+    "description": "一只想要变可爱的男孩纸~",
     "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
@@ -9,7 +9,7 @@
             "url": "https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/",
             "title": "博客书写格式",
             "date_published": "2021-10-29T16:00:00.000Z",
-            "content_html": "<p>从上面这三个短线开始的内容都会显示在首页的内容部分～<br>\n 这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了 QAQ）<br>\ntitle 是显示在博客主页的标题，以防空格报错可以用单引号括起来<br>\n date 是日期（不知道能不能自动填写呢）<br>\ncategories 会按照分类来显示</p>\n<blockquote>\n<p>目前暂不设置分类（分类的设置有点点晕）</p>\n</blockquote>\n<p>tags 会按照标签来显示</p>\n<blockquote>\n<p>目前设置有以下标签：</p>\n<ul>\n<li>数据结构～</li>\n<li>算法～</li>\n<li>杂谈～</li>\n<li>日记～</li>\n</ul>\n</blockquote>\n",
+            "content_html": "<h1 id=\"博客书写格式\"><a href=\"#博客书写格式\" class=\"headerlink\" title=\"博客书写格式\"></a>博客书写格式</h1><p>从上面这三个短线开始的内容都会显示在首页的内容部分~<br>这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）<br>title 是显示在博客主页的标题,以防空格报错可以用单引号括起来<br>date 是日期（不知道能不能自动填写呢）<br>categories 会按照分类来显示  </p>\n<blockquote>\n<p>目前暂不设置分类（分类的设置有点点晕）</p>\n</blockquote>\n<p>tags 会按照标签来显示,标签可以设置多个  </p>\n<blockquote>\n<p>目前设置有以下标签：</p>\n<ul>\n<li>数据结构~</li>\n<li>算法~</li>\n<li>杂谈~</li>\n<li>日记~</li>\n<li>笔记~</li>\n</ul>\n</blockquote>\n<p>试验一下其他功能<br>!!看得到吗看得到吗看得到吗!!<br>!!选中我才能看见我哦~!!{.bulr}  </p>\n<p>以下是note提醒块  </p>\n<p>:::default<br>默认默认<br>:::</p>\n<p>:::primary<br>基本基本<br>:::</p>\n<p>:::info<br>提示提示<br>:::</p>\n<p>:::success<br>成功成功<br>:::</p>\n<p>:::warning<br>警告警告<br>:::</p>\n<p>:::danger<br>危险危险<br>:::</p>\n<p>:::danger no-icon<br>危险危险<br>:::</p>\n",
             "tags": [
                 "杂谈~"
             ]

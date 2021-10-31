@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://astolfocat.github.io</id>
-    <title>阿福の可爱猫窝 • Posts by &#34;数据结构~&#34; tag</title>
+    <title>阿福の可爱猫窝 • Posts by &#34;笔记~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-30T16:00:00.000Z</updated>
     <category term="日记~" />
@@ -9,6 +9,16 @@
     <category term="数据结构~" />
     <category term="笔记~" />
     <category term="算法~" />
+    <entry>
+        <id>https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
+        <title>算法01</title>
+        <link rel="alternate" href="https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
+        <content type="html">&lt;p&gt;等一个算法笔记（QAQ）&lt;/p&gt;
+</content>
+        <category term="笔记~" />
+        <category term="算法~" />
+        <updated>2021-10-30T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/</id>
         <title>[数据结构] 二叉树</title>
