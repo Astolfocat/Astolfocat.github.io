@@ -7,20 +7,28 @@
         <language>zh-CN</language>
         <pubDate>Sat, 30 Oct 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0800</lastBuildDate>
-        <category>日记~</category>
         <category>杂谈~</category>
-        <category>数据结构~</category>
-        <category>笔记~</category>
         <category>算法~</category>
+        <category>笔记~</category>
+        <category>日记~</category>
+        <category>数据结构~</category>
         <item>
-            <guid isPermalink="true">https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</guid>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</guid>
             <title>博客书写格式</title>
-            <link>https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</link>
+            <link>https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</link>
             <category>杂谈~</category>
             <pubDate>Sat, 30 Oct 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;博客书写格式&#34;&gt;&lt;a href=&#34;#博客书写格式&#34; class=&#34;headerlink&#34; title=&#34;博客书写格式&#34;&gt;&lt;/a&gt;博客书写格式&lt;/h1&gt;&lt;p&gt;从上面这三个短线开始的内容都会显示在首页的内容部分~&lt;br&gt;这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）&lt;br&gt;title 是显示在博客主页的标题,以防空格报错可以用单引号括起来&lt;br&gt;date 是日期（不知道能不能自动填写呢）&lt;br&gt;categories 会按照分类来显示  &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;目前暂不设置分类（分类的设置有点点晕）&lt;/p&gt;
+&lt;p&gt;详情看这里→→→&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZ1dG1fY29udGVudD1ub3RlJnV0bV9tZWRpdW09c2VvX25vdGVzJnV0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=&#34;&gt;Hexo 一篇文章多个 categories&lt;/span&gt;&lt;br&gt;目前设置有以下分类：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;学习笔记note&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;算法Algorithm&lt;/li&gt;
+&lt;li&gt;数据结构DataStructure&lt;/li&gt;
+&lt;li&gt;计划plan&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;tags 会按照标签来显示,标签可以设置多个  &lt;/p&gt;
 &lt;blockquote&gt;

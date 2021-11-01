@@ -7,17 +7,17 @@
         <language>zh-CN</language>
         <pubDate>Sun, 31 Oct 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0800</lastBuildDate>
-        <category>日记~</category>
         <category>杂谈~</category>
-        <category>数据结构~</category>
-        <category>笔记~</category>
         <category>算法~</category>
+        <category>笔记~</category>
+        <category>日记~</category>
+        <category>数据结构~</category>
         <item>
-            <guid isPermalink="true">https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
             <title>算法01</title>
-            <link>https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
-            <category>笔记~</category>
+            <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Sun, 31 Oct 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;等一个算法笔记（QAQ）&lt;/p&gt;
  ]]></description>

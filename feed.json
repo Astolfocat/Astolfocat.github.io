@@ -5,9 +5,20 @@
     "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
-            "id": "https://astolfocat.github.io/2021/10/31/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
-            "url": "https://astolfocat.github.io/2021/10/31/%E5%85%B6%E4%BB%96%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
-            "title": "学习日记",
+            "id": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "url": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
+            "title": "算法01",
+            "date_published": "2021-10-30T16:00:00.000Z",
+            "content_html": "<p>等一个算法笔记（QAQ）</p>\n",
+            "tags": [
+                "算法~",
+                "笔记~"
+            ]
+        },
+        {
+            "id": "https://astolfocat.github.io/MyCategories/note/plan/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E6%97%A5%E5%BF%97/",
+            "url": "https://astolfocat.github.io/MyCategories/note/plan/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E6%97%A5%E5%BF%97/",
+            "title": "学习计划日志",
             "date_published": "2021-10-30T16:00:00.000Z",
             "content_html": "<p>这里就负责记录学习日记吧~</p>\n",
             "tags": [
@@ -15,46 +26,35 @@
             ]
         },
         {
-            "id": "https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
-            "url": "https://astolfocat.github.io/2021/10/31/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
-            "title": "算法01",
-            "date_published": "2021-10-30T16:00:00.000Z",
-            "content_html": "<p>等一个算法笔记（QAQ）</p>\n",
-            "tags": [
-                "笔记~",
-                "算法~"
-            ]
-        },
-        {
-            "id": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",
-            "url": "https://astolfocat.github.io/2021/10/31/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",
+            "id": "https://astolfocat.github.io/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",
+            "url": "https://astolfocat.github.io/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/",
             "title": "[数据结构] 二叉树",
             "date_published": "2021-10-30T16:00:00.000Z",
             "content_html": "<h1 id=\"数据结构02-二叉树\"><a href=\"#数据结构02-二叉树\" class=\"headerlink\" title=\"数据结构02_二叉树\"></a>数据结构02_二叉树</h1><p>二叉树是巴拉巴拉巴拉巴拉……</p>\n",
             "tags": [
-                "数据结构~",
-                "笔记~"
+                "笔记~",
+                "数据结构~"
             ]
         },
         {
-            "id": "https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/",
-            "url": "https://astolfocat.github.io/2021/10/30/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/",
+            "id": "https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/",
+            "url": "https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/",
             "title": "博客书写格式",
             "date_published": "2021-10-29T16:00:00.000Z",
-            "content_html": "<h1 id=\"博客书写格式\"><a href=\"#博客书写格式\" class=\"headerlink\" title=\"博客书写格式\"></a>博客书写格式</h1><p>从上面这三个短线开始的内容都会显示在首页的内容部分~<br>这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）<br>title 是显示在博客主页的标题,以防空格报错可以用单引号括起来<br>date 是日期（不知道能不能自动填写呢）<br>categories 会按照分类来显示  </p>\n<blockquote>\n<p>目前暂不设置分类（分类的设置有点点晕）</p>\n</blockquote>\n<p>tags 会按照标签来显示,标签可以设置多个  </p>\n<blockquote>\n<p>目前设置有以下标签：</p>\n<ul>\n<li>数据结构~</li>\n<li>算法~</li>\n<li>杂谈~</li>\n<li>日记~</li>\n<li>笔记~</li>\n</ul>\n</blockquote>\n<p>试验一下其他功能<br>!!看得到吗看得到吗看得到吗!!<br>!!选中我才能看见我哦~!!{.bulr}  </p>\n<p>以下是note提醒块  </p>\n<p>:::default<br>默认默认<br>:::</p>\n<p>:::primary<br>基本基本<br>:::</p>\n<p>:::info<br>提示提示<br>:::</p>\n<p>:::success<br>成功成功<br>:::</p>\n<p>:::warning<br>警告警告<br>:::</p>\n<p>:::danger<br>危险危险<br>:::</p>\n<p>:::danger no-icon<br>危险危险<br>:::</p>\n",
+            "content_html": "<h1 id=\"博客书写格式\"><a href=\"#博客书写格式\" class=\"headerlink\" title=\"博客书写格式\"></a>博客书写格式</h1><p>从上面这三个短线开始的内容都会显示在首页的内容部分~<br>这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）<br>title 是显示在博客主页的标题,以防空格报错可以用单引号括起来<br>date 是日期（不知道能不能自动填写呢）<br>categories 会按照分类来显示  </p>\n<blockquote>\n<p>详情看这里→→→<span class=\"exturl\" data-url=\"aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZ1dG1fY29udGVudD1ub3RlJnV0bV9tZWRpdW09c2VvX25vdGVzJnV0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=\">Hexo 一篇文章多个 categories</span><br>目前设置有以下分类：</p>\n<blockquote>\n<p>学习笔记note</p>\n<ul>\n<li>算法Algorithm</li>\n<li>数据结构DataStructure</li>\n<li>计划plan</li>\n</ul>\n</blockquote>\n</blockquote>\n<p>tags 会按照标签来显示,标签可以设置多个  </p>\n<blockquote>\n<p>目前设置有以下标签：</p>\n<ul>\n<li>数据结构~</li>\n<li>算法~</li>\n<li>杂谈~</li>\n<li>日记~</li>\n<li>笔记~</li>\n</ul>\n</blockquote>\n<p>试验一下其他功能<br>!!看得到吗看得到吗看得到吗!!<br>!!选中我才能看见我哦~!!{.bulr}  </p>\n<p>以下是note提醒块  </p>\n<p>:::default<br>默认默认<br>:::</p>\n<p>:::primary<br>基本基本<br>:::</p>\n<p>:::info<br>提示提示<br>:::</p>\n<p>:::success<br>成功成功<br>:::</p>\n<p>:::warning<br>警告警告<br>:::</p>\n<p>:::danger<br>危险危险<br>:::</p>\n<p>:::danger no-icon<br>危险危险<br>:::</p>\n",
             "tags": [
                 "杂谈~"
             ]
         },
         {
-            "id": "https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/",
-            "url": "https://astolfocat.github.io/2021/10/30/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/",
+            "id": "https://astolfocat.github.io/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/",
+            "url": "https://astolfocat.github.io/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/",
             "title": "[数据结构] 链表",
             "date_published": "2021-10-29T16:00:00.000Z",
             "content_html": "<h1 id=\"数据结构01-序言\"><a href=\"#数据结构01-序言\" class=\"headerlink\" title=\"数据结构01_序言\"></a>数据结构01_序言</h1><p>比如这是数据结构的第一篇笔记</p>\n",
             "tags": [
-                "数据结构~",
-                "笔记~"
+                "笔记~",
+                "数据结构~"
             ]
         }
     ]
