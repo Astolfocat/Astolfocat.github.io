@@ -4,11 +4,11 @@
     <title>阿福の可爱猫窝 • Posts by &#34;算法~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-30T16:00:00.000Z</updated>
-    <category term="杂谈~" />
-    <category term="数据结构~" />
-    <category term="笔记~" />
     <category term="算法~" />
+    <category term="笔记~" />
+    <category term="杂谈~" />
     <category term="Python~" />
+    <category term="数据结构~" />
     <category term="日记~" />
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
@@ -16,8 +16,8 @@
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
         <content type="html">&lt;p&gt;等一个算法笔记（QAQ）&lt;/p&gt;
 </content>
-        <category term="笔记~" />
         <category term="算法~" />
+        <category term="笔记~" />
         <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
 </feed>

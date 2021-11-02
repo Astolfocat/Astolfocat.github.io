@@ -4,11 +4,11 @@
     <title>阿福の可爱猫窝 • Posts by &#34;计划&#34; category</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-11-01T16:00:00.000Z</updated>
-    <category term="杂谈~" />
-    <category term="数据结构~" />
-    <category term="笔记~" />
     <category term="算法~" />
+    <category term="笔记~" />
+    <category term="杂谈~" />
     <category term="Python~" />
+    <category term="数据结构~" />
     <category term="日记~" />
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</id>
@@ -37,7 +37,7 @@
 &lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
-&lt;p&gt;今日复习 Python 的期末考试&lt;/p&gt;
+&lt;p&gt;今日复习 Python 的期末考试叭&lt;/p&gt;
 </content>
         <category term="笔记~" />
         <category term="日记~" />

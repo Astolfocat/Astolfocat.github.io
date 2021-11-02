@@ -7,11 +7,11 @@
         <language>zh-CN</language>
         <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
-        <category>杂谈~</category>
-        <category>数据结构~</category>
-        <category>笔记~</category>
         <category>算法~</category>
+        <category>笔记~</category>
+        <category>杂谈~</category>
         <category>Python~</category>
+        <category>数据结构~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_11/</guid>
@@ -43,7 +43,7 @@
 &lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
-&lt;p&gt;今日复习 Python 的期末考试&lt;/p&gt;
+&lt;p&gt;今日复习 Python 的期末考试叭&lt;/p&gt;
  ]]></description>
         </item>
         <item>
