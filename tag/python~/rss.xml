@@ -10,12 +10,145 @@
         <category>杂谈~</category>
         <category>数据结构~</category>
         <category>笔记~</category>
-        <category>Python~</category>
         <category>算法~</category>
+        <category>Python~</category>
         <category>日记~</category>
         <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/rename/</guid>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
             <title>Python期末复习</title>
+            <link>https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</link>
+            <category>笔记~</category>
+            <category>Python~</category>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;python-期末复习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python-期末复习&#34;&gt;#&lt;/a&gt; Python 期末复习&lt;/h1&gt;
+&lt;h2 id=&#34;变量&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变量&#34;&gt;#&lt;/a&gt; 变量&lt;/h2&gt;
+&lt;h3 id=&#34;案例一&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例一&#34;&gt;#&lt;/a&gt; 案例一&lt;/h3&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = &lt;span class=&#34;string&#34;&gt;&amp;#x27;hello&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;b = a&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = &lt;span class=&#34;string&#34;&gt;&amp;#x27;world&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(b)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;hello&lt;br&gt;
+ 原因：一切数据皆对象，变量指向数据对象&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;案例二&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例二&#34;&gt;#&lt;/a&gt; 案例二&lt;/h3&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x1 = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x2 = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x1 &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; x2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x3 = x2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x2 &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; x3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x2.append(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(x2)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(x3)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;False&lt;br&gt;
+True&lt;br&gt;
+[1, 2, 3]&lt;br&gt;
+[1, 2, 3]&lt;br&gt;
+ 原因：x1 和 x2 是两个地址，让 x2 = [1, 2] 实际上是让 x2 指向了一个新的对象（虽然这个对象和 x1 的值一样），但是如果写成 x3 = x2 的话，意思就是 x3 指向 x2 的对象，这个时候修改 x2 那么 x3 也会一起变化。&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;案例三&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例三&#34;&gt;#&lt;/a&gt; 案例三&lt;/h3&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x1 = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x2 = x1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;x1 = &lt;span class=&#34;number&#34;&gt;6&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(x1)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(x2)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;6&lt;br&gt;
+[1, 2]&lt;br&gt;
+ 原因：给 x1 重新赋值的时候，相当于 x1 指向了新的对象 6，但是 x2 还是指向 [1, 2]&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h2 id=&#34;序列&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#序列&#34;&gt;#&lt;/a&gt; 序列&lt;/h2&gt;
+&lt;h3 id=&#34;列表-list&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#列表-list&#34;&gt;#&lt;/a&gt; 列表 List&lt;/h3&gt;
+&lt;p&gt;列表是由一系列按照特定顺序排列的元素组成的可变序列&lt;/p&gt;
+&lt;h4 id=&#34;案例一-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例一-2&#34;&gt;#&lt;/a&gt; 案例一&lt;/h4&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; x &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; a:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    a.remove(x)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(a)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;[2, 4]&lt;br&gt;
+ 原因：x 依次取 a 中的第 1，2…… 个元素（是以 remove 后的新列表为标准的）&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h4 id=&#34;案例二-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例二-2&#34;&gt;#&lt;/a&gt; 案例二&lt;/h4&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; x &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; a:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    a.pop()&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(a)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;[1, 2]&lt;br&gt;
+ 原因：pop () 括号中没有参数的时候，删除列表最后一个元素，第三次循环的时候列表没有第三个元素了所以结束循环。&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h4 id=&#34;案例三-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例三-2&#34;&gt;#&lt;/a&gt; 案例三&lt;/h4&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;4&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; x &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;built_in&#34;&gt;range&lt;/span&gt;(&lt;span class=&#34;built_in&#34;&gt;len&lt;/span&gt;(a)):&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;keyword&#34;&gt;del&lt;/span&gt; a[&lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(a)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;[]&lt;br&gt;
+ 原因：x 依次取 1, 2, 3, 4, 循环四次故元素被删除干净。&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h3 id=&#34;元组-tuple&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#元组-tuple&#34;&gt;#&lt;/a&gt; 元组 tuple&lt;/h3&gt;
+&lt;p&gt;元组是由一系列按特定顺序排列的元素组成的不可变序列&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;不可变对象：对象存放在地址中的值不会改变，所谓的改变是创建了一个新地址放新对象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;b = &lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; b&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;True&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;ul&gt;
+&lt;li&gt;可变对象：对象存放在地址中的值会原地改变，对于相同的值的不同对象，内存中会存在不同的对象（比如列表和下面的例子）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;b = [&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;, &lt;span class=&#34;number&#34;&gt;2&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a &lt;span class=&#34;keyword&#34;&gt;is&lt;/span&gt; b&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;False&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;h4 id=&#34;案例一-3&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#案例一-3&#34;&gt;#&lt;/a&gt; 案例一&lt;/h4&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt; &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a = [&lt;span class=&#34;string&#34;&gt;&amp;#x27;jn&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;wh&amp;#x27;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;b = [&lt;span class=&#34;string&#34;&gt;&amp;#x27;jn&amp;#x27;&lt;/span&gt;, &lt;span class=&#34;string&#34;&gt;&amp;#x27;wh&amp;#x27;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;c = a&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;a += [&lt;span class=&#34;string&#34;&gt;&amp;#x27;qd&amp;#x27;&lt;/span&gt;]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(a, b, c)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;结果为&lt;/summary&gt;&lt;div&gt;
+&lt;p&gt;[‘jn’, ‘wh’, ‘qd’][‘jn’, ‘wh’][‘jn’, ‘wh’, ‘qd’]&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;注意，创建一个元素的元组要加逗号&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;A = (&lt;span class=&#34;string&#34;&gt;&amp;#x27;山东大学&amp;#x27;&lt;/span&gt;,)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&#34;字典-dictionary&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#字典-dictionary&#34;&gt;#&lt;/a&gt; 字典 dictionary&lt;/h3&gt;
+&lt;p&gt;字典是无序的可变序列，保存的内容是以键值对的形式存放的，可以一个键对多个值&lt;br&gt;
+字典又称&lt;span class=&#34;label primary&#34;&gt;关联数组&lt;/span&gt;或者&lt;span class=&#34;label primary&#34;&gt;散列表&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;s&gt;字典的内容好多啊，不想打了，去看 ppt 吧&lt;/s&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;集合-set&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#集合-set&#34;&gt;#&lt;/a&gt; 集合 set&lt;/h3&gt;
+&lt;p&gt;集合是无序不重复的元素组合&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可变集合 set&lt;/li&gt;
+&lt;li&gt;不可变集合 frozenset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;数据结构&lt;/th&gt;
+&lt;th&gt;是否可变&lt;/th&gt;
+&lt;th&gt;是否重复&lt;/th&gt;
+&lt;th&gt;是否有序&lt;/th&gt;
+&lt;th&gt;定义符号&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;列表 list&lt;/td&gt;
+&lt;td&gt;可变&lt;/td&gt;
+&lt;td&gt;可重复&lt;/td&gt;
+&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;[]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;元组 tuple&lt;/td&gt;
+&lt;td&gt;不可变&lt;/td&gt;
+&lt;td&gt;可重复&lt;/td&gt;
+&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;()&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr key:value=&#34;&#34;&gt;
+&lt;td&gt;字典 dictionary&lt;/td&gt;
+&lt;td&gt;可变&lt;/td&gt;
+&lt;td&gt;可重复&lt;/td&gt;
+&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;集合 set&lt;/td&gt;
+&lt;td&gt;不可变&lt;/td&gt;
+&lt;td&gt;不可重复&lt;/td&gt;
+&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;{}&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/rename/</guid>
+            <title>文件批量重命名</title>
             <link>https://astolfocat.github.io/MyCategories/note/Python/rename/</link>
             <category>笔记~</category>
             <category>Python~</category>
@@ -26,17 +159,6 @@
 &lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt;  os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
-            <title>Python期末复习</title>
-            <link>https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</link>
-            <category>笔记~</category>
-            <category>Python~</category>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;python-期末复习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python-期末复习&#34;&gt;#&lt;/a&gt; Python 期末复习&lt;/h1&gt;
-&lt;h2 id=&#34;123&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#123&#34;&gt;#&lt;/a&gt; 123&lt;/h2&gt;
- ]]></description>
         </item>
     </channel>
 </rss>
