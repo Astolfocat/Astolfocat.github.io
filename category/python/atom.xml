@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://astolfocat.github.io</id>
+    <title>阿福の可爱猫窝 • Posts by &#34;python&#34; category</title>
+    <link href="https://astolfocat.github.io" />
+    <updated>2021-11-01T16:00:00.000Z</updated>
+    <category term="杂谈~" />
+    <category term="算法~" />
+    <category term="笔记~" />
+    <category term="Python~" />
+    <category term="数据结构~" />
+    <category term="日记~" />
+    <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</id>
+        <title>Python期末复习</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/"/>
+        <content type="html">&lt;h1 id=&#34;python-期末复习&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#python-期末复习&#34;&gt;#&lt;/a&gt; Python 期末复习&lt;/h1&gt;
+&lt;h2 id=&#34;123&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#123&#34;&gt;#&lt;/a&gt; 123&lt;/h2&gt;
+</content>
+        <category term="笔记~" />
+        <category term="Python~" />
+        <updated>2021-11-01T16:00:00.000Z</updated>
+    </entry>
+</feed>

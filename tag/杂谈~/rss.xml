@@ -8,9 +8,10 @@
         <pubDate>Sat, 30 Oct 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Sat, 30 Oct 2021 00:00:00 +0800</lastBuildDate>
         <category>杂谈~</category>
-        <category>数据结构~</category>
-        <category>笔记~</category>
         <category>算法~</category>
+        <category>笔记~</category>
+        <category>Python~</category>
+        <category>数据结构~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</guid>
@@ -34,6 +35,7 @@ categories 会按照分类来显示&lt;/p&gt;
 &lt;li&gt;数据结构 DataStructure&lt;/li&gt;
 &lt;li&gt;计划 plan&lt;/li&gt;
 &lt;li&gt;其它 others&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;

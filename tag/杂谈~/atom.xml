@@ -5,9 +5,10 @@
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-29T16:00:00.000Z</updated>
     <category term="杂谈~" />
-    <category term="数据结构~" />
-    <category term="笔记~" />
     <category term="算法~" />
+    <category term="笔记~" />
+    <category term="Python~" />
+    <category term="数据结构~" />
     <category term="日记~" />
     <entry>
         <id>https://astolfocat.github.io/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</id>
@@ -29,6 +30,7 @@ categories 会按照分类来显示&lt;/p&gt;
 &lt;li&gt;数据结构 DataStructure&lt;/li&gt;
 &lt;li&gt;计划 plan&lt;/li&gt;
 &lt;li&gt;其它 others&lt;/li&gt;
+&lt;li&gt;Python&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
