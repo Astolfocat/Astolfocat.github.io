@@ -4,9 +4,9 @@
     <title>阿福の可爱猫窝 • Posts by &#34;杂谈~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-29T16:00:00.000Z</updated>
+    <category term="杂谈~" />
     <category term="数据结构~" />
     <category term="笔记~" />
-    <category term="杂谈~" />
     <category term="算法~" />
     <category term="日记~" />
     <entry>
@@ -28,6 +28,7 @@ categories 会按照分类来显示&lt;/p&gt;
 &lt;li&gt;算法 Algorithm&lt;/li&gt;
 &lt;li&gt;数据结构 DataStructure&lt;/li&gt;
 &lt;li&gt;计划 plan&lt;/li&gt;
+&lt;li&gt;其它 others&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;/blockquote&gt;
@@ -42,31 +43,6 @@ categories 会按照分类来显示&lt;/p&gt;
 &lt;li&gt;笔记～&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;试验一下其他功能&lt;br&gt;
-&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;看得到吗看得到吗看得到吗&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;spoiler bulr&#34; title=&#34;...&#34;&gt;选中我才能看见我哦～&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;以下是 note 提醒块&lt;/p&gt;
-&lt;div class=&#34;note default&#34;&gt;
-&lt;p&gt;默认默认&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note primary&#34;&gt;
-&lt;p&gt;基本基本&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;提示提示&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note success&#34;&gt;
-&lt;p&gt;成功成功&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note warning&#34;&gt;
-&lt;p&gt;警告警告&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note danger&#34;&gt;
-&lt;p&gt;危险危险&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;note danger no-icon&#34;&gt;
-&lt;p&gt;危险危险&lt;/p&gt;
-&lt;/div&gt;
 </content>
         <category term="杂谈~" />
         <updated>2021-10-29T16:00:00.000Z</updated>

@@ -4,9 +4,9 @@
     <title>阿福の可爱猫窝 • Posts by &#34;日记~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-11-01T16:00:00.000Z</updated>
+    <category term="杂谈~" />
     <category term="数据结构~" />
     <category term="笔记~" />
-    <category term="杂谈~" />
     <category term="算法~" />
     <category term="日记~" />
     <entry>
@@ -99,7 +99,12 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;s&gt;明天再想运营体系吧&lt;/s&gt;&lt;/p&gt;
 &lt;h2 id=&#34;20211102&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102&#34;&gt;#&lt;/a&gt; 2021.11.02&lt;/h2&gt;
 &lt;p&gt;.md 文件直接在电脑上编辑，然后上传到 GitHub 和博客上面吧（这样大概方便一点？）&lt;br&gt;
-笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;/p&gt;
+笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;br&gt;
+今天写的时候报了个小错误如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
 </content>
         <category term="笔记~" />
         <category term="日记~" />
