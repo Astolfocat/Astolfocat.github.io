@@ -8,44 +8,11 @@
         <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
         <category>杂谈~</category>
-        <category>算法~</category>
+        <category>数据结构~</category>
         <category>笔记~</category>
         <category>Python~</category>
-        <category>数据结构~</category>
+        <category>算法~</category>
         <category>日记~</category>
-        <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_11/</guid>
-            <title>[计划] 11月学习计划日志</title>
-            <link>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</link>
-            <category>笔记~</category>
-            <category>日记~</category>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;202111月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202111月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.11 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211101&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101&#34;&gt;#&lt;/a&gt; 2021.11.01&lt;/h2&gt;
-&lt;p&gt;新的一个月开始啦，以后博客的记录方法是要先写好.md 文件放进博客文件夹中，再调出 cmd 窗口进行 hexo g + hexo d&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;（好麻烦啊又要在 GitHub 上更新又要在博客更新又要在本地保存文件）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;今天的目标就是思考一个比较好的运营体系出来。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;参考资料：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZhbXA7dXRtX2NvbnRlbnQ9bm90ZSZhbXA7dXRtX21lZGl1bT1zZW9fbm90ZXMmYW1wO3V0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=&#34;&gt;Hexo 一篇文章多个 categories&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;博客弄得差不多了（关于部分的模块还不会弄 QAQ）&lt;br&gt;
-&lt;s&gt;明天再想运营体系吧&lt;/s&gt;&lt;/p&gt;
-&lt;h2 id=&#34;20211102&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102&#34;&gt;#&lt;/a&gt; 2021.11.02&lt;/h2&gt;
-&lt;p&gt;.md 文件直接在电脑上编辑，然后上传到 GitHub 和博客上面吧（这样大概方便一点？）&lt;br&gt;
-笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;br&gt;
-今天写的时候报了个小错误如下：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
-&lt;p&gt;今日复习 Python 的期末考试&lt;/p&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
             <title>[计划] 10月学习计划日志</title>
@@ -113,6 +80,39 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
 官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
 那么，十月份，圆满结束！！！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_11/</guid>
+            <title>[计划] 11月学习计划日志</title>
+            <link>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</link>
+            <category>笔记~</category>
+            <category>日记~</category>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;202111月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202111月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.11 月学习计划及日志&lt;/h1&gt;
+&lt;h2 id=&#34;20211101&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101&#34;&gt;#&lt;/a&gt; 2021.11.01&lt;/h2&gt;
+&lt;p&gt;新的一个月开始啦，以后博客的记录方法是要先写好.md 文件放进博客文件夹中，再调出 cmd 窗口进行 hexo g + hexo d&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;（好麻烦啊又要在 GitHub 上更新又要在博客更新又要在本地保存文件）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;今天的目标就是思考一个比较好的运营体系出来。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;参考资料：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZhbXA7dXRtX2NvbnRlbnQ9bm90ZSZhbXA7dXRtX21lZGl1bT1zZW9fbm90ZXMmYW1wO3V0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=&#34;&gt;Hexo 一篇文章多个 categories&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;博客弄得差不多了（关于部分的模块还不会弄 QAQ）&lt;br&gt;
+&lt;s&gt;明天再想运营体系吧&lt;/s&gt;&lt;/p&gt;
+&lt;h2 id=&#34;20211102&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102&#34;&gt;#&lt;/a&gt; 2021.11.02&lt;/h2&gt;
+&lt;p&gt;.md 文件直接在电脑上编辑，然后上传到 GitHub 和博客上面吧（这样大概方便一点？）&lt;br&gt;
+笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;br&gt;
+今天写的时候报了个小错误如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
+&lt;p&gt;今日复习 Python 的期末考试&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

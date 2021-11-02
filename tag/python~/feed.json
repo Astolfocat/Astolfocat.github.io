@@ -5,6 +5,17 @@
     "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
+            "id": "https://astolfocat.github.io/MyCategories/note/Python/rename/",
+            "url": "https://astolfocat.github.io/MyCategories/note/Python/rename/",
+            "title": "Python期末复习",
+            "date_published": "2021-11-01T16:00:00.000Z",
+            "content_html": "<h2 id=\"批量重命名\"><a class=\"markdownIt-Anchor\" href=\"#批量重命名\">#</a> 批量重命名</h2>\n<p>下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）</p>\n<ul>\n<li>因为比较简单所以就不做批注了叭</li>\n</ul>\n<figure class=\"highlight python\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span class=\"line\">5</span><br><span class=\"line\">6</span><br><span class=\"line\">7</span><br><span class=\"line\">8</span><br><span class=\"line\">9</span><br><span class=\"line\">10</span><br><span class=\"line\">11</span><br><span class=\"line\">12</span><br><span class=\"line\">13</span><br></pre></td><td class=\"code\"><pre><span class=\"line\"><span class=\"comment\"># coding = gbk</span></span><br><span class=\"line\"><span class=\"keyword\">import</span>  os</span><br><span class=\"line\"><span class=\"keyword\">import</span> sys</span><br><span class=\"line\"></span><br><span class=\"line\">path = <span class=\"string\">&#x27;F:\\\\Pictures\\\\photogallery\\\\Astolfo\\\\&#x27;</span></span><br><span class=\"line\">file_names = os.listdir(path)</span><br><span class=\"line\">n = <span class=\"number\">0</span></span><br><span class=\"line\"><span class=\"keyword\">for</span> name <span class=\"keyword\">in</span> file_names:</span><br><span class=\"line\">    oldname = path+file_names[n]</span><br><span class=\"line\">    newname = path+<span class=\"string\">&#x27;Astolfo_&#x27;</span>+<span class=\"built_in\">str</span>(n+<span class=\"number\">1</span>).zfill(<span class=\"number\">3</span>)+<span class=\"string\">&#x27;.jpg&#x27;</span></span><br><span class=\"line\">    os.rename(oldname, newname)</span><br><span class=\"line\">    <span class=\"built_in\">print</span>(oldname,<span class=\"string\">&#x27;---&gt;&#x27;</span>,newname)</span><br><span class=\"line\">    n+=<span class=\"number\">1</span></span><br></pre></td></tr></table></figure>",
+            "tags": [
+                "笔记~",
+                "Python~"
+            ]
+        },
+        {
             "id": "https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/",
             "url": "https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/",
             "title": "Python期末复习",
