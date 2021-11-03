@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>阿福の可爱猫窝 • Posts by &#34;计划&#34; category</title>
+        <title>阿福の可爱猫窝 • Posts by &#34;日记计划&#34; category</title>
         <link>https://astolfocat.github.io</link>
         <description>一只想要变可爱的男孩纸~</description>
         <language>zh-CN</language>
         <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
-        <category>杂谈~</category>
-        <category>笔记~</category>
-        <category>Python~</category>
         <category>数据结构~</category>
+        <category>笔记~</category>
+        <category>杂谈~</category>
+        <category>Python~</category>
         <category>算法~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
-            <title>[计划] 10月学习计划日志</title>
+            <title>10月学习计划日志</title>
             <link>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</link>
             <category>笔记~</category>
             <category>日记~</category>
@@ -84,7 +84,7 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
         </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_11/</guid>
-            <title>[计划] 11月学习计划日志</title>
+            <title>11月学习计划日志</title>
             <link>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</link>
             <category>笔记~</category>
             <category>日记~</category>

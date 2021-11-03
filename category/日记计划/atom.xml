@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://astolfocat.github.io</id>
-    <title>阿福の可爱猫窝 • Posts by &#34;计划&#34; category</title>
+    <title>阿福の可爱猫窝 • Posts by &#34;日记计划&#34; category</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-11-01T16:00:00.000Z</updated>
-    <category term="杂谈~" />
-    <category term="笔记~" />
-    <category term="Python~" />
     <category term="数据结构~" />
+    <category term="笔记~" />
+    <category term="杂谈~" />
+    <category term="Python~" />
     <category term="算法~" />
     <category term="日记~" />
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</id>
-        <title>[计划] 10月学习计划日志</title>
+        <title>10月学习计划日志</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/plan/2021_10/"/>
         <content type="html">&lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
 &lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
@@ -81,7 +81,7 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
     </entry>
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</id>
-        <title>[计划] 11月学习计划日志</title>
+        <title>11月学习计划日志</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/plan/2021_11/"/>
         <content type="html">&lt;h1 id=&#34;202111月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202111月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.11 月学习计划及日志&lt;/h1&gt;
 &lt;h2 id=&#34;20211101&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101&#34;&gt;#&lt;/a&gt; 2021.11.01&lt;/h2&gt;
