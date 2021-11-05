@@ -9,9 +9,9 @@
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
         <category>数据结构~</category>
         <category>笔记~</category>
+        <category>算法~</category>
         <category>杂谈~</category>
         <category>Python~</category>
-        <category>算法~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
@@ -90,7 +90,7 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
             <category>日记~</category>
             <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;202111月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202111月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.11 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211101&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101&#34;&gt;#&lt;/a&gt; 2021.11.01&lt;/h2&gt;
+&lt;h2 id=&#34;20211101-mon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101-mon&#34;&gt;#&lt;/a&gt; 2021.11.01 Mon&lt;/h2&gt;
 &lt;p&gt;新的一个月开始啦，以后博客的记录方法是要先写好.md 文件放进博客文件夹中，再调出 cmd 窗口进行 hexo g + hexo d&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;（好麻烦啊又要在 GitHub 上更新又要在博客更新又要在本地保存文件）&lt;/li&gt;
@@ -104,7 +104,7 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;博客弄得差不多了（关于部分的模块还不会弄 QAQ）&lt;br&gt;
 &lt;s&gt;明天再想运营体系吧&lt;/s&gt;&lt;/p&gt;
-&lt;h2 id=&#34;20211102&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102&#34;&gt;#&lt;/a&gt; 2021.11.02&lt;/h2&gt;
+&lt;h2 id=&#34;20211102-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102-tue&#34;&gt;#&lt;/a&gt; 2021.11.02 Tue&lt;/h2&gt;
 &lt;p&gt;.md 文件直接在电脑上编辑，然后上传到 GitHub 和博客上面吧（这样大概方便一点？）&lt;br&gt;
 笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;br&gt;
 今天写的时候报了个小错误如下：&lt;/p&gt;
@@ -113,8 +113,16 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
 &lt;p&gt;今日复习 Python 的期末考试叭&lt;/p&gt;
-&lt;h2 id=&#34;20211103&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211103&#34;&gt;#&lt;/a&gt; 2021.11.03&lt;/h2&gt;
+&lt;h2 id=&#34;20211103-wed&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211103-wed&#34;&gt;#&lt;/a&gt; 2021.11.03 Wed&lt;/h2&gt;
 &lt;p&gt;继续复习 python 期末考试，顺便把模电的两个拖欠的实验交了（模电真的不会哇啊啊啊）&lt;/p&gt;
+&lt;h2 id=&#34;20211104-thu&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211104-thu&#34;&gt;#&lt;/a&gt; 2021.11.04 Thu&lt;/h2&gt;
+&lt;p&gt;python 期末考试结束，手写程序手写 debug 太恐怖了，最后居然还要写出本学期知识体系（趴）&lt;br&gt;
+晚上举办路边天文～～（不能派派了，悲）~~&lt;/p&gt;
+&lt;h2 id=&#34;20211105-fri&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211105-fri&#34;&gt;#&lt;/a&gt; 2021.11.05 Fri&lt;/h2&gt;
+&lt;p&gt;今天派了一上午，ASH 好帅啊（痴）&lt;br&gt;
+下午模电课笔记本忘充电就拿去教室了（我好傻），于是水了半天课看了一下贪心算法的例题。&lt;br&gt;
+晚上把模电第六章作业做完了，天文望远镜 ppt 也提交完了，好耶～&lt;br&gt;
+ 快乐的周末要来辽！！！！！！！！！！！&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

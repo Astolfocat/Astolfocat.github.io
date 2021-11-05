@@ -5,14 +5,36 @@
         <link>https://astolfocat.github.io</link>
         <description>一只想要变可爱的男孩纸~</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 31 Oct 2021 00:00:00 +0800</pubDate>
-        <lastBuildDate>Sun, 31 Oct 2021 00:00:00 +0800</lastBuildDate>
+        <pubDate>Thu, 04 Nov 2021 00:00:00 +0800</pubDate>
+        <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0800</lastBuildDate>
         <category>数据结构~</category>
         <category>笔记~</category>
+        <category>算法~</category>
         <category>杂谈~</category>
         <category>Python~</category>
-        <category>算法~</category>
         <category>日记~</category>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</guid>
+            <title>[算法] 贪心算法</title>
+            <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</link>
+            <category>笔记~</category>
+            <category>算法~</category>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;贪心算法简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法简介&#34;&gt;#&lt;/a&gt; 贪心算法简介&lt;/h2&gt;
+&lt;h3 id=&#34;贪心算法基本思想&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法基本思想&#34;&gt;#&lt;/a&gt; 贪心算法基本思想&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;每一步都做出当前看来最好的选择&lt;/li&gt;
+&lt;li&gt;希望通过局部最优选择达到全局最优选择&lt;/li&gt;
+&lt;li&gt;不一定总产生最优解&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;贪心算法产生最优解的条件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法产生最优解的条件&#34;&gt;#&lt;/a&gt; 贪心算法产生最优解的条件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;最优子结构&lt;/li&gt;
+&lt;li&gt;贪心选择性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
             <title>[算法] 广度优先搜索BFS</title>

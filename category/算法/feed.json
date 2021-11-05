@@ -5,6 +5,17 @@
     "home_page_url": "https://astolfocat.github.io",
     "items": [
         {
+            "id": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/",
+            "url": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/",
+            "title": "[算法] 贪心算法",
+            "date_published": "2021-11-03T16:00:00.000Z",
+            "content_html": "<h2 id=\"贪心算法简介\"><a class=\"markdownIt-Anchor\" href=\"#贪心算法简介\">#</a> 贪心算法简介</h2>\n<h3 id=\"贪心算法基本思想\"><a class=\"markdownIt-Anchor\" href=\"#贪心算法基本思想\">#</a> 贪心算法基本思想</h3>\n<ul>\n<li>每一步都做出当前看来最好的选择</li>\n<li>希望通过局部最优选择达到全局最优选择</li>\n<li>不一定总产生最优解</li>\n</ul>\n<h3 id=\"贪心算法产生最优解的条件\"><a class=\"markdownIt-Anchor\" href=\"#贪心算法产生最优解的条件\">#</a> 贪心算法产生最优解的条件</h3>\n<ul>\n<li>最优子结构</li>\n<li>贪心选择性</li>\n</ul>\n<h3 id=\"\"><a class=\"markdownIt-Anchor\" href=\"#\">#</a> </h3>\n",
+            "tags": [
+                "笔记~",
+                "算法~"
+            ]
+        },
+        {
             "id": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
             "url": "https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/",
             "title": "[算法] 广度优先搜索BFS",

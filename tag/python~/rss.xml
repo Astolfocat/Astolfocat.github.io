@@ -9,9 +9,9 @@
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
         <category>数据结构~</category>
         <category>笔记~</category>
+        <category>算法~</category>
         <category>杂谈~</category>
         <category>Python~</category>
-        <category>算法~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
@@ -118,17 +118,17 @@ True&lt;br&gt;
 &lt;td&gt;列表 list&lt;/td&gt;
 &lt;td&gt;可变&lt;/td&gt;
 &lt;td&gt;可重复&lt;/td&gt;
-&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;有序&lt;/td&gt;
 &lt;td&gt;[]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;元组 tuple&lt;/td&gt;
 &lt;td&gt;不可变&lt;/td&gt;
 &lt;td&gt;可重复&lt;/td&gt;
-&lt;td&gt;无序&lt;/td&gt;
+&lt;td&gt;有序&lt;/td&gt;
 &lt;td&gt;()&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr key:value=&#34;&#34;&gt;
+&lt;tr key=&#34;&#34; :=&#34;&#34; value=&#34;&#34;&gt;
 &lt;td&gt;字典 dictionary&lt;/td&gt;
 &lt;td&gt;可变&lt;/td&gt;
 &lt;td&gt;可重复&lt;/td&gt;
@@ -406,15 +406,15 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
 &lt;td&gt;匹配零或多次对象&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td n=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;‘{n}’&lt;/td&gt;
 &lt;td&gt;匹配 n 次对象&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td n,=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;‘{n,}’&lt;/td&gt;
 &lt;td&gt;匹配至少 n 次对象&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td n,m=&#34;&#34;&gt;&lt;/td&gt;
+&lt;td&gt;‘{n,m}’&lt;/td&gt;
 &lt;td&gt;匹配 n 到 m 次对象&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
