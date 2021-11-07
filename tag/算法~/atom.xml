@@ -3,43 +3,72 @@
     <id>https://astolfocat.github.io</id>
     <title>阿福の可爱猫窝 • Posts by &#34;算法~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
-    <updated>2021-11-03T16:00:00.000Z</updated>
-    <category term="数据结构~" />
-    <category term="笔记~" />
-    <category term="算法~" />
+    <updated>2021-11-05T16:00:00.000Z</updated>
     <category term="杂谈~" />
+    <category term="算法~" />
+    <category term="笔记~" />
     <category term="Python~" />
+    <category term="数据结构~" />
     <category term="日记~" />
+    <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/</id>
+        <title>[算法] 递推与前缀和</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/"/>
+        <content type="html">&lt;h2 id=&#34;算法概述&#34;&gt;&lt;a href=&#34;#算法概述&#34; class=&#34;headerlink&#34; title=&#34;算法概述&#34;&gt;&lt;/a&gt;算法概述&lt;/h2&gt;&lt;h3 id=&#34;递推的定义&#34;&gt;&lt;a href=&#34;#递推的定义&#34; class=&#34;headerlink&#34; title=&#34;递推的定义&#34;&gt;&lt;/a&gt;递推的定义&lt;/h3&gt;&lt;h4 id=&#34;递推&#34;&gt;&lt;a href=&#34;#递推&#34; class=&#34;headerlink&#34; title=&#34;递推&#34;&gt;&lt;/a&gt;递推&lt;/h4&gt;&lt;p&gt;通过计算前面的一些项得出序列中指定项的值。  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;斐波拉契数列&lt;/li&gt;
+&lt;li&gt;卡特兰数&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;前缀和&#34;&gt;&lt;a href=&#34;#前缀和&#34; class=&#34;headerlink&#34; title=&#34;前缀和&#34;&gt;&lt;/a&gt;前缀和&lt;/h4&gt;&lt;p&gt;是一种重要的预处理，，能大大降低查询的时间复杂度，可理解为数列的前n项和  &lt;/p&gt;
+&lt;p&gt;C++中有前缀和的标准库&lt;/p&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;std::partial_sum&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h4 id=&#34;差分数组&#34;&gt;&lt;a href=&#34;#差分数组&#34; class=&#34;headerlink&#34; title=&#34;差分数组&#34;&gt;&lt;/a&gt;差分数组&lt;/h4&gt;&lt;p&gt;差分是一种和前缀相对的策略，可以当作是求和的逆运算。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;定义：&lt;br&gt;$a_n=b_n-b_{n-1}$&lt;br&gt;$a_1=b_1$&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;性质：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt; $a_i$ 的值是 $b_i$ 的前缀和，即$a_n=\sum_{i=1}^n\text{b}_i$  &lt;/li&gt;
+&lt;li&gt; 计算 $a_i$ 的前缀和：&lt;br&gt;sum = $\sum_{i=1}^na_i = \sum_{i=1}^n\sum_{j=1}^ib_j = \sum_i^n(n-i+1)b_i$  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;递推部分&#34;&gt;&lt;a href=&#34;#递推部分&#34; class=&#34;headerlink&#34; title=&#34;递推部分&#34;&gt;&lt;/a&gt;递推部分&lt;/h2&gt;&lt;p&gt;(例题)  &lt;/p&gt;
+&lt;h2 id=&#34;前缀和部分&#34;&gt;&lt;a href=&#34;#前缀和部分&#34; class=&#34;headerlink&#34; title=&#34;前缀和部分&#34;&gt;&lt;/a&gt;前缀和部分&lt;/h2&gt;&lt;h3 id=&#34;一维差分数组&#34;&gt;&lt;a href=&#34;#一维差分数组&#34; class=&#34;headerlink&#34; title=&#34;一维差分数组&#34;&gt;&lt;/a&gt;一维差分数组&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;dif[i] = a[i] - a[i-1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;二维差分数组&#34;&gt;&lt;a href=&#34;#二维差分数组&#34; class=&#34;headerlink&#34; title=&#34;二维差分数组&#34;&gt;&lt;/a&gt;二维差分数组&lt;/h3&gt;&lt;h4 id=&#34;定义&#34;&gt;&lt;a href=&#34;#定义&#34; class=&#34;headerlink&#34; title=&#34;定义&#34;&gt;&lt;/a&gt;定义&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;dif[i][j] = a[i][j] - a[i-1][j] - a[i][j-1] + a[i-1][j-1]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;前缀和定义：&#34;&gt;&lt;a href=&#34;#前缀和定义：&#34; class=&#34;headerlink&#34; title=&#34;前缀和定义：&#34;&gt;&lt;/a&gt;前缀和定义：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;pre[i][j] = $\sum_{x=1}^{x_i}\sum_{y=1}^{y_j}a[i][j]$  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;求前缀和：&#34;&gt;&lt;a href=&#34;#求前缀和：&#34; class=&#34;headerlink&#34; title=&#34;求前缀和：&#34;&gt;&lt;/a&gt;求前缀和：&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;pre[i][j] = pre[i-1][j] + pre[i][j-1] - pre[i-1][j-1] + a[i][j]  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;算法扩展&#34;&gt;&lt;a href=&#34;#算法扩展&#34; class=&#34;headerlink&#34; title=&#34;算法扩展&#34;&gt;&lt;/a&gt;算法扩展&lt;/h2&gt;&lt;h3 id=&#34;递推的扩展&#34;&gt;&lt;a href=&#34;#递推的扩展&#34; class=&#34;headerlink&#34; title=&#34;递推的扩展&#34;&gt;&lt;/a&gt;递推的扩展&lt;/h3&gt;&lt;h4 id=&#34;二阶线性递推式&#34;&gt;&lt;a href=&#34;#二阶线性递推式&#34; class=&#34;headerlink&#34; title=&#34;二阶线性递推式&#34;&gt;&lt;/a&gt;二阶线性递推式&lt;/h4&gt;&lt;h4 id=&#34;OEIS&#34;&gt;&lt;a href=&#34;#OEIS&#34; class=&#34;headerlink&#34; title=&#34;OEIS&#34;&gt;&lt;/a&gt;OEIS&lt;/h4&gt;&lt;h4 id=&#34;数论&#34;&gt;&lt;a href=&#34;#数论&#34; class=&#34;headerlink&#34; title=&#34;数论&#34;&gt;&lt;/a&gt;数论&lt;/h4&gt;&lt;h3 id=&#34;前缀和的扩展&#34;&gt;&lt;a href=&#34;#前缀和的扩展&#34; class=&#34;headerlink&#34; title=&#34;前缀和的扩展&#34;&gt;&lt;/a&gt;前缀和的扩展&lt;/h3&gt;&lt;h4 id=&#34;多维前缀和&#34;&gt;&lt;a href=&#34;#多维前缀和&#34; class=&#34;headerlink&#34; title=&#34;多维前缀和&#34;&gt;&lt;/a&gt;多维前缀和&lt;/h4&gt;&lt;h4 id=&#34;树上差分&#34;&gt;&lt;a href=&#34;#树上差分&#34; class=&#34;headerlink&#34; title=&#34;树上差分&#34;&gt;&lt;/a&gt;树上差分&lt;/h4&gt;&lt;h4 id=&#34;边差分&#34;&gt;&lt;a href=&#34;#边差分&#34; class=&#34;headerlink&#34; title=&#34;边差分&#34;&gt;&lt;/a&gt;边差分&lt;/h4&gt;</content>
+        <category term="算法~" />
+        <category term="笔记~" />
+        <updated>2021-11-05T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</id>
         <title>[算法] 贪心算法</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/"/>
-        <content type="html">&lt;h2 id=&#34;贪心算法简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法简介&#34;&gt;#&lt;/a&gt; 贪心算法简介&lt;/h2&gt;
-&lt;h3 id=&#34;贪心算法基本思想&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法基本思想&#34;&gt;#&lt;/a&gt; 贪心算法基本思想&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;每一步都做出当前看来最好的选择&lt;/li&gt;
+        <content type="html">&lt;h2 id=&#34;贪心算法简介&#34;&gt;&lt;a href=&#34;#贪心算法简介&#34; class=&#34;headerlink&#34; title=&#34;贪心算法简介&#34;&gt;&lt;/a&gt;贪心算法简介&lt;/h2&gt;&lt;h3 id=&#34;贪心算法基本思想&#34;&gt;&lt;a href=&#34;#贪心算法基本思想&#34; class=&#34;headerlink&#34; title=&#34;贪心算法基本思想&#34;&gt;&lt;/a&gt;贪心算法基本思想&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;每一步都做出当前看来最好的选择  &lt;/li&gt;
 &lt;li&gt;希望通过局部最优选择达到全局最优选择&lt;/li&gt;
 &lt;li&gt;不一定总产生最优解&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;贪心算法产生最优解的条件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法产生最优解的条件&#34;&gt;#&lt;/a&gt; 贪心算法产生最优解的条件&lt;/h3&gt;
-&lt;ul&gt;
+&lt;h3 id=&#34;贪心算法产生最优解的条件&#34;&gt;&lt;a href=&#34;#贪心算法产生最优解的条件&#34; class=&#34;headerlink&#34; title=&#34;贪心算法产生最优解的条件&#34;&gt;&lt;/a&gt;贪心算法产生最优解的条件&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;最优子结构&lt;/li&gt;
 &lt;li&gt;贪心选择性&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h3&gt;
 </content>
-        <category term="笔记~" />
         <category term="算法~" />
+        <category term="笔记~" />
         <updated>2021-11-03T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
-        <title>[算法] 广度优先搜索BFS</title>
-        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
-        <content type="html">&lt;p&gt;等一个算法笔记（QAQ）&lt;/p&gt;
-</content>
-        <category term="笔记~" />
-        <category term="算法~" />
-        <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
 </feed>

@@ -7,11 +7,11 @@
         <language>zh-CN</language>
         <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
-        <category>数据结构~</category>
-        <category>笔记~</category>
-        <category>算法~</category>
         <category>杂谈~</category>
+        <category>算法~</category>
+        <category>笔记~</category>
         <category>Python~</category>
+        <category>数据结构~</category>
         <category>日记~</category>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
@@ -20,66 +20,54 @@
             <category>笔记~</category>
             <category>日记~</category>
             <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
-&lt;p&gt;Github 的基本操作知识（完成～）&lt;br&gt;
-Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;2021-10月学习计划及日志&#34;&gt;&lt;a href=&#34;#2021-10月学习计划及日志&#34; class=&#34;headerlink&#34; title=&#34;2021.10月学习计划及日志&#34;&gt;&lt;/a&gt;2021.10月学习计划及日志&lt;/h1&gt;&lt;h2 id=&#34;2021-10-30&#34;&gt;&lt;a href=&#34;#2021-10-30&#34; class=&#34;headerlink&#34; title=&#34;2021.10.30&#34;&gt;&lt;/a&gt;2021.10.30&lt;/h2&gt;&lt;p&gt;Github 的基本操作知识（完成&lt;del&gt;）&lt;br&gt;Typora 食用方法和 Markdown 语法（完成&lt;/del&gt;）  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvTWFya2Rvd25fc3R1ZHk=&#34;&gt;Markdown 笔记在这里啦&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvTWFya2Rvd25fc3R1ZHk=&#34;&gt;Markdown笔记在这里啦&lt;/span&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;开始尝试搭建自己的博客（进行时）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;教程：&lt;/p&gt;
+&lt;p&gt;教程： &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVliNDExYTd0eT9wPTEmYW1wO3NoYXJlX21lZGl1bT1hbmRyb2lkJmFtcDtzaGFyZV9wbGF0PWFuZHJvaWQmYW1wO3NoYXJlX3NvdXJjZT1RUSZhbXA7c2hhcmVfdGFnPXNfaSZhbXA7dGltZXN0YW1wPTE2MzU1ODExNTgmYW1wO3VuaXF1ZV9rPWVTb1ZxTQ==&#34;&gt;手把手教你从 0 开始搭建自己的个人博客 | 无坑版视频教程 | hexo&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;涉及其他教程：&lt;/p&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVliNDExYTd0eT9wPTEmc2hhcmVfbWVkaXVtPWFuZHJvaWQmc2hhcmVfcGxhdD1hbmRyb2lkJnNoYXJlX3NvdXJjZT1RUSZzaGFyZV90YWc9c19pJnRpbWVzdGFtcD0xNjM1NTgxMTU4JnVuaXF1ZV9rPWVTb1ZxTQ==&#34;&gt;手把手教你从0开始搭建自己的个人博客 |无坑版视频教程| hexo&lt;/span&gt;&lt;blockquote&gt;
+&lt;p&gt;涉及其他教程：  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC85MzE3YTkyN2U4NDQ=&#34;&gt;windows 下 GitHub 的 SSH key 配置&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC85MzE3YTkyN2U4NDQ=&#34;&gt;windows下GitHub的SSH key配置&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;完成进度：已经成功部署到 GitHub 上啦～（鼓掌）&lt;/li&gt;
+&lt;li&gt;完成进度：已经成功部署到GitHub上啦~（鼓掌）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;20211031&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211031&#34;&gt;#&lt;/a&gt; 2021.10.31&lt;/h2&gt;
-&lt;p&gt;开始试着更换主题，加入自己的博客&lt;/p&gt;
+&lt;h2 id=&#34;2021-10-31&#34;&gt;&lt;a href=&#34;#2021-10-31&#34; class=&#34;headerlink&#34; title=&#34;2021.10.31&#34;&gt;&lt;/a&gt;2021.10.31&lt;/h2&gt;&lt;p&gt;开始试着更换主题，加入自己的博客  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;主题是 shoka 啦，github 链接戳这里&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;官方中文介绍戳这里&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;主题是shoka啦，github链接戳这里&lt;/span&gt;  &lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;官方中文介绍戳这里&lt;/span&gt;  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;备注一下修改博客文件内容后的操作：&lt;/p&gt;
+&lt;p&gt;备注一下修改博客文件内容后的操作：  &lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;hexo clean&lt;/li&gt;
 &lt;li&gt;hexo g&lt;/li&gt;
 &lt;li&gt;hexo s&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;然后就可以在本地查看了～&lt;br&gt;
- 要保存到 GitHub 上则是 hexo d&lt;/p&gt;
+&lt;p&gt;然后就可以在本地查看了~&lt;br&gt;要保存到GitHub上则是 hexo d  &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;资料：&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpamluZzc0MjE4MC9hcnRpY2xlL2RldGFpbHMvODU3MjI2NjQ=&#34;&gt;Hexo 站点配置文件内容解释&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92b25zZGl0ZS5naXRodWIuaW8vcG9zdHMvZTk5MGZjMDIuaHRtbA==&#34;&gt; Hexo 站点配置文件_config 详解&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JldHJheVZpcmdpbmlhL2FydGljbGUvZGV0YWlscy8xMTM1NzIzNjQ=&#34;&gt;第 2 章 - Hexo 博客美化 | shkoa 的配置范例&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;资料：&lt;br&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpamluZzc0MjE4MC9hcnRpY2xlL2RldGFpbHMvODU3MjI2NjQ=&#34;&gt;Hexo 站点配置文件内容解释&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92b25zZGl0ZS5naXRodWIuaW8vcG9zdHMvZTk5MGZjMDIuaHRtbA==&#34;&gt;Hexo 站点配置文件_config详解&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JldHJheVZpcmdpbmlhL2FydGljbGUvZGV0YWlscy8xMTM1NzIzNjQ=&#34;&gt;第2章-Hexo博客美化 | shkoa的配置范例&lt;/span&gt;  &lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊～到底是把自己学的某一个知识作为标签还是作为分类呢（头大）&lt;/p&gt;
+&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊~到底是把自己学的某一个知识作为标签还是作为分类呢（头大）  &lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在 GitHub 这边和博客那边都更新一份，好麻烦呀 555~&lt;br&gt;
- 那么以后这边就只做简单记录，详细笔记全丢博客去了吧～～～～～～（好耶可以偷懒了）~~&lt;br&gt;
- 博客在这：&lt;/p&gt;
+&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在GitHub这边和博客那边都更新一份，好麻烦呀555~&lt;br&gt;那么以后这边就只做简单记录，详细笔记全丢博客去了吧~~~~~~（好耶可以偷懒了）~~&lt;br&gt;博客在这：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;做的不好看呜呜呜，名字还恶心心&lt;/p&gt;
+&lt;p&gt;做的不好看呜呜呜，名字还恶心心  &lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用 Python 写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿&lt;/p&gt;
+&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用Python写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿  &lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvUHl0aG9uL2Jsb2IvbWFpbi9QeXRob24ubWQ=&#34;&gt;地址戳我戳我&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
-官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
-那么，十月份，圆满结束！！！&lt;/p&gt;
+&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;那么，十月份，圆满结束！！！&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -89,40 +77,39 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
             <category>笔记~</category>
             <category>日记~</category>
             <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;202111月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202111月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.11 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211101-mon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211101-mon&#34;&gt;#&lt;/a&gt; 2021.11.01 Mon&lt;/h2&gt;
-&lt;p&gt;新的一个月开始啦，以后博客的记录方法是要先写好.md 文件放进博客文件夹中，再调出 cmd 窗口进行 hexo g + hexo d&lt;/p&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;2021-11月学习计划及日志&#34;&gt;&lt;a href=&#34;#2021-11月学习计划及日志&#34; class=&#34;headerlink&#34; title=&#34;2021.11月学习计划及日志&#34;&gt;&lt;/a&gt;2021.11月学习计划及日志&lt;/h1&gt;&lt;h2 id=&#34;2021-11-01-Mon&#34;&gt;&lt;a href=&#34;#2021-11-01-Mon&#34; class=&#34;headerlink&#34; title=&#34;2021.11.01 Mon&#34;&gt;&lt;/a&gt;2021.11.01 Mon&lt;/h2&gt;&lt;p&gt;新的一个月开始啦，以后博客的记录方法是要先写好.md文件放进博客文件夹中，再调出cmd窗口进行hexo g + hexo d  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;（好麻烦啊又要在 GitHub 上更新又要在博客更新又要在本地保存文件）&lt;/li&gt;
+&lt;li&gt;（好麻烦啊又要在GitHub上更新又要在博客更新又要在本地保存文件）  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;今天的目标就是思考一个比较好的运营体系出来。&lt;/p&gt;
+&lt;p&gt;今天的目标就是思考一个比较好的运营体系出来。  &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;参考资料：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZhbXA7dXRtX2NvbnRlbnQ9bm90ZSZhbXA7dXRtX21lZGl1bT1zZW9fbm90ZXMmYW1wO3V0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=&#34;&gt;Hexo 一篇文章多个 categories&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC9iZmYxYjE4NDVhYzk/dXRtX2NhbXBhaWduPW1hbGVza2luZSZ1dG1fY29udGVudD1ub3RlJnV0bV9tZWRpdW09c2VvX25vdGVzJnV0bV9zb3VyY2U9cmVjb21tZW5kYXRpb24=&#34;&gt;Hexo 一篇文章多个 categories&lt;/span&gt;  &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;博客弄得差不多了（关于部分的模块还不会弄 QAQ）&lt;br&gt;
-&lt;s&gt;明天再想运营体系吧&lt;/s&gt;&lt;/p&gt;
-&lt;h2 id=&#34;20211102-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211102-tue&#34;&gt;#&lt;/a&gt; 2021.11.02 Tue&lt;/h2&gt;
-&lt;p&gt;.md 文件直接在电脑上编辑，然后上传到 GitHub 和博客上面吧（这样大概方便一点？）&lt;br&gt;
-笔记就不丢 GitHub 上面了，直接丢到博客上面，GitHub 那边可以留一个笔记链接汇总。&lt;br&gt;
-今天写的时候报了个小错误如下：&lt;/p&gt;
+&lt;p&gt;博客弄得差不多了（关于部分的模块还不会弄QAQ）&lt;br&gt;&lt;del&gt;明天再想运营体系吧&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2021-11-02-Tue&#34;&gt;&lt;a href=&#34;#2021-11-02-Tue&#34; class=&#34;headerlink&#34; title=&#34;2021.11.02 Tue&#34;&gt;&lt;/a&gt;2021.11.02 Tue&lt;/h2&gt;&lt;p&gt;.md文件直接在电脑上编辑，然后上传到GitHub和博客上面吧（这样大概方便一点？）&lt;br&gt;笔记就不丢GitHub上面了，直接丢到博客上面，GitHub那边可以留一个笔记链接汇总。&lt;br&gt;今天写的时候报了个小错误如下：  &lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8&lt;/li&gt;
+&lt;li&gt;YAMLException: end of the stream or a document separator is expected at line 2, column 8  &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因 233333&lt;/p&gt;
-&lt;p&gt;今日复习 Python 的期末考试叭&lt;/p&gt;
-&lt;h2 id=&#34;20211103-wed&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211103-wed&#34;&gt;#&lt;/a&gt; 2021.11.03 Wed&lt;/h2&gt;
-&lt;p&gt;继续复习 python 期末考试，顺便把模电的两个拖欠的实验交了（模电真的不会哇啊啊啊）&lt;/p&gt;
-&lt;h2 id=&#34;20211104-thu&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211104-thu&#34;&gt;#&lt;/a&gt; 2021.11.04 Thu&lt;/h2&gt;
-&lt;p&gt;python 期末考试结束，手写程序手写 debug 太恐怖了，最后居然还要写出本学期知识体系（趴）&lt;br&gt;
-晚上举办路边天文～～（不能派派了，悲）~~&lt;/p&gt;
-&lt;h2 id=&#34;20211105-fri&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211105-fri&#34;&gt;#&lt;/a&gt; 2021.11.05 Fri&lt;/h2&gt;
-&lt;p&gt;今天派了一上午，ASH 好帅啊（痴）&lt;br&gt;
-下午模电课笔记本忘充电就拿去教室了（我好傻），于是水了半天课看了一下贪心算法的例题。&lt;br&gt;
-晚上把模电第六章作业做完了，天文望远镜 ppt 也提交完了，好耶～&lt;br&gt;
- 快乐的周末要来辽！！！！！！！！！！！&lt;/p&gt;
+&lt;p&gt;本来以为是少打了空格的原因，找了半天都没有发现哪个冒号后面没打空格，最后才发现是没有写博客开头的原因233333&lt;/p&gt;
+&lt;p&gt;今日复习Python的期末考试叭  &lt;/p&gt;
+&lt;h2 id=&#34;2021-11-03-Wed&#34;&gt;&lt;a href=&#34;#2021-11-03-Wed&#34; class=&#34;headerlink&#34; title=&#34;2021.11.03 Wed&#34;&gt;&lt;/a&gt;2021.11.03 Wed&lt;/h2&gt;&lt;p&gt;继续复习python期末考试，顺便把模电的两个拖欠的实验交了（模电真的不会哇啊啊啊）  &lt;/p&gt;
+&lt;h2 id=&#34;2021-11-04-Thu&#34;&gt;&lt;a href=&#34;#2021-11-04-Thu&#34; class=&#34;headerlink&#34; title=&#34;2021.11.04 Thu&#34;&gt;&lt;/a&gt;2021.11.04 Thu&lt;/h2&gt;&lt;p&gt;python期末考试结束，手写程序手写debug太恐怖了，最后居然还要写出本学期知识体系（趴）&lt;br&gt;晚上举办路边天文&lt;del&gt;（不能派派了，悲）&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2021-11-05-Fri&#34;&gt;&lt;a href=&#34;#2021-11-05-Fri&#34; class=&#34;headerlink&#34; title=&#34;2021.11.05 Fri&#34;&gt;&lt;/a&gt;2021.11.05 Fri&lt;/h2&gt;&lt;p&gt;今天派了一上午，ASH好帅啊（痴）&lt;br&gt;下午模电课笔记本忘充电就拿去教室了（我好傻），于是水了半天课看了一下贪心算法的例题。&lt;br&gt;晚上把模电第六章作业做完了，天文望远镜ppt也提交完了，好耶~&lt;br&gt;快乐的周末要来辽！！！！！！！！！！！&lt;/p&gt;
+&lt;h2 id=&#34;2021-11-06-Sat&#34;&gt;&lt;a href=&#34;#2021-11-06-Sat&#34; class=&#34;headerlink&#34; title=&#34;2021.11.06 Sat&#34;&gt;&lt;/a&gt;2021.11.06 Sat&lt;/h2&gt;&lt;p&gt;大派特派！！！下午本来计划看完递推与前缀和的，结果睡了一个小时，醒来三个小时过去了5555……晚上看比赛，没想到EDG居然赢了，整个宿舍楼都在欢呼（苦了那些想睡觉的人了）  &lt;/p&gt;
+&lt;h2 id=&#34;2021-11-07-Sun&#34;&gt;&lt;a href=&#34;#2021-11-07-Sun&#34; class=&#34;headerlink&#34; title=&#34;2021.11.07 Sun&#34;&gt;&lt;/a&gt;2021.11.07 Sun&lt;/h2&gt;&lt;p&gt;今天成功潜入哈威了好耶！！！以后就走小铁门或者翻墙了。哈威的环境是真的好呜呜呜，太羡慕了太羡慕了太羡慕了（关键是有一堆可爱的男孩子吖！！！！这才是重点好伐！！！！）他们实在是太甜了，我好羡慕呀QwQ羡慕羡慕羡慕……………………………………&lt;br&gt;下午还是继续我的递推与前缀和吧，和可爱的男孩子贴完之后整个人充满了干劲，好耶ヽ(✿ﾟ▽ﾟ)ノ&lt;br&gt;另外最近要准备天文知识竞赛的内容了，今天出一个初赛大题，明天后天准备实测题目。&lt;br&gt;另外要研究一下怎么在博客上显示数学公式，应该是这样的：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;MathJax是一款运行在浏览器中的开源数学符号渲染引擎，使用MathJax可以方便的在浏览器中显示数学公式，不需要使用图片。目前，MathJax可以解析Latex、MathML和ASCIIMathML的标记语言。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;需要在站点配置文件里加入一段代码：  &lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# MathJax Support&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# mathjax:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#   enable: true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#   per_page: true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+
+
+
+
  ]]></description>
         </item>
     </channel>
