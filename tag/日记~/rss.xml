@@ -7,10 +7,10 @@
         <language>zh-CN</language>
         <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
         <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0800</lastBuildDate>
-        <category>杂谈~</category>
         <category>算法~</category>
         <category>笔记~</category>
         <category>数据结构~</category>
+        <category>杂谈~</category>
         <category>Python~</category>
         <category>日记~</category>
         <item>
@@ -135,6 +135,9 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;需要在站点配置文件里加入一段代码：&lt;/p&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# MathJax Support&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# mathjax:&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#   enable: true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#   per_page: true&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;20211108-mon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211108-mon&#34;&gt;#&lt;/a&gt; 2021.11.08 Mon&lt;/h2&gt;
+&lt;p&gt;困困 /(ㄒ o ㄒ)/ 写了一部分天文知识竞赛实测的策划和题目，累死啦累死啦，还要复习 matlab 期末考试呜呜呜，嫖了一下球球大佬的笔记（膜拜），明天早起继续复习吧～&lt;br&gt;
+ 另外今天又双剁手了（指度冬用装备和吧唧装饰）继续吃土 QwQ&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
