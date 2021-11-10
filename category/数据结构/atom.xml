@@ -4,10 +4,10 @@
     <title>阿福の可爱猫窝 • Posts by &#34;数据结构&#34; category</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-10-30T16:00:00.000Z</updated>
-    <category term="算法~" />
-    <category term="笔记~" />
-    <category term="数据结构~" />
     <category term="杂谈~" />
+    <category term="数据结构~" />
+    <category term="笔记~" />
+    <category term="算法~" />
     <category term="Python~" />
     <category term="日记~" />
     <entry>
@@ -17,8 +17,8 @@
         <content type="html">&lt;h1 id=&#34;数据结构02_二叉树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构02_二叉树&#34;&gt;#&lt;/a&gt; 数据结构 02_二叉树&lt;/h1&gt;
 &lt;p&gt;二叉树是巴拉巴拉巴拉巴拉……&lt;/p&gt;
 </content>
-        <category term="笔记~" />
         <category term="数据结构~" />
+        <category term="笔记~" />
         <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -28,8 +28,8 @@
         <content type="html">&lt;h1 id=&#34;数据结构01_序言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构01_序言&#34;&gt;#&lt;/a&gt; 数据结构 01_序言&lt;/h1&gt;
 &lt;p&gt;比如这是数据结构的第一篇笔记&lt;/p&gt;
 </content>
-        <category term="笔记~" />
         <category term="数据结构~" />
+        <category term="笔记~" />
         <updated>2021-10-29T16:00:00.000Z</updated>
     </entry>
 </feed>
