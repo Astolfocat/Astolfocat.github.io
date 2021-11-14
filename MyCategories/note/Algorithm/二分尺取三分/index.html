@@ -76,7 +76,7 @@
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>354</span>
+    <span>741</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -117,12 +117,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gicljitigmj20zk0m87fp.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giph4baakhj20zk0m8h5q.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gicli3sbvtj20zk0m8x6p.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclh5u05ej20zk0m87df.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclhtuo6nj20zk0m8ttm.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclffsa1cj20zk0m811l.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gipeu1usa7j20zk0m8b29.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gicm0fdw5cj20zk0m8hdt.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclj61ylzj20zk0m8b29.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gipew8gmvyj20zk0m87wh.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclxfdlttj20zk0m8npd.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclh0m9pdj20zk0m8hdt.jpg"></li>
         </ul>
       </div>
     </header>
@@ -192,7 +192,31 @@
 <li>二分题的思路：问满足题意的最大 n 为多少比较难，但是判断 n 能不能满足题意比较简单。因此用循环判断 n 满不满足题意，不断二分求最大 n。</li>
 </ul>
 <h2 id="尺取"><a class="markdownIt-Anchor" href="#尺取">#</a> 尺取</h2>
+<ul>
+<li>定义：顾名思义，像尺子一样取一段。尺取法通常是保存数组的一对下标，即左右端点，然后根据实际情况不断地推进左右端点以得出答案。</li>
+</ul>
+<p>注意事项：</p>
+<blockquote>
+<ol>
+<li>什么时候可以用尺取法</li>
+<li>何时推进区间端点</li>
+<li>如何推进区间端点</li>
+<li>何时结束区间枚举</li>
+</ol>
+</blockquote>
 <h2 id="三分"><a class="markdownIt-Anchor" href="#三分">#</a> 三分</h2>
+<ul>
+<li>单峰 / 谷函数：他们有唯一的极值点，且在极值点左右都严格单调且相反。</li>
+</ul>
+<p>三分法求极值：</p>
+<blockquote>
+<ol>
+<li>对于单峰函数 f，在函数定义域 [l,r] 上任取两个点 lmid 和 rmid</li>
+<li>若 f (lmid) &lt; f (rmid), 则 lmid 与 rmid 要么同时处于极大值左侧，要么处于极大值两侧，但是极大值点始终在 lmid 右侧，故可令 l=lmid</li>
+<li>若 f (lmid) &gt; f (rmid), 则 lmid 与 rmid 要么同时处于极大值右侧，要么处于极大值两侧，但是极大值点始终在 rmid 右侧，故可令 r=rmid</li>
+<li>若取 lmid 与 rmid 为三等分点，则每次定义域范围缩小三分之一，通过 log 级别的时间复杂度即可在指定精度下求出极值。</li>
+</ol>
+</blockquote>
 
       <div class="tags">
           <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 笔记~</a>
@@ -208,7 +232,7 @@
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2021-11-10 23:07:55" itemprop="dateModified" datetime="2021-11-10T23:07:55+08:00">2021-11-10</time>
+    <time title="修改时间：2021-11-11 14:17:11" itemprop="dateModified" datetime="2021-11-11T14:17:11+08:00">2021-11-11</time>
   </span>
 </div>
 
@@ -252,7 +276,7 @@
     <div class="item left">
       
 
-  <a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva4.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipeuibk9fj20zk0m8ay2.jpg" title="Matlab 复习笔记">
+  <a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giciszlczyj20zk0m816d.jpg" title="Matlab 复习笔记">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> Matlab</span>
   <h3>Matlab 复习笔记</h3>
@@ -260,6 +284,14 @@
 
     </div>
     <div class="item right">
+      
+
+  <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipev1x5e4j20zk0m8b29.jpg" title="[算法] 一句话算法">
+  <span class="type">下一篇</span>
+  <span class="category"><i class="ic i-flag"></i> 算法</span>
+  <h3>[算法] 一句话算法</h3>
+  </a>
+
     </div>
 </div>
 
@@ -280,7 +312,7 @@
       </div>
       <div class="related panel pjax" data-title="系列文章">
         <ul>
-          <li><a href="/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/" rel="bookmark" title="[算法] 贪心算法">[算法] 贪心算法</a></li><li><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" rel="bookmark" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></li><li class="active"><a href="/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/" rel="bookmark" title="[算法] 二分/尺取/三分">[算法] 二分/尺取/三分</a></li>
+          <li><a href="/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/" rel="bookmark" title="[算法] 贪心算法">[算法] 贪心算法</a></li><li><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" rel="bookmark" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></li><li class="active"><a href="/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/" rel="bookmark" title="[算法] 二分/尺取/三分">[算法] 二分/尺取/三分</a></li><li><a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" rel="bookmark" title="[算法] 一句话算法">[算法] 一句话算法</a></li>
         </ul>
       </div>
       <div class="overview panel" data-title="站点概览">
@@ -294,7 +326,7 @@
 <nav class="state">
     <div class="item posts">
       <a href="/archives/">
-        <span class="count">14</span>
+        <span class="count">15</span>
         <span class="name">文章</span>
       </a>
     </div>
@@ -360,10 +392,12 @@
 
   <ul id="quick">
     <li class="prev pjax">
+        <a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
     </li>
     <li class="up"><i class="ic i-arrow-up"></i></li>
     <li class="down"><i class="ic i-arrow-down"></i></li>
     <li class="next pjax">
+        <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
     </li>
     <li class="percent"></li>
   </ul>
@@ -387,10 +421,10 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/Matlab/" title="分类于 Matlab">Matlab</a>
+<a href="/categories/note/DataStructure/" title="分类于 数据结构">数据结构</a>
 </div>
 
-    <span><a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" title="Matlab 复习笔记">Matlab 复习笔记</a></span>
+    <span><a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/" title="[数据结构] 二叉树">[数据结构] 二叉树</a></span>
   </li>
 
       
@@ -423,6 +457,30 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/" title="[算法] 二分&#x2F;尺取&#x2F;三分">[算法] 二分/尺取/三分</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
+</div>
+
+    <span><a href="/MyCategories/note/plan/2021_11/" title="11月学习计划日志">11月学习计划日志</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
 <a href="/categories/note/Python/" title="分类于 Python">Python</a>
 </div>
 
@@ -435,10 +493,34 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/DataStructure/" title="分类于 数据结构">数据结构</a>
+<a href="/categories/note/others/" title="分类于 其它">其它</a>
 </div>
 
-    <span><a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/" title="[数据结构] 二叉树">[数据结构] 二叉树</a></span>
+    <span><a href="/MyCategories/note/others/%E5%8D%9A%E5%AE%A2%E6%94%AF%E6%8C%81%E7%9A%84%E7%89%B9%E6%AE%8Amarkdown%E8%AF%AD%E6%B3%95/" title="博客专用md语法">博客专用md语法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/" title="[算法] 贪心算法">[算法] 贪心算法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Matlab/" title="分类于 Matlab">Matlab</a>
+</div>
+
+    <span><a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" title="Matlab 复习笔记">Matlab 复习笔记</a></span>
   </li>
 
       
@@ -451,51 +533,6 @@
 </div>
 
     <span><a href="/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/" title="Markdown语法学习">Markdown语法学习</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
-</div>
-
-    <span><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/" title="博客书写格式">博客书写格式</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/Python/" title="分类于 Python">Python</a>
-</div>
-
-    <span><a href="/MyCategories/note/Python/rename/" title="文件批量重命名">文件批量重命名</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/others/" title="分类于 其它">其它</a>
-</div>
-
-    <span><a href="/MyCategories/note/others/%E5%8D%9A%E5%AE%A2%E6%94%AF%E6%8C%81%E7%9A%84%E7%89%B9%E6%AE%8Amarkdown%E8%AF%AD%E6%B3%95/" title="博客专用md语法">博客专用md语法</a></span>
   </li>
 
   </ul>
@@ -516,13 +553,13 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">24k 字</span>
+    <span title="站点总字数">25k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">21 分钟</span>
+    <span title="站点阅读时长">23 分钟</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
