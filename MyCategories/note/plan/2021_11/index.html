@@ -76,7 +76,7 @@
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>3k</span>
+    <span>3.6k</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -117,12 +117,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gipeyonbf9j20zk0m8e81.jpg"></li>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gicm0fdw5cj20zk0m8hdt.jpg"></li>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclh0m9pdj20zk0m8hdt.jpg"></li>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclffsa1cj20zk0m811l.jpg"></li>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclhnx9glj20zk0m8npd.jpg"></li>
-          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giph4baakhj20zk0m8h5q.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giclh0m9pdj20zk0m8hdt.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipet4bz0yj20zk0m8e81.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1giclfw2t96j20zk0m8x6p.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipevgoki5j20zk0m84qp.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipetv6p75j20zk0m8x6p.jpg"></li>
+          <li class="item" data-background-image="https://tva3.sinaimg.cn/large/6833939bly1gipevarprfj20zk0m8npd.jpg"></li>
         </ul>
       </div>
     </header>
@@ -260,8 +260,16 @@
 <h2 id="20211118-thu"><a class="markdownIt-Anchor" href="#20211118-thu">#</a> 2021.11.18 Thu</h2>
 <p>不舒服了一中午，然后打了一下午音游。晚上进行实测培训（其实都靠曹学长一个人了）我在旁边摸鱼（好耶）</p>
 <h2 id="20211119-fri"><a class="markdownIt-Anchor" href="#20211119-fri">#</a> 2021.11.19 Fri</h2>
-<p>小派一下，然后打印实测卷子，模电课继续摸鱼。学习一下素数筛的知识。</p>
-
+<p>小派一下，然后打印实测卷子，模电课继续摸鱼。学习一下素数筛的知识。<br>
+B2087 疑惑如下：</p>
+<ul>
+<li>这个能通过</li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> n,x,y;</span><br><span class="line">	<span class="keyword">int</span> a[<span class="number">105</span>]=&#123;<span class="number">0</span>&#125;;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;n);</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;n;i++)</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;a[i+<span class="number">1</span>]);</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;y);</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,<span class="built_in">count</span>(a+<span class="number">1</span>,a+n+<span class="number">1</span>,y));</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>这个只能 80 分为什么啊呜呜呜</li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="keyword">int</span> n,x,y;</span><br><span class="line">	<span class="keyword">int</span> a[<span class="number">105</span>]=&#123;<span class="number">0</span>&#125;;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;n);</span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;n;i++)</span><br><span class="line">	&#123;</span><br><span class="line">		<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;x);</span><br><span class="line">		a[x]++;</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d&quot;</span>,&amp;y);</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%d&quot;</span>,a[y]);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
       <div class="tags">
           <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 笔记~</a>
           <a href="/tags/%E6%97%A5%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 日记~</a>
@@ -276,7 +284,7 @@
       <i class="ic i-calendar-check"></i>
     </span>
     <span class="text">更新于</span>
-    <time title="修改时间：2021-11-19 14:22:58" itemprop="dateModified" datetime="2021-11-19T14:22:58+08:00">2021-11-19</time>
+    <time title="修改时间：2021-11-19 23:50:20" itemprop="dateModified" datetime="2021-11-19T23:50:20+08:00">2021-11-19</time>
   </span>
 </div>
 
@@ -320,7 +328,7 @@
     <div class="item left">
       
 
-  <a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giciub8ja1j20zk0m81ky.jpg" title="[数据结构] 二叉树">
+  <a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipewf5l51j20zk0m8b29.jpg" title="[数据结构] 二叉树">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 数据结构</span>
   <h3>[数据结构] 二叉树</h3>
@@ -330,7 +338,7 @@
     <div class="item right">
       
 
-  <a href="/MyCategories/note/plan/2021_10/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giclwuom7cj20zk0m8dvn.jpg" title="10月学习计划日志">
+  <a href="/MyCategories/note/plan/2021_10/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva3.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giciszlczyj20zk0m816d.jpg" title="10月学习计划日志">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 日记计划</span>
   <h3>10月学习计划日志</h3>
@@ -465,31 +473,10 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+<a href="/categories/note/DataStructure/" title="分类于 数据结构">数据结构</a>
 </div>
 
-    <span><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-</div>
-
-    <span><a href="/MyCategories/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/" title="博客书写格式">博客书写格式</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/Python/" title="分类于 Python">Python</a>
-</div>
-
-    <span><a href="/MyCategories/note/Python/rename/" title="文件批量重命名">文件批量重命名</a></span>
+    <span><a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/" title="[数据结构] 链表">[数据结构] 链表</a></span>
   </li>
 
       
@@ -510,34 +497,10 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/DataStructure/" title="分类于 数据结构">数据结构</a>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
 </div>
 
-    <span><a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8401/" title="[数据结构] 链表">[数据结构] 链表</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/others/" title="分类于 其它">其它</a>
-</div>
-
-    <span><a href="/MyCategories/note/others/%E5%8D%9A%E5%AE%A2%E6%94%AF%E6%8C%81%E7%9A%84%E7%89%B9%E6%AE%8Amarkdown%E8%AF%AD%E6%B3%95/" title="博客专用md语法">博客专用md语法</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
-</div>
-
-    <span><a href="/MyCategories/note/plan/2021_11/" title="11月学习计划日志">11月学习计划日志</a></span>
+    <span><a href="/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/" title="[算法] 二分&#x2F;尺取&#x2F;三分">[算法] 二分/尺取/三分</a></span>
   </li>
 
       
@@ -558,10 +521,58 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/others/" title="分类于 其它">其它</a>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
 </div>
 
-    <span><a href="/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/" title="Markdown语法学习">Markdown语法学习</a></span>
+    <span><a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" title="[算法] 一句话算法">[算法] 一句话算法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/" title="[算法] 素数筛">[算法] 素数筛</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Python/" title="分类于 Python">Python</a>
+</div>
+
+    <span><a href="/MyCategories/note/Python/rename/" title="文件批量重命名">文件批量重命名</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Matlab/" title="分类于 Matlab">Matlab</a>
+</div>
+
+    <span><a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" title="Matlab 复习笔记">Matlab 复习笔记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/" title="[算法] 贪心算法">[算法] 贪心算法</a></span>
   </li>
 
       
@@ -594,13 +605,13 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">28k 字</span>
+    <span title="站点总字数">29k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">25 分钟</span>
+    <span title="站点阅读时长">26 分钟</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
