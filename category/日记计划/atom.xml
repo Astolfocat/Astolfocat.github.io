@@ -4,11 +4,11 @@
     <title>阿福の可爱猫窝 • Posts by &#34;日记计划&#34; category</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-12-31T16:00:00.000Z</updated>
+    <category term="杂谈~" />
     <category term="算法~" />
     <category term="笔记~" />
-    <category term="杂谈~" />
-    <category term="Python~" />
     <category term="数据结构~" />
+    <category term="Python~" />
     <category term="日记~" />
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2022_01/</id>
@@ -23,7 +23,7 @@
 &lt;p&gt;一如既往的派了一上午，然后舍友也考完了，这学期的派派就到此为止吧（呜呜呜我还想玩）&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;顺便计划一下寒假要做的事情（立 flag）：&lt;/p&gt;
-&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;寒假计划&lt;/summary&gt;&lt;div&gt;
+&lt;details class=&#34;info&#34;&gt;&lt;summary&gt;寒假计划&lt;/summary&gt;&lt;div&gt;
 &lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;学习计划&#34;&gt;
 &lt;ol&gt;
 &lt;li&gt;《深入浅出程序设计竞赛》&lt;/li&gt;
