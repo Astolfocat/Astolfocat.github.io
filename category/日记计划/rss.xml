@@ -5,14 +5,29 @@
         <link>https://astolfocat.github.io</link>
         <description>一只想要变可爱的男孩纸~</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 01 Dec 2021 00:00:00 +0800</pubDate>
-        <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0800</lastBuildDate>
+        <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+        <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0800</lastBuildDate>
         <category>杂谈~</category>
         <category>算法~</category>
         <category>笔记~</category>
         <category>数据结构~</category>
         <category>Python~</category>
         <category>日记~</category>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2022_01/</guid>
+            <title>1月学习计划日志</title>
+            <link>https://astolfocat.github.io/MyCategories/note/plan/2022_01/</link>
+            <category>笔记~</category>
+            <category>日记~</category>
+            <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;202212月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202212月学习计划及日志&#34;&gt;#&lt;/a&gt; 2022.12 月学习计划及日志&lt;/h1&gt;
+&lt;h2 id=&#34;20220101-sat-20220108-sat&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20220101-sat-20220108-sat&#34;&gt;#&lt;/a&gt; 2022.01.01 Sat —— 2022.01.08 Sat&lt;/h2&gt;
+&lt;p&gt;绝赞复习备考 ing&lt;span&gt; 终于考完啦～&lt;/span&gt;~&lt;br&gt;
+&lt;span class=&#34;rainbow&#34;&gt; 终于考完啦～&lt;/span&gt;&lt;br&gt;
+ 首先第一件事就是大派特派啦！&lt;/p&gt;
+&lt;h2 id=&#34;20220109-sun&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20220109-sun&#34;&gt;#&lt;/a&gt; 2022.01.09  Sun&lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_12/</guid>
             <title>12月学习计划日志</title>
@@ -123,75 +138,16 @@
 &lt;p&gt;下大雪，冒着大雪出去找自习的地方，最后去了南门外的三人行。自习了一天。顺带打了一下 arcaea 准备解锁伞对立。自习效率确实高一点。晚上研究了一下 BBchannel 脚本，别人学了 python 之后就可以用图像识别各种什么的来做一个 fgo 脚本器，我学了 python 就只会 print hello world，我好 fw 吖 www。&lt;/p&gt;
 &lt;h2 id=&#34;20211226-sun&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211226-sun&#34;&gt;#&lt;/a&gt; 2021.12.26 Sun&lt;/h2&gt;
 &lt;p&gt;早上起晚了，中午去尝了尝那家川菜，味道还不错。下午因为把手机又双摔坏了所以在宿舍自习了（悲），结果羽姐摔了一下又摔好了（震惊）。无限池刷了一百池，就这样吧。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
-            <title>10月学习计划日志</title>
-            <link>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</link>
-            <category>笔记~</category>
-            <category>日记~</category>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
-&lt;p&gt;Github 的基本操作知识（完成～）&lt;br&gt;
-Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvTWFya2Rvd25fc3R1ZHk=&#34;&gt;Markdown 笔记在这里啦&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;开始尝试搭建自己的博客（进行时）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;教程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVliNDExYTd0eT9wPTEmYW1wO3NoYXJlX21lZGl1bT1hbmRyb2lkJmFtcDtzaGFyZV9wbGF0PWFuZHJvaWQmYW1wO3NoYXJlX3NvdXJjZT1RUSZhbXA7c2hhcmVfdGFnPXNfaSZhbXA7dGltZXN0YW1wPTE2MzU1ODExNTgmYW1wO3VuaXF1ZV9rPWVTb1ZxTQ==&#34;&gt;手把手教你从 0 开始搭建自己的个人博客 | 无坑版视频教程 | hexo&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;涉及其他教程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC85MzE3YTkyN2U4NDQ=&#34;&gt;windows 下 GitHub 的 SSH key 配置&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;完成进度：已经成功部署到 GitHub 上啦～（鼓掌）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;20211031&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211031&#34;&gt;#&lt;/a&gt; 2021.10.31&lt;/h2&gt;
-&lt;p&gt;开始试着更换主题，加入自己的博客&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;主题是 shoka 啦，github 链接戳这里&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;官方中文介绍戳这里&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;备注一下修改博客文件内容后的操作：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;hexo clean&lt;/li&gt;
-&lt;li&gt;hexo g&lt;/li&gt;
-&lt;li&gt;hexo s&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;然后就可以在本地查看了～&lt;br&gt;
- 要保存到 GitHub 上则是 hexo d&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;资料：&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpamluZzc0MjE4MC9hcnRpY2xlL2RldGFpbHMvODU3MjI2NjQ=&#34;&gt;Hexo 站点配置文件内容解释&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92b25zZGl0ZS5naXRodWIuaW8vcG9zdHMvZTk5MGZjMDIuaHRtbA==&#34;&gt; Hexo 站点配置文件_config 详解&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JldHJheVZpcmdpbmlhL2FydGljbGUvZGV0YWlscy8xMTM1NzIzNjQ=&#34;&gt;第 2 章 - Hexo 博客美化 | shkoa 的配置范例&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊～到底是把自己学的某一个知识作为标签还是作为分类呢（头大）&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在 GitHub 这边和博客那边都更新一份，好麻烦呀 555~&lt;br&gt;
- 那么以后这边就只做简单记录，详细笔记全丢博客去了吧～～～～～～（好耶可以偷懒了）~~&lt;br&gt;
- 博客在这：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;做的不好看呜呜呜，名字还恶心心&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用 Python 写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvUHl0aG9uL2Jsb2IvbWFpbi9QeXRob24ubWQ=&#34;&gt;地址戳我戳我&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
-官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
-那么，十月份，圆满结束！！！&lt;/p&gt;
+&lt;h2 id=&#34;20211227-mon&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211227-mon&#34;&gt;#&lt;/a&gt; 2021.12.27 Mon&lt;/h2&gt;
+&lt;p&gt;抄了遍单词，概率论第三章，模电第五章。好难啊呜呜呜。&lt;/p&gt;
+&lt;h2 id=&#34;20211228-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211228-tue&#34;&gt;#&lt;/a&gt; 2021.12.28 Tue&lt;/h2&gt;
+&lt;p&gt;概率论第四章，加上模电看了看书上的后三章。背了会单词。&lt;/p&gt;
+&lt;h2 id=&#34;20211229-wed&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211229-wed&#34;&gt;#&lt;/a&gt; 2021.12.29 Wed&lt;/h2&gt;
+&lt;p&gt;今天一天，从早上九点到晚上四点半才学玩概率论第五章，模电复习不进去了。晚上失眠了，起来看毛概题库吧。今天也是看兽装到发病的一天，好想要个兽装啊，这么一想有好多想要的东西都好烧钱，有什么办法可以赚到很多钱呢？&lt;/p&gt;
+&lt;h2 id=&#34;20211230-thu&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211230-thu&#34;&gt;#&lt;/a&gt; 2021.12.30 Thu&lt;/h2&gt;
+&lt;p&gt;复习，备考～&lt;/p&gt;
+&lt;h2 id=&#34;20211231-fri&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211231-fri&#34;&gt;#&lt;/a&gt; 2021.12.31 Fri&lt;/h2&gt;
+&lt;p&gt;复习，备考～&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -333,6 +289,75 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;p&gt;几乎满课，数据结构要准备写排序作业了，概率论也开始进入了看不懂的三大分布了。模电继续摆烂，回宿舍把选修课论文水了出来。然后继续摸鱼。&lt;/p&gt;
 &lt;h2 id=&#34;20211130-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211130-tue&#34;&gt;#&lt;/a&gt; 2021.11.30 Tue&lt;/h2&gt;
 &lt;p&gt;洛谷基础题还差最后 10 题，好耶。家长送的手撕兔也到了，是熟悉的四川味道，好耶（无情的好耶机器）。最后还是晚上四个人一起把它解决了。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
+            <title>10月学习计划日志</title>
+            <link>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</link>
+            <category>笔记~</category>
+            <category>日记~</category>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
+&lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
+&lt;p&gt;Github 的基本操作知识（完成～）&lt;br&gt;
+Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvTWFya2Rvd25fc3R1ZHk=&#34;&gt;Markdown 笔记在这里啦&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始尝试搭建自己的博客（进行时）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMVliNDExYTd0eT9wPTEmYW1wO3NoYXJlX21lZGl1bT1hbmRyb2lkJmFtcDtzaGFyZV9wbGF0PWFuZHJvaWQmYW1wO3NoYXJlX3NvdXJjZT1RUSZhbXA7c2hhcmVfdGFnPXNfaSZhbXA7dGltZXN0YW1wPTE2MzU1ODExNTgmYW1wO3VuaXF1ZV9rPWVTb1ZxTQ==&#34;&gt;手把手教你从 0 开始搭建自己的个人博客 | 无坑版视频教程 | hexo&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;涉及其他教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuamlhbnNodS5jb20vcC85MzE3YTkyN2U4NDQ=&#34;&gt;windows 下 GitHub 的 SSH key 配置&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;完成进度：已经成功部署到 GitHub 上啦～（鼓掌）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20211031&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211031&#34;&gt;#&lt;/a&gt; 2021.10.31&lt;/h2&gt;
+&lt;p&gt;开始试着更换主题，加入自己的博客&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;主题是 shoka 啦，github 链接戳这里&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy8=&#34;&gt;官方中文介绍戳这里&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;备注一下修改博客文件内容后的操作：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hexo clean&lt;/li&gt;
+&lt;li&gt;hexo g&lt;/li&gt;
+&lt;li&gt;hexo s&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;然后就可以在本地查看了～&lt;br&gt;
+ 要保存到 GitHub 上则是 hexo d&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;资料：&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpamluZzc0MjE4MC9hcnRpY2xlL2RldGFpbHMvODU3MjI2NjQ=&#34;&gt;Hexo 站点配置文件内容解释&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92b25zZGl0ZS5naXRodWIuaW8vcG9zdHMvZTk5MGZjMDIuaHRtbA==&#34;&gt; Hexo 站点配置文件_config 详解&lt;/span&gt;&lt;br&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0JldHJheVZpcmdpbmlhL2FydGljbGUvZGV0YWlscy8xMTM1NzIzNjQ=&#34;&gt;第 2 章 - Hexo 博客美化 | shkoa 的配置范例&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊～到底是把自己学的某一个知识作为标签还是作为分类呢（头大）&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在 GitHub 这边和博客那边都更新一份，好麻烦呀 555~&lt;br&gt;
+ 那么以后这边就只做简单记录，详细笔记全丢博客去了吧～～～～～～（好耶可以偷懒了）~~&lt;br&gt;
+ 博客在这：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;做的不好看呜呜呜，名字还恶心心&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用 Python 写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0FzdG9sZm9jYXQvUHl0aG9uL2Jsb2IvbWFpbi9QeXRob24ubWQ=&#34;&gt;地址戳我戳我&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
+官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
+那么，十月份，圆满结束！！！&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
