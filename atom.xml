@@ -5,9 +5,9 @@
     <link href="https://astolfocat.github.io" />
     <updated>2022-03-15T16:00:00.000Z</updated>
     <category term="杂谈~" />
-    <category term="算法~" />
-    <category term="笔记~" />
     <category term="数据结构~" />
+    <category term="笔记~" />
+    <category term="算法~" />
     <category term="Python~" />
     <category term="日记~" />
     <entry>
@@ -16,7 +16,7 @@
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/"/>
         <content type="html">&lt;h2 id=&#34;系统时间相应的性能指标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#系统时间相应的性能指标&#34;&gt;#&lt;/a&gt; 系统时间相应的性能指标&lt;/h2&gt;
 &lt;h3 id=&#34;典型输入信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#典型输入信号&#34;&gt;#&lt;/a&gt; 典型输入信号&lt;/h3&gt;
-&lt;table&gt;
+&lt;table s^2+\omega^2=&#34;&#34;&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
@@ -25,35 +25,35 @@
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
-&lt;tr&gt;
+&lt;tr s=&#34;&#34;&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;单位阶跃函数&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;1(t)&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{s}$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\frac{1}&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
+&lt;tr s^2=&#34;&#34;&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;单位斜坡函数&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;t&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\frac{1}&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
+&lt;tr s^3=&#34;&#34;&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;单位加速度函数&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{2}t^2$$&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;3&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;msup&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\frac{1}{2}t^2&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1.190108em;vertical-align:-0.345em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.845108em;&#34;&gt;&lt;span style=&#34;top:-2.6550000000000002em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.394em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.345em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.8141079999999999em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\frac{1}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;单位脉冲函数&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\delta(t)$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;δ&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;(&lt;/mo&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mo stretchy=&#34;false&#34;&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\delta(t)&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:1em;vertical-align:-0.25em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.03785em;&#34;&gt;δ&lt;/span&gt;&lt;span class=&#34;mopen&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;t&lt;/span&gt;&lt;span class=&#34;mclose&#34;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
 &lt;/tr&gt;
-&lt;tr&gt;
+&lt;tr s^2+\omega^2=&#34;&#34;&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;正弦函数&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$A\sin{\omega t}$$&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;A\omega}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34; \omega=&#34;&#34; t=&#34;&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;sin&lt;/mi&gt;&lt;mo&gt;⁡&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;A\sin&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.16666666666666666em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mop&#34;&gt;sin&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\frac{A\omega}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&#34;text-align:center&#34;&gt;余弦函数&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$A\cos{\omega t}$$&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;As}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34; \omega=&#34;&#34; t=&#34;&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;cos&lt;/mi&gt;&lt;mo&gt;⁡&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;A\cos&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.68333em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.16666666666666666em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mop&#34;&gt;cos&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;\frac{As}&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -356,8 +356,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;li&gt;时间复杂度：O (n)&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="算法~" />
         <category term="笔记~" />
+        <category term="算法~" />
         <updated>2021-11-18T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -383,8 +383,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;p&gt;&lt;span class=&#34;label&#34;&gt;a&amp;lt;&amp;lt;b&lt;/span&gt; 等价于 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mo&gt;∗&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;a*2^b&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.46528em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;∗&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222222222222222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.849108em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.849108em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;b&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
  时间复杂度 O (1)&lt;/p&gt;
 </content>
-        <category term="算法~" />
         <category term="笔记~" />
+        <category term="算法~" />
         <updated>2021-11-12T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -438,8 +438,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
 &lt;/ol&gt;
 &lt;/blockquote&gt;
 </content>
-        <category term="算法~" />
         <category term="笔记~" />
+        <category term="算法~" />
         <updated>2021-11-09T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -870,8 +870,8 @@ sum = &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt
 &lt;h4 id=&#34;树上差分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#树上差分&#34;&gt;#&lt;/a&gt; 树上差分&lt;/h4&gt;
 &lt;h4 id=&#34;边差分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#边差分&#34;&gt;#&lt;/a&gt; 边差分&lt;/h4&gt;
 </content>
-        <category term="算法~" />
         <category term="笔记~" />
+        <category term="算法~" />
         <updated>2021-11-05T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -947,8 +947,8 @@ h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;li&gt;贪心选择性&lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="算法~" />
         <category term="笔记~" />
+        <category term="算法~" />
         <updated>2021-11-03T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -1421,6 +1421,20 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
         <updated>2021-11-01T16:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/Python/rename/</id>
+        <title>文件批量重命名</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Python/rename/"/>
+        <content type="html">&lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
+&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt;  os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="笔记~" />
+        <category term="Python~" />
+        <updated>2021-11-01T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
         <title>Markdown语法学习</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
@@ -1499,20 +1513,6 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
 &lt;p&gt;就先写这么多吧，以后再继续添加（yeah~）&lt;/p&gt;
 </content>
         <category term="笔记~" />
-        <updated>2021-11-01T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://astolfocat.github.io/MyCategories/note/Python/rename/</id>
-        <title>文件批量重命名</title>
-        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Python/rename/"/>
-        <content type="html">&lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
-&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt;  os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="笔记~" />
-        <category term="Python~" />
         <updated>2021-11-01T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -1830,8 +1830,8 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
         <content type="html">&lt;h1 id=&#34;数据结构02_二叉树&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构02_二叉树&#34;&gt;#&lt;/a&gt; 数据结构 02_二叉树&lt;/h1&gt;
 &lt;p&gt;二叉树是巴拉巴拉巴拉巴拉……&lt;/p&gt;
 </content>
-        <category term="笔记~" />
         <category term="数据结构~" />
+        <category term="笔记~" />
         <updated>2021-10-30T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -1881,8 +1881,8 @@ categories 会按照分类来显示&lt;/p&gt;
         <content type="html">&lt;h1 id=&#34;数据结构01_序言&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据结构01_序言&#34;&gt;#&lt;/a&gt; 数据结构 01_序言&lt;/h1&gt;
 &lt;p&gt;比如这是数据结构的第一篇笔记&lt;/p&gt;
 </content>
-        <category term="笔记~" />
         <category term="数据结构~" />
+        <category term="笔记~" />
         <updated>2021-10-29T16:00:00.000Z</updated>
     </entry>
 </feed>
