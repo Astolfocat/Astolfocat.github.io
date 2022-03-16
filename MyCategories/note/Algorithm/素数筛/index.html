@@ -24,7 +24,7 @@
 <link rel="stylesheet" href="/css/app.css?v=0.2.5">
 
   
-  <meta name="keywords" content="笔记~,算法~" />
+  <meta name="keywords" content="算法~,笔记~" />
 
 
 <link rel="canonical" href="https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/">
@@ -76,7 +76,7 @@
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>2.2k</span>
+    <span>2.1k</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -117,12 +117,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giclh0m9pdj20zk0m8hdt.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipesrnqv3j20zk0m8ava.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giciuv0socj20zk0m8qes.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1giciukx8a7j20zk0m8aio.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipetv6p75j20zk0m8x6p.jpg"></li>
-          <li class="item" data-background-image="https://tva4.sinaimg.cn/large/6833939bly1gipeuibk9fj20zk0m8ay2.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclx6phq6j20zk0m8e36.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gipetfk5zwj20zk0m8e81.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclhfehz7j20zk0m8u0x.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giciundwu5j20zk0m8n9e.jpg"></li>
+          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gicivghyooj20zk0m8dir.jpg"></li>
         </ul>
       </div>
     </header>
@@ -171,80 +171,39 @@
   <div class="body md" itemprop="articleBody">
     
 
-    <h2 id="求质数的素数筛"><a class="markdownIt-Anchor" href="#求质数的素数筛">#</a> 求质数的素数筛</h2>
-<h3 id="素数的判定"><a class="markdownIt-Anchor" href="#素数的判定">#</a> 素数的判定</h3>
-<p>对于任意自然数 n ，枚举 2 ~ <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>n</mi></msqrt></mrow><annotation encoding="application/x-tex">\sqrt{n}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.04em;vertical-align:-0.23972em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8002800000000001em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord mathnormal">n</span></span></span><span style="top:-2.76028em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702
-c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
-c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
-c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
-s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
-c69,-144,104.5,-217.7,106.5,-221
-l0 -0
-c5.3,-9.3,12,-14,20,-14
-H400000v40H845.2724
-s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
-c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
-M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.23972em;"><span></span></span></span></span></span></span></span></span> 的所有数，判断能否整除 n （即余数是否为零），若都不能整除，即余数全都不为零，则 n 为质数。</p>
+    <h2 id="求质数的素数筛"><a href="#求质数的素数筛" class="headerlink" title="求质数的素数筛"></a>求质数的素数筛</h2><h3 id="素数的判定"><a href="#素数的判定" class="headerlink" title="素数的判定"></a>素数的判定</h3><p>对于任意自然数 n ，枚举 2 ~ $\sqrt{n}$ 的所有数，判断能否整除 n （即余数是否为零），若都不能整除，即余数全都不为零，则 n 为质数。  </p>
 <ul>
-<li>时间复杂度：O (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msqrt><mi>n</mi></msqrt></mrow><annotation encoding="application/x-tex">\sqrt{n}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.04em;vertical-align:-0.23972em;"></span><span class="mord sqrt"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8002800000000001em;"><span class="svg-align" style="top:-3em;"><span class="pstrut" style="height:3em;"></span><span class="mord" style="padding-left:0.833em;"><span class="mord mathnormal">n</span></span></span><span style="top:-2.76028em;"><span class="pstrut" style="height:3em;"></span><span class="hide-tail" style="min-width:0.853em;height:1.08em;"><svg width='400em' height='1.08em' viewBox='0 0 400000 1080' preserveAspectRatio='xMinYMin slice'><path d='M95,702
-c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
-c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
-c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
-s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
-c69,-144,104.5,-217.7,106.5,-221
-l0 -0
-c5.3,-9.3,12,-14,20,-14
-H400000v40H845.2724
-s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
-c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
-M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.23972em;"><span></span></span></span></span></span></span></span></span>)</li>
+<li>时间复杂度：O($\sqrt{n}$)  </li>
 </ul>
-<h3 id="埃拉托色尼筛法埃氏筛法"><a class="markdownIt-Anchor" href="#埃拉托色尼筛法埃氏筛法">#</a> 埃拉托色尼筛法（埃氏筛法）</h3>
-<p>问题：求 2~N 内的所有质数<br>
-步骤：</p>
+<h3 id="埃拉托色尼筛法（埃氏筛法）"><a href="#埃拉托色尼筛法（埃氏筛法）" class="headerlink" title="埃拉托色尼筛法（埃氏筛法）"></a>埃拉托色尼筛法（埃氏筛法）</h3><p>问题：求 2~N 内的所有质数<br>步骤：</p>
 <ol>
 <li>从 i=2 开始枚举，并将 2~N 范围内 2 的倍数都标记为合数，直到 k*i&gt;N。</li>
-<li>i++，然后看 i 是否有在之前的步骤中被标记，若没有被标记，说明 2~i-1 中没有 i 的因素，故 i 为质数。</li>
-<li>优化：不从 i，2*i…… 开始筛，而是从 i*i 开始筛。因为当你扫到 i 的时候，i*2，i*3，……，i*i-1 已经在前面 2，3，……，i-1 的时候被筛掉了，你只需要筛掉 i*i,i*i+1,…… 即可。</li>
+<li>i++，然后看i是否有在之前的步骤中被标记，若没有被标记，说明 2~i-1 中没有 i 的因素，故 i 为质数。</li>
+<li>优化：不从 i，2*i…… 开始筛，而是从 i*i 开始筛。因为当你扫到 i 的时候，i*2，i*3，……，i*i-1 已经在前面2，3，……，i-1 的时候被筛掉了,你只需要筛掉 i*i,i*i+1,……即可。</li>
 </ol>
 <p>代码：</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">primes</span><span class="params">(<span class="keyword">int</span> n)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">memset</span>(v,<span class="number">0</span>,<span class="keyword">sizeof</span>(v));<span class="comment">//0表示素数，1表示合数</span></span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">2</span>;i&lt;=n;i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="comment">//若 i 没被标记，则v[i]=0，即 i 是素数，放在prime数组中，并且从 i*i 开始标记所有 i 的倍数</span></span><br><span class="line">        <span class="comment">//若 i 已被标记，则v[i]=1，则 i 的倍数必在之前就被标记过，所以不用进入循环。</span></span><br><span class="line">        <span class="keyword">if</span>(!v[i])</span><br><span class="line">        &#123;</span><br><span class="line">            prime[++cnt] = i;<span class="comment">//cnt表示素数个数</span></span><br><span class="line">            <span class="keyword">for</span>(<span class="keyword">int</span> j=i*i;j&lt;=n;j+=i)</span><br><span class="line">            &#123;</span><br><span class="line">                v[j] = <span class="number">1</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <ul>
-<li>时间复杂度：O (<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mi>l</mi><mi>o</mi><mi>g</mi><mo stretchy="false">(</mo><mi>l</mi><mi>o</mi><mi>g</mi><mi>n</mi><mo stretchy="false">)</mo></mrow><annotation encoding="application/x-tex">nlog(logn)</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">n</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mopen">(</span><span class="mord mathnormal" style="margin-right:0.01968em;">l</span><span class="mord mathnormal">o</span><span class="mord mathnormal" style="margin-right:0.03588em;">g</span><span class="mord mathnormal">n</span><span class="mclose">)</span></span></span></span>)</li>
+<li>时间复杂度：O($nlog(logn)$)  </li>
 </ul>
-<h3 id="线性筛欧拉筛"><a class="markdownIt-Anchor" href="#线性筛欧拉筛">#</a> 线性筛（欧拉筛）</h3>
-<p>优化后的埃拉托色尼筛也有重复筛到数的情况，比如 2,3 都会筛 12，2 和 4 都会筛到 24，要保证线性效率，就必须让每个数只被筛一次。</p>
+<h3 id="线性筛（欧拉筛）"><a href="#线性筛（欧拉筛）" class="headerlink" title="线性筛（欧拉筛）"></a>线性筛（欧拉筛）</h3><p>优化后的埃拉托色尼筛也有重复筛到数的情况，比如2,3都会筛12，2和4都会筛到24，要保证线性效率，就必须让每个数只被筛一次。</p>
 <hr>
 <p>原理：每个数都有唯一一个最小质因子，让每个数只被自己的最小质因数筛去，就可以做到线性时间啦。</p>
 <hr>
-<p>思维：如果 i 能整除 prime [j]，则 i*prime [j+1] 肯定能被后面某个数 k*prime [j] 给筛掉，故有以下核心代码：</p>
+<p>思维：如果 i 能整除 prime[j]，则 i*prime[j+1] 肯定能被后面某个数 k*prime[j] 给筛掉，故有以下核心代码：</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line"><span class="keyword">if</span>(i%prime[j]==<span class="number">0</span>) <span class="keyword">break</span>;</span><br></pre></td></tr></table></figure>
-<p>其意思是，若 i 能整除 prime [j]，则 i*prime [j] 这个数就先不筛，等后面再筛。</p>
+<p>其意思是，若 i 能整除 prime[j]，则 i*prime[j] 这个数就先不筛，等后面再筛。</p>
 <hr>
-<p>换个角度再讲一遍（因为太难理解了，我是笨蛋呜呜呜）</p>
+<p>换个角度再讲一遍（因为太难理解了，我是笨蛋呜呜呜）  </p>
 <ul>
 <li>一个合数 n = 其最小质因子 × 其最大非自身因数</li>
 <li>我们要让这个 n 在 i 循环到<strong>其最大非自身因数</strong>的时候被筛掉，其他时间不被筛</li>
-<li>首先，先初始化两个数组，isprime [i] 表示 i 是否为素数，取值为 1 表示素数，取值为 0 表示合数，初始先全部赋值为 1。prime [cnt] 存储所有素数，cnt 起到计数的作用。<span class="rainbow">注意，count 不可作为自定义变量名，所以用 cnt 代替吧</span></li>
-<li>isprime [1] = 0，因为 1 不是素数。</li>
-<li>外层循环 i 从 2 开始循环到 n，先判断 isprime [i] 是否为 1，是的话表示 i 为素数，把 i 加入 prime 数组中。不是的话就不用管啦。</li>
-<li><strong>开始最重要的一步：筛数</strong>，我们要把 <strong>以 i 为最大非自身因数的合数</strong> 筛 / 标记为合数，做法就是用 i 去乘以 prime 数组里已有的质数，直到 i % prime [j]==0</li>
-<li>为什么呢，因为 prime 里面的质数一定都小于当前的 i，那么此时 i 乘以这些质数得到的合数，就是我们要找的<strong>以 i 为最大非自身因数的合数</strong>，但是一旦 i % prime [j]==0，这个时候就从数学的角度来写一下吧。</li>
-<li>不妨设</li>
-</ul>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>k</mi><mo>=</mo><mi>i</mi><mo>∗</mo><mi>p</mi><mi>r</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo stretchy="false">[</mo><mi>j</mi><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">k = i*prime[j]
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathnormal">i</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">m</span><span class="mord mathnormal">e</span><span class="mopen">[</span><span class="mord mathnormal" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span></span></p>
-<p>因为有</p>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>i</mi><mi mathvariant="normal">∣</mi><mi>p</mi><mi>r</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo stretchy="false">[</mo><mi>j</mi><mo stretchy="false">]</mo></mrow><annotation encoding="application/x-tex">i | prime[j]
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">i</span><span class="mord">∣</span><span class="mord mathnormal">p</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">m</span><span class="mord mathnormal">e</span><span class="mopen">[</span><span class="mord mathnormal" style="margin-right:0.05724em;">j</span><span class="mclose">]</span></span></span></span></span></p>
-<p>故设</p>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>i</mi><mo>=</mo><mi>p</mi><mi>r</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo stretchy="false">[</mo><mi>j</mi><mo stretchy="false">]</mo><mo>∗</mo><mi>m</mi></mrow><annotation encoding="application/x-tex">i = prime[j]*m
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.65952em;vertical-align:0em;"></span><span class="mord mathnormal">i</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">m</span><span class="mord mathnormal">e</span><span class="mopen">[</span><span class="mord mathnormal" style="margin-right:0.05724em;">j</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span></span></p>
-<p>即</p>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>k</mi><mo>=</mo><mi>p</mi><mi>r</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo stretchy="false">[</mo><mi>j</mi><mo stretchy="false">]</mo><mo>∗</mo><mi>p</mi><mi>r</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo stretchy="false">[</mo><mi>j</mi><mo stretchy="false">]</mo><mo>∗</mo><mi>m</mi></mrow><annotation encoding="application/x-tex">k = prime[j]*prime[j]*m
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.69444em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.03148em;">k</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">m</span><span class="mord mathnormal">e</span><span class="mopen">[</span><span class="mord mathnormal" style="margin-right:0.05724em;">j</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal">p</span><span class="mord mathnormal" style="margin-right:0.02778em;">r</span><span class="mord mathnormal">i</span><span class="mord mathnormal">m</span><span class="mord mathnormal">e</span><span class="mopen">[</span><span class="mord mathnormal" style="margin-right:0.05724em;">j</span><span class="mclose">]</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">∗</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span></span></p>
-<p>那么很明显，k 的最大非自身因数不是 i，而是另有其数（不妨设为 p）。所以 k 不能在 i 这一次循环中被筛掉，而是在 i 循环到 p 的时候再被筛掉。</p>
-<ul>
+<li>首先，先初始化两个数组，isprime[i] 表示 i 是否为素数，取值为 1 表示素数，取值为 0 表示合数，初始先全部赋值为 1。prime[cnt] 存储所有素数，cnt 起到计数的作用。[注意，count不可作为自定义变量名，所以用cnt代替吧]{.rainbow}</li>
+<li>isprime[1] = 0，因为 1 不是素数。</li>
+<li>外层循环 i 从 2 开始循环到 n，先判断 isprime[i] 是否为 1，是的话表示 i 为素数，把 i 加入 prime数组中。不是的话就不用管啦。</li>
+<li><strong>开始最重要的一步：筛数</strong>，我们要把 <strong>以 i 为最大非自身因数的合数</strong> 筛/标记为合数，做法就是用 i 去乘以 prime 数组里已有的质数，直到 i % prime[j]==0</li>
+<li>为什么呢，因为 prime 里面的质数一定都小于当前的 i，那么此时 i 乘以这些质数得到的合数，就是我们要找的<strong>以 i 为最大非自身因数的合数</strong>，但是一旦 i % prime[j]==0，这个时候就从数学的角度来写一下吧。</li>
+<li>不妨设<br>$$<br>k = i*prime[j]<br>$$<br>因为有<br>$$<br>i | prime[j]<br>$$<br>故设<br>$$<br>i = prime[j]*m<br>$$<br>即<br>$$<br>k = prime[j]*prime[j]*m<br>$$<br>那么很明显，k 的最大非自身因数不是 i，而是另有其数（不妨设为 p）。所以 k 不能在 i 这一次循环中被筛掉，而是在 i 循环到 p 的时候再被筛掉。</li>
 <li>看看前几轮的循环过程吧</li>
 </ul>
 <table>
@@ -255,8 +214,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <th>筛去的数</th>
 </tr>
 </thead>
-<tbody>
-<tr>
+<tbody><tr>
 <td>2</td>
 <td>2</td>
 <td>4</td>
@@ -291,23 +249,22 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <td>……</td>
 <td>……</td>
 </tr>
-</tbody>
-</table>
+</tbody></table>
 <ul>
 <li>我们可以注意到，12 这个数没有在 i=4 的时候被筛掉，因为 i=4 的时候，首先筛去 4*2=8，然后发现 4 % 2 == 0，故停止筛数了，就不会去筛后面的 4*3=12，那么 12 什么时候筛呢，答案是当 i 循环到 6 的时候，由 6*2=12 筛去。</li>
 </ul>
 <hr>
-<p><span class="rainbow">希望这样能解释清楚了 QwQ</span></p>
+<p>[希望这样能解释清楚了QwQ]{.rainbow}</p>
 <hr>
 <p>线性筛代码如下：</p>
 <figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line"><span class="keyword">int</span> isprime[<span class="number">1000001</span>];</span><br><span class="line"><span class="keyword">int</span> prime[<span class="number">100001</span>];</span><br><span class="line"><span class="keyword">int</span> cnt = <span class="number">0</span>;</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">void</span> <span class="title">primes</span><span class="params">(<span class="keyword">int</span> n)</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">    <span class="built_in">memset</span>(isprime, <span class="number">1</span>, <span class="keyword">sizeof</span>(isprime));</span><br><span class="line">    isprime[<span class="number">1</span>] = <span class="number">0</span>;</span><br><span class="line">    <span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">2</span>; i&lt;=n; i++)</span><br><span class="line">    &#123;</span><br><span class="line">        <span class="keyword">if</span>(isprime[i])</span><br><span class="line">        &#123;</span><br><span class="line">            prime[++cnt] = i;</span><br><span class="line">        &#125;</span><br><span class="line">        <span class="keyword">for</span>(<span class="keyword">int</span> j=<span class="number">1</span>; j&lt;=cnt &amp;&amp; i*prime[j]&lt;=n; j++)</span><br><span class="line">        &#123;</span><br><span class="line">            isprime[i*prime[j]] = <span class="number">0</span>;</span><br><span class="line">            <span class="keyword">if</span>(i%prime[j]==<span class="number">0</span>)</span><br><span class="line">            &#123;</span><br><span class="line">                <span class="keyword">break</span>;</span><br><span class="line">            &#125;</span><br><span class="line">        &#125;</span><br><span class="line">    &#125;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
 <ul>
-<li>时间复杂度：O (n)</li>
+<li>时间复杂度：O(n)</li>
 </ul>
 
       <div class="tags">
-          <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 笔记~</a>
           <a href="/tags/%E7%AE%97%E6%B3%95/" rel="tag"><i class="ic i-tag"></i> 算法~</a>
+          <a href="/tags/%E7%AC%94%E8%AE%B0/" rel="tag"><i class="ic i-tag"></i> 笔记~</a>
       </div>
   </div>
 
@@ -363,7 +320,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
     <div class="item left">
       
 
-  <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva4.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giph4wqtg4j20zk0m8x6p.jpg" title="[算法] 一句话算法">
+  <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva2.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gicitspjpbj20zk0m81ky.jpg" title="[算法] 一句话算法">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> 算法</span>
   <h3>[算法] 一句话算法</h3>
@@ -373,7 +330,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
     <div class="item right">
       
 
-  <a href="/MyCategories/note/plan/2021_12/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva4.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipeyhsblkj20zk0m81kx.jpg" title="12月学习计划日志">
+  <a href="/MyCategories/note/plan/2021_12/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva2.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giciryrr3rj20zk0m8nhk.jpg" title="12月学习计划日志">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 日记计划</span>
   <h3>12月学习计划日志</h3>
@@ -395,7 +352,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
   <div class="panels">
     <div class="inner">
       <div class="contents panel pjax" data-title="文章目录">
-          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B1%82%E8%B4%A8%E6%95%B0%E7%9A%84%E7%B4%A0%E6%95%B0%E7%AD%9B"><span class="toc-number">1.</span> <span class="toc-text"> 求质数的素数筛</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%B4%A0%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A"><span class="toc-number">1.1.</span> <span class="toc-text"> 素数的判定</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9F%83%E6%8B%89%E6%89%98%E8%89%B2%E5%B0%BC%E7%AD%9B%E6%B3%95%E5%9F%83%E6%B0%8F%E7%AD%9B%E6%B3%95"><span class="toc-number">1.2.</span> <span class="toc-text"> 埃拉托色尼筛法（埃氏筛法）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BA%BF%E6%80%A7%E7%AD%9B%E6%AC%A7%E6%8B%89%E7%AD%9B"><span class="toc-number">1.3.</span> <span class="toc-text"> 线性筛（欧拉筛）</span></a></li></ol></li></ol>
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B1%82%E8%B4%A8%E6%95%B0%E7%9A%84%E7%B4%A0%E6%95%B0%E7%AD%9B"><span class="toc-number">1.</span> <span class="toc-text">求质数的素数筛</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%B4%A0%E6%95%B0%E7%9A%84%E5%88%A4%E5%AE%9A"><span class="toc-number">1.1.</span> <span class="toc-text">素数的判定</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%9F%83%E6%8B%89%E6%89%98%E8%89%B2%E5%B0%BC%E7%AD%9B%E6%B3%95%EF%BC%88%E5%9F%83%E6%B0%8F%E7%AD%9B%E6%B3%95%EF%BC%89"><span class="toc-number">1.2.</span> <span class="toc-text">埃拉托色尼筛法（埃氏筛法）</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BA%BF%E6%80%A7%E7%AD%9B%EF%BC%88%E6%AC%A7%E6%8B%89%E7%AD%9B%EF%BC%89"><span class="toc-number">1.3.</span> <span class="toc-text">线性筛（欧拉筛）</span></a></li></ol></li></ol>
       </div>
       <div class="related panel pjax" data-title="系列文章">
         <ul>
@@ -511,7 +468,19 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
 </div>
 
-    <span><a href="/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/" title="[算法] 素数筛">[算法] 素数筛</a></span>
+    <span><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" title="[算法] 一句话算法">[算法] 一句话算法</a></span>
   </li>
 
       
@@ -523,7 +492,31 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
 </div>
 
-    <span><a href="/MyCategories/note/plan/2021_12/" title="12月学习计划日志">12月学习计划日志</a></span>
+    <span><a href="/MyCategories/note/plan/2021_10/" title="10月学习计划日志">10月学习计划日志</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/others/" title="分类于 其它">其它</a>
+</div>
+
+    <span><a href="/MyCategories/note/others/%E5%8D%9A%E5%AE%A2%E6%94%AF%E6%8C%81%E7%9A%84%E7%89%B9%E6%AE%8Amarkdown%E8%AF%AD%E6%B3%95/" title="博客专用md语法">博客专用md语法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/" title="[算法] 二分&#x2F;尺取&#x2F;三分">[算法] 二分/尺取/三分</a></span>
   </li>
 
       
@@ -544,46 +537,22 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/Matlab/" title="分类于 Matlab">Matlab</a>
-</div>
-
-    <span><a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" title="Matlab 复习笔记">Matlab 复习笔记</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/AutomaticControlPrinciple/" title="分类于 自动控制原理">自动控制原理</a>
-</div>
-
-    <span><a href="/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/" title="第3章 线性系统的时域分析法">第3章 线性系统的时域分析法</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/others/" title="分类于 其它">其它</a>
-</div>
-
-    <span><a href="/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/" title="Markdown语法学习">Markdown语法学习</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
 <a href="/categories/note/others/" title="分类于 其它">其它</a>
 </div>
 
     <span><a href="/MyCategories/note/others/%E4%B8%80%E4%BA%9B%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E7%9F%A5%E8%AF%86/" title="一些杂七杂八的知识">一些杂七杂八的知识</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Python/" title="分类于 Python">Python</a>
+</div>
+
+    <span><a href="/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" title="Python期末复习">Python期末复习</a></span>
   </li>
 
       
@@ -607,19 +576,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
 <a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
 </div>
 
-    <span><a href="/MyCategories/note/plan/2021_10/" title="10月学习计划日志">10月学习计划日志</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
-</div>
-
-    <span><a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" title="[算法] 一句话算法">[算法] 一句话算法</a></span>
+    <span><a href="/MyCategories/note/plan/2022_01/" title="1月学习计划日志">1月学习计划日志</a></span>
   </li>
 
   </ul>
@@ -640,13 +597,13 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span class="vlist-s">�
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">34k 字</span>
+    <span title="站点总字数">33k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">31 分钟</span>
+    <span title="站点阅读时长">30 分钟</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
