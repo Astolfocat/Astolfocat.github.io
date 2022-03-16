@@ -3,13 +3,64 @@
     <id>https://astolfocat.github.io</id>
     <title>阿福の可爱猫窝 • Posts by &#34;学习笔记&#34; category</title>
     <link href="https://astolfocat.github.io" />
-    <updated>2021-12-31T16:00:00.000Z</updated>
+    <updated>2022-03-15T16:00:00.000Z</updated>
     <category term="杂谈~" />
     <category term="算法~" />
     <category term="笔记~" />
     <category term="数据结构~" />
     <category term="Python~" />
     <category term="日记~" />
+    <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/</id>
+        <title>第3章 线性系统的时域分析法</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/"/>
+        <content type="html">&lt;h2 id=&#34;系统时间相应的性能指标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#系统时间相应的性能指标&#34;&gt;#&lt;/a&gt; 系统时间相应的性能指标&lt;/h2&gt;
+&lt;h3 id=&#34;典型输入信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#典型输入信号&#34;&gt;#&lt;/a&gt; 典型输入信号&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时域表达式&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;复域表达式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位阶跃函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1(t)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{s}$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位斜坡函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;t&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位加速度函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{2}t^2$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;3&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位脉冲函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\delta(t)$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;正弦函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$A\sin{\omega t}$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;A\omega}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;余弦函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$A\cos{\omega t}$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;As}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="笔记~" />
+        <updated>2022-03-15T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2022_01/</id>
         <title>1月学习计划日志</title>
@@ -1370,20 +1421,6 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
         <updated>2021-11-01T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://astolfocat.github.io/MyCategories/note/Python/rename/</id>
-        <title>文件批量重命名</title>
-        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Python/rename/"/>
-        <content type="html">&lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
-&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt;  os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
-        <category term="笔记~" />
-        <category term="Python~" />
-        <updated>2021-11-01T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</id>
         <title>Markdown语法学习</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
@@ -1462,6 +1499,20 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
 &lt;p&gt;就先写这么多吧，以后再继续添加（yeah~）&lt;/p&gt;
 </content>
         <category term="笔记~" />
+        <updated>2021-11-01T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/Python/rename/</id>
+        <title>文件批量重命名</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Python/rename/"/>
+        <content type="html">&lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
+&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt;  os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="笔记~" />
+        <category term="Python~" />
         <updated>2021-11-01T16:00:00.000Z</updated>
     </entry>
     <entry>

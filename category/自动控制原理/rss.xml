@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>阿福の可爱猫窝 • Posts by &#34;自动控制原理&#34; category</title>
+        <link>https://astolfocat.github.io</link>
+        <description>一只想要变可爱的男孩纸~</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 16 Mar 2022 00:00:00 +0800</pubDate>
+        <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0800</lastBuildDate>
+        <category>杂谈~</category>
+        <category>算法~</category>
+        <category>笔记~</category>
+        <category>数据结构~</category>
+        <category>Python~</category>
+        <category>日记~</category>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/</guid>
+            <title>第3章 线性系统的时域分析法</title>
+            <link>https://astolfocat.github.io/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/</link>
+            <category>笔记~</category>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;系统时间相应的性能指标&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#系统时间相应的性能指标&#34;&gt;#&lt;/a&gt; 系统时间相应的性能指标&lt;/h2&gt;
+&lt;h3 id=&#34;典型输入信号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#典型输入信号&#34;&gt;#&lt;/a&gt; 典型输入信号&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;名称&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;时域表达式&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;复域表达式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位阶跃函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1(t)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{s}$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位斜坡函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;t&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位加速度函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac{1}{2}t^2$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;1}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;3&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;单位脉冲函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\delta(t)$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;正弦函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$A\sin{\omega t}$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;A\omega}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;余弦函数&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$A\cos{\omega t}$$&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;$$\frac&lt;ruby&gt;As}{s&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2+\omega^2&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;$$&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
