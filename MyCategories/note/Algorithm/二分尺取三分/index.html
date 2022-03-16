@@ -76,7 +76,7 @@
       <i class="ic i-pen"></i>
     </span>
     <span class="text">本文字数</span>
-    <span>738</span>
+    <span>741</span>
     <span class="text">字</span>
   </span>
   <span class="item" title="阅读时长">
@@ -117,12 +117,12 @@
       </div>
       <div id="imgs" class="pjax">
         <ul>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclip4jbpj20zk0m87cv.jpg"></li>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gicli3sbvtj20zk0m8x6p.jpg"></li>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gipeuibk9fj20zk0m8ay2.jpg"></li>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1giclfb3vzhj20zk0m8wny.jpg"></li>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gipexoj0moj20zk0m8kgu.jpg"></li>
-          <li class="item" data-background-image="https://tva2.sinaimg.cn/large/6833939bly1gipeyonbf9j20zk0m8e81.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclil3m4ej20zk0m8tn8.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclxxcb6rj20zk0m8b29.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclflwv2aj20zk0m84qp.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1gipeudstjqj20zk0m8k3r.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclh0m9pdj20zk0m8hdt.jpg"></li>
+          <li class="item" data-background-image="https://tva1.sinaimg.cn/large/6833939bly1giclxfdlttj20zk0m8npd.jpg"></li>
         </ul>
       </div>
     </header>
@@ -171,14 +171,28 @@
   <div class="body md" itemprop="articleBody">
     
 
-    <h2 id="二分"><a href="#二分" class="headerlink" title="二分"></a>二分</h2><ul>
-<li>定义：正常查找是逐个从左到右查找，二分是每次从一半的地方开始查找。一次可以排除一半的元素。  </li>
-<li>关键：是否具有二段性。  </li>
-<li>查找大于等于x的第一个数<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">l = <span class="number">0</span>; r = n<span class="number">-1</span>;</span><br><span class="line"><span class="keyword">while</span>(l&lt;r&gt;)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">int</span> mid=l+r&gt;&gt;<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">if</span>(a[mid]&gt;=x) r=mid;</span><br><span class="line">    <span class="keyword">else</span> l=mid+<span class="number">1</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
-<li>查找小于等于x的最后一个数<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">l = <span class="number">0</span>; r = n<span class="number">-1</span>;</span><br><span class="line"><span class="keyword">while</span>(l&lt;r)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">int</span> mid=l+r+<span class="number">1</span>&gt;&gt;<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">if</span>(a[mid]&lt;=x) l=mid;</span><br><span class="line">    <span class="keyword">else</span> r=mid<span class="number">-1</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure></li>
-<li>二分题的思路：问满足题意的最大 n 为多少比较难，但是判断 n 能不能满足题意比较简单。因此用循环判断 n 满不满足题意，不断二分求最大 n。  </li>
+    <h2 id="二分"><a class="markdownIt-Anchor" href="#二分">#</a> 二分</h2>
+<ul>
+<li>
+<p>定义：正常查找是逐个从左到右查找，二分是每次从一半的地方开始查找。一次可以排除一半的元素。</p>
+</li>
+<li>
+<p>关键：是否具有二段性。</p>
+</li>
+<li>
+<p>查找大于等于 x 的第一个数</p>
+</li>
 </ul>
-<h2 id="尺取"><a href="#尺取" class="headerlink" title="尺取"></a>尺取</h2><ul>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">l = <span class="number">0</span>; r = n<span class="number">-1</span>;</span><br><span class="line"><span class="keyword">while</span>(l&lt;r&gt;)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">int</span> mid=l+r&gt;&gt;<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">if</span>(a[mid]&gt;=x) r=mid;</span><br><span class="line">    <span class="keyword">else</span> l=mid+<span class="number">1</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>查找小于等于 x 的最后一个数</li>
+</ul>
+<figure class="highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">  </span><br><span class="line">l = <span class="number">0</span>; r = n<span class="number">-1</span>;</span><br><span class="line"><span class="keyword">while</span>(l&lt;r)</span><br><span class="line">&#123;</span><br><span class="line">    <span class="keyword">int</span> mid=l+r+<span class="number">1</span>&gt;&gt;<span class="number">1</span>;</span><br><span class="line">    <span class="keyword">if</span>(a[mid]&lt;=x) l=mid;</span><br><span class="line">    <span class="keyword">else</span> r=mid<span class="number">-1</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<ul>
+<li>二分题的思路：问满足题意的最大 n 为多少比较难，但是判断 n 能不能满足题意比较简单。因此用循环判断 n 满不满足题意，不断二分求最大 n。</li>
+</ul>
+<h2 id="尺取"><a class="markdownIt-Anchor" href="#尺取">#</a> 尺取</h2>
+<ul>
 <li>定义：顾名思义，像尺子一样取一段。尺取法通常是保存数组的一对下标，即左右端点，然后根据实际情况不断地推进左右端点以得出答案。</li>
 </ul>
 <p>注意事项：</p>
@@ -190,16 +204,17 @@
 <li>何时结束区间枚举</li>
 </ol>
 </blockquote>
-<h2 id="三分"><a href="#三分" class="headerlink" title="三分"></a>三分</h2><ul>
-<li>单峰/谷函数：他们有唯一的极值点，且在极值点左右都严格单调且相反。  </li>
+<h2 id="三分"><a class="markdownIt-Anchor" href="#三分">#</a> 三分</h2>
+<ul>
+<li>单峰 / 谷函数：他们有唯一的极值点，且在极值点左右都严格单调且相反。</li>
 </ul>
 <p>三分法求极值：</p>
 <blockquote>
 <ol>
-<li>对于单峰函数f，在函数定义域[l,r]上任取两个点 lmid 和 rmid</li>
-<li>若 f(lmid) &lt; f(rmid),则 lmid 与 rmid 要么同时处于极大值左侧，要么处于极大值两侧，但是极大值点始终在 lmid 右侧，故可令 l=lmid</li>
-<li>若 f(lmid) &gt; f(rmid),则 lmid 与 rmid 要么同时处于极大值右侧，要么处于极大值两侧，但是极大值点始终在 rmid 右侧，故可令 r=rmid</li>
-<li>若取 lmid 与 rmid 为三等分点，则每次定义域范围缩小三分之一，通过log级别的时间复杂度即可在指定精度下求出极值。</li>
+<li>对于单峰函数 f，在函数定义域 [l,r] 上任取两个点 lmid 和 rmid</li>
+<li>若 f (lmid) &lt; f (rmid), 则 lmid 与 rmid 要么同时处于极大值左侧，要么处于极大值两侧，但是极大值点始终在 lmid 右侧，故可令 l=lmid</li>
+<li>若 f (lmid) &gt; f (rmid), 则 lmid 与 rmid 要么同时处于极大值右侧，要么处于极大值两侧，但是极大值点始终在 rmid 右侧，故可令 r=rmid</li>
+<li>若取 lmid 与 rmid 为三等分点，则每次定义域范围缩小三分之一，通过 log 级别的时间复杂度即可在指定精度下求出极值。</li>
 </ol>
 </blockquote>
 
@@ -261,7 +276,7 @@
     <div class="item left">
       
 
-  <a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva2.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giph4lm9i7j20zk0m84qp.jpg" title="Matlab 复习笔记">
+  <a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1giclj9410cj20zk0m8h12.jpg" title="Matlab 复习笔记">
   <span class="type">上一篇</span>
   <span class="category"><i class="ic i-flag"></i> Matlab</span>
   <h3>Matlab 复习笔记</h3>
@@ -271,7 +286,7 @@
     <div class="item right">
       
 
-  <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva2.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gicmnywqgpj20zk0m8dwx.jpg" title="[算法] 一句话算法">
+  <a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;tva1.sinaimg.cn&#x2F;mw690&#x2F;6833939bly1gipeybxm1pj20zk0m8niv.jpg" title="[算法] 一句话算法">
   <span class="type">下一篇</span>
   <span class="category"><i class="ic i-flag"></i> 算法</span>
   <h3>[算法] 一句话算法</h3>
@@ -293,7 +308,7 @@
   <div class="panels">
     <div class="inner">
       <div class="contents panel pjax" data-title="文章目录">
-          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%8C%E5%88%86"><span class="toc-number">1.</span> <span class="toc-text">二分</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B0%BA%E5%8F%96"><span class="toc-number">2.</span> <span class="toc-text">尺取</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%89%E5%88%86"><span class="toc-number">3.</span> <span class="toc-text">三分</span></a></li></ol>
+          <ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%BA%8C%E5%88%86"><span class="toc-number">1.</span> <span class="toc-text"> 二分</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B0%BA%E5%8F%96"><span class="toc-number">2.</span> <span class="toc-text"> 尺取</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E4%B8%89%E5%88%86"><span class="toc-number">3.</span> <span class="toc-text"> 三分</span></a></li></ol>
       </div>
       <div class="related panel pjax" data-title="系列文章">
         <ul>
@@ -406,54 +421,6 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
-</div>
-
-    <span><a href="/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/" title="[算法] 递推与前缀和">[算法] 递推与前缀和</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/Python/" title="分类于 Python">Python</a>
-</div>
-
-    <span><a href="/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" title="Python期末复习">Python期末复习</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
-</div>
-
-    <span><a href="/MyCategories/note/plan/2021_11/" title="11月学习计划日志">11月学习计划日志</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
-<a href="/categories/note/DataStructure/" title="分类于 数据结构">数据结构</a>
-</div>
-
-    <span><a href="/MyCategories/note/DataStructure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%8402/" title="[数据结构] 二叉树">[数据结构] 二叉树</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
-<i class="ic i-angle-right"></i>
 <a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
 </div>
 
@@ -466,10 +433,10 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
+<a href="/categories/note/AutomaticControlPrinciple/" title="分类于 自动控制原理">自动控制原理</a>
 </div>
 
-    <span><a href="/MyCategories/note/plan/2022_01/" title="1月学习计划日志">1月学习计划日志</a></span>
+    <span><a href="/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/" title="第3章 线性系统的时域分析法">第3章 线性系统的时域分析法</a></span>
   </li>
 
       
@@ -478,10 +445,46 @@
 <div class="breadcrumb">
 <a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
 <i class="ic i-angle-right"></i>
-<a href="/categories/note/AutomaticControlPrinciple/" title="分类于 自动控制原理">自动控制原理</a>
+<a href="/categories/note/Matlab/" title="分类于 Matlab">Matlab</a>
 </div>
 
-    <span><a href="/MyCategories/note/AutomaticControlPrinciple/%E7%AC%AC3%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E7%B3%BB%E7%BB%9F%E7%9A%84%E6%97%B6%E5%9F%9F%E5%88%86%E6%9E%90%E6%B3%95/" title="第3章 线性系统的时域分析法">第3章 线性系统的时域分析法</a></span>
+    <span><a href="/MyCategories/note/Matlab/MATLAB%E5%A4%8D%E4%B9%A0%E9%A2%98/" title="Matlab 复习笔记">Matlab 复习笔记</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/" title="[算法] 一句话算法">[算法] 一句话算法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/Algorithm/" title="分类于 算法">算法</a>
+</div>
+
+    <span><a href="/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/" title="[算法] 贪心算法">[算法] 贪心算法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/others/" title="分类于 其它">其它</a>
+</div>
+
+    <span><a href="/MyCategories/note/others/%E4%B8%80%E4%BA%9B%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E7%9F%A5%E8%AF%86/" title="一些杂七杂八的知识">一些杂七杂八的知识</a></span>
   </li>
 
       
@@ -505,7 +508,19 @@
 <a href="/categories/note/others/" title="分类于 其它">其它</a>
 </div>
 
-    <span><a href="/MyCategories/note/others/%E4%B8%80%E4%BA%9B%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB%E7%9A%84%E7%9F%A5%E8%AF%86/" title="一些杂七杂八的知识">一些杂七杂八的知识</a></span>
+    <span><a href="/MyCategories/note/others/%E5%8D%9A%E5%AE%A2%E6%94%AF%E6%8C%81%E7%9A%84%E7%89%B9%E6%AE%8Amarkdown%E8%AF%AD%E6%B3%95/" title="博客专用md语法">博客专用md语法</a></span>
+  </li>
+
+      
+  <li class="item">
+    
+<div class="breadcrumb">
+<a href="/categories/note/" title="分类于 学习笔记">学习笔记</a>
+<i class="ic i-angle-right"></i>
+<a href="/categories/note/plan/" title="分类于 日记计划">日记计划</a>
+</div>
+
+    <span><a href="/MyCategories/note/plan/2022_01/" title="1月学习计划日志">1月学习计划日志</a></span>
   </li>
 
       
@@ -538,13 +553,13 @@
     <span class="post-meta-item-icon">
       <i class="ic i-chart-area"></i>
     </span>
-    <span title="站点总字数">33k 字</span>
+    <span title="站点总字数">34k 字</span>
 
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="ic i-coffee"></i>
     </span>
-    <span title="站点阅读时长">30 分钟</span>
+    <span title="站点阅读时长">31 分钟</span>
   </div>
   <div class="powered-by">
     基于 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
