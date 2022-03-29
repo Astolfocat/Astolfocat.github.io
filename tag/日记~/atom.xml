@@ -4,9 +4,9 @@
     <title>阿福の可爱猫窝 • Posts by &#34;日记~&#34; tag</title>
     <link href="https://astolfocat.github.io" />
     <updated>2021-12-31T16:00:00.000Z</updated>
-    <category term="笔记~" />
-    <category term="算法~" />
     <category term="博客" />
+    <category term="算法~" />
+    <category term="笔记~" />
     <category term="Python~" />
     <category term="日记~" />
     <entry>
@@ -163,6 +163,75 @@
         <updated>2021-11-30T16:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</id>
+        <title>10月学习计划日志</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/plan/2021_10/"/>
+        <content type="html">&lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
+&lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
+&lt;p&gt;Github 的基本操作知识（完成～）&lt;br&gt;
+Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Astolfocat/Markdown_study&#34;&gt;Markdown 笔记在这里啦&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始尝试搭建自己的博客（进行时）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Yb411a7ty?p=1&amp;amp;share_medium=android&amp;amp;share_plat=android&amp;amp;share_source=QQ&amp;amp;share_tag=s_i&amp;amp;timestamp=1635581158&amp;amp;unique_k=eSoVqM&#34;&gt;手把手教你从 0 开始搭建自己的个人博客 | 无坑版视频教程 | hexo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;涉及其他教程：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.jianshu.com/p/9317a927e844&#34;&gt;windows 下 GitHub 的 SSH key 配置&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;完成进度：已经成功部署到 GitHub 上啦～（鼓掌）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20211031&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211031&#34;&gt;#&lt;/a&gt; 2021.10.31&lt;/h2&gt;
+&lt;p&gt;开始试着更换主题，加入自己的博客&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/amehime/hexo-theme-shoka&#34;&gt;主题是 shoka 啦，github 链接戳这里&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&#34;&gt;官方中文介绍戳这里&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;备注一下修改博客文件内容后的操作：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;hexo clean&lt;/li&gt;
+&lt;li&gt;hexo g&lt;/li&gt;
+&lt;li&gt;hexo s&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;然后就可以在本地查看了～&lt;br&gt;
+ 要保存到 GitHub 上则是 hexo d&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;资料：&lt;br&gt;
+&lt;a href=&#34;https://blog.csdn.net/lijing742180/article/details/85722664&#34;&gt;Hexo 站点配置文件内容解释&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://vonsdite.github.io/posts/e990fc02.html&#34;&gt; Hexo 站点配置文件_config 详解&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://blog.csdn.net/BetrayVirginia/article/details/113572364&#34;&gt;第 2 章 - Hexo 博客美化 | shkoa 的配置范例&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊～到底是把自己学的某一个知识作为标签还是作为分类呢（头大）&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在 GitHub 这边和博客那边都更新一份，好麻烦呀 555~&lt;br&gt;
+ 那么以后这边就只做简单记录，详细笔记全丢博客去了吧～～～～～～（好耶可以偷懒了）~~&lt;br&gt;
+ 博客在这：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;做的不好看呜呜呜，名字还恶心心&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用 Python 写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/Astolfocat/Python/blob/main/Python.md&#34;&gt;地址戳我戳我&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
+官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
+那么，十月份，圆满结束！！！&lt;/p&gt;
+</content>
+        <category term="笔记~" />
+        <category term="日记~" />
+        <updated>2021-11-01T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://astolfocat.github.io/MyCategories/note/plan/2021_11/</id>
         <title>11月学习计划日志</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/plan/2021_11/"/>
@@ -298,75 +367,6 @@
 &lt;p&gt;几乎满课，数据结构要准备写排序作业了，概率论也开始进入了看不懂的三大分布了。模电继续摆烂，回宿舍把选修课论文水了出来。然后继续摸鱼。&lt;/p&gt;
 &lt;h2 id=&#34;20211130-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211130-tue&#34;&gt;#&lt;/a&gt; 2021.11.30 Tue&lt;/h2&gt;
 &lt;p&gt;洛谷基础题还差最后 10 题，好耶。家长送的手撕兔也到了，是熟悉的四川味道，好耶（无情的好耶机器）。最后还是晚上四个人一起把它解决了。&lt;/p&gt;
-</content>
-        <category term="笔记~" />
-        <category term="日记~" />
-        <updated>2021-11-01T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</id>
-        <title>10月学习计划日志</title>
-        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/plan/2021_10/"/>
-        <content type="html">&lt;h1 id=&#34;202110月学习计划及日志&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#202110月学习计划及日志&#34;&gt;#&lt;/a&gt; 2021.10 月学习计划及日志&lt;/h1&gt;
-&lt;h2 id=&#34;20211030&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211030&#34;&gt;#&lt;/a&gt; 2021.10.30&lt;/h2&gt;
-&lt;p&gt;Github 的基本操作知识（完成～）&lt;br&gt;
-Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Astolfocat/Markdown_study&#34;&gt;Markdown 笔记在这里啦&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;开始尝试搭建自己的博客（进行时）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;教程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1Yb411a7ty?p=1&amp;amp;share_medium=android&amp;amp;share_plat=android&amp;amp;share_source=QQ&amp;amp;share_tag=s_i&amp;amp;timestamp=1635581158&amp;amp;unique_k=eSoVqM&#34;&gt;手把手教你从 0 开始搭建自己的个人博客 | 无坑版视频教程 | hexo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;涉及其他教程：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.jianshu.com/p/9317a927e844&#34;&gt;windows 下 GitHub 的 SSH key 配置&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;完成进度：已经成功部署到 GitHub 上啦～（鼓掌）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;20211031&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211031&#34;&gt;#&lt;/a&gt; 2021.10.31&lt;/h2&gt;
-&lt;p&gt;开始试着更换主题，加入自己的博客&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/amehime/hexo-theme-shoka&#34;&gt;主题是 shoka 啦，github 链接戳这里&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/&#34;&gt;官方中文介绍戳这里&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;备注一下修改博客文件内容后的操作：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;hexo clean&lt;/li&gt;
-&lt;li&gt;hexo g&lt;/li&gt;
-&lt;li&gt;hexo s&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;然后就可以在本地查看了～&lt;br&gt;
- 要保存到 GitHub 上则是 hexo d&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;资料：&lt;br&gt;
-&lt;a href=&#34;https://blog.csdn.net/lijing742180/article/details/85722664&#34;&gt;Hexo 站点配置文件内容解释&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://vonsdite.github.io/posts/e990fc02.html&#34;&gt; Hexo 站点配置文件_config 详解&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;https://blog.csdn.net/BetrayVirginia/article/details/113572364&#34;&gt;第 2 章 - Hexo 博客美化 | shkoa 的配置范例&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;博客大概可以开始写了，但是那个分类和标签好晕啊～到底是把自己学的某一个知识作为标签还是作为分类呢（头大）&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;现在又发现了个问题，每次更新笔记的时候都要在 GitHub 这边和博客那边都更新一份，好麻烦呀 555~&lt;br&gt;
- 那么以后这边就只做简单记录，详细笔记全丢博客去了吧～～～～～～（好耶可以偷懒了）~~&lt;br&gt;
- 博客在这：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://astolfocat.github.io/&#34;&gt;阿福の可爱猫窝&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;做的不好看呜呜呜，名字还恶心心&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;另外因为保存了大量阿福的图片，强迫症又想统一名字，于是用 Python 写了个自动给大量文件重命名的代码（好耶）果然需求就是第一生产力欸嘿嘿&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/Astolfocat/Python/blob/main/Python.md&#34;&gt;地址戳我戳我&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;十月马上要结束了，博客也快到尾声了，马上就可以正常投入使用了&lt;br&gt;
-官方文件给的图床用不了（气），有空还要继续研究如何使用自己的图片&lt;br&gt;
-那么，十月份，圆满结束！！！&lt;/p&gt;
 </content>
         <category term="笔记~" />
         <category term="日记~" />
