@@ -7,8 +7,8 @@
         <language>zh-CN</language>
         <pubDate>Sun, 10 Apr 2022 00:00:00 +0800</pubDate>
         <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0800</lastBuildDate>
-        <category>算法~</category>
         <category>笔记~</category>
+        <category>算法~</category>
         <category>博客</category>
         <category>Python~</category>
         <category>日记~</category>
@@ -1296,8 +1296,8 @@ e_{ssn} &amp;amp;= \lim_{s\to0}sE(s)\\
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/</guid>
             <title>素数筛</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/</link>
-            <category>算法~</category>
             <category>笔记~</category>
+            <category>算法~</category>
             <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;求质数的素数筛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#求质数的素数筛&#34;&gt;#&lt;/a&gt; 求质数的素数筛&lt;/h2&gt;
 &lt;h3 id=&#34;素数的判定&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#素数的判定&#34;&gt;#&lt;/a&gt; 素数的判定&lt;/h3&gt;
@@ -1438,8 +1438,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/</guid>
             <title>一句话算法</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/</link>
-            <category>算法~</category>
             <category>笔记~</category>
+            <category>算法~</category>
             <pubDate>Sat, 13 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;快速判断奇偶&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速判断奇偶&#34;&gt;#&lt;/a&gt; 快速判断奇偶&lt;/h2&gt;
 &lt;p&gt;在二进制中，所有奇数末位均为 1，所有偶数末位均为 0，故可使用按位与。&lt;/p&gt;
@@ -1465,8 +1465,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/</guid>
             <title>二分/尺取/三分</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/</link>
-            <category>算法~</category>
             <category>笔记~</category>
+            <category>算法~</category>
             <pubDate>Wed, 10 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;二分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二分&#34;&gt;#&lt;/a&gt; 二分&lt;/h2&gt;
 &lt;ul&gt;
@@ -1884,8 +1884,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/</guid>
             <title>递推与前缀和</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/</link>
-            <category>算法~</category>
             <category>笔记~</category>
+            <category>算法~</category>
             <pubDate>Sat, 06 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;算法概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#算法概述&#34;&gt;#&lt;/a&gt; 算法概述&lt;/h2&gt;
 &lt;h3 id=&#34;递推的定义&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#递推的定义&#34;&gt;#&lt;/a&gt; 递推的定义&lt;/h3&gt;
@@ -2009,8 +2009,8 @@ h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</guid>
             <title>贪心算法</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</link>
-            <category>算法~</category>
             <category>笔记~</category>
+            <category>算法~</category>
             <pubDate>Thu, 04 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;贪心算法简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法简介&#34;&gt;#&lt;/a&gt; 贪心算法简介&lt;/h2&gt;
 &lt;h3 id=&#34;贪心算法基本思想&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法基本思想&#34;&gt;#&lt;/a&gt; 贪心算法基本思想&lt;/h3&gt;
@@ -2510,87 +2510,6 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
-            <title>Markdown 语法笔记</title>
-            <link>https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
-            <category>笔记~</category>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;1-标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-标题&#34;&gt;#&lt;/a&gt; 1、标题&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 一级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;## 二级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;### 三级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#### 四级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##### 五级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;###### 六级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;正文&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
-&lt;h2 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h2&gt;
-&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三级标题&#34;&gt;#&lt;/a&gt; 三级标题&lt;/h3&gt;
-&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四级标题&#34;&gt;#&lt;/a&gt; 四级标题&lt;/h4&gt;
-&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五级标题&#34;&gt;#&lt;/a&gt; 五级标题&lt;/h5&gt;
-&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六级标题&#34;&gt;#&lt;/a&gt; 六级标题&lt;/h6&gt;
-&lt;p&gt;正文&lt;/p&gt;
-&lt;h2 id=&#34;2-代码块&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-代码块&#34;&gt;#&lt;/a&gt; 2、代码块：&lt;/h2&gt;
-&lt;p&gt;用英文下的 ``` 加语言进行注释&lt;/p&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;hello world&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 注释&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;hello world&amp;#x27;&lt;/span&gt; &amp;lt;&amp;lt; endl;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h2 id=&#34;3-字体&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-字体&#34;&gt;#&lt;/a&gt; 3、字体&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 加粗&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;**内容**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 斜体&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;*斜体*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 删除线&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;~~删除~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 高亮&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;==高亮==&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;删除&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;&lt;mark&gt;we&lt;/mark&gt;&lt;/p&gt;
-&lt;h2 id=&#34;4-引用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-引用&#34;&gt;#&lt;/a&gt; 4、引用&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 引用&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;gt;作者：Astolfo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;gt;&amp;gt;作者：Astolfo&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;blockquote&gt;
-&lt;p&gt;作者：Astolfo&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;作者：Astolfo&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;5-分割线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-分割线&#34;&gt;#&lt;/a&gt; 5、分割线&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 分割线&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;***&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;下面是分割线～&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;或者这样～&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;好像没区别诶 QAQ&lt;/p&gt;
-&lt;h2 id=&#34;6-图片插入&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-图片插入&#34;&gt;#&lt;/a&gt; 6、图片插入&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 在线图片 or 本地图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![图片名字](图片地址)&lt;span class=&#34;comment&#34;&gt;# 直接网上右键复制图片地址就可以了哟&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;img src=&#34;F:\Pictures\photogallery\Astolfo\Astolfo_001.jpg&#34; alt=&#34;Astolfo&#34; style=&#34;zoom: 50%;&#34; /&gt;
-&lt;h2 id=&#34;7-超链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-超链接&#34;&gt;#&lt;/a&gt; 7、超链接&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 超链接语法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[超链接内容](地址)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Astolfocat&#34;&gt;我的 Github&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;8-列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-列表&#34;&gt;#&lt;/a&gt; 8、列表&lt;/h2&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 无序列表&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录一&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录二&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录三&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 有序列表&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;number&#34;&gt;1.&lt;/span&gt; 名称&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;目录一&lt;/li&gt;
-&lt;li&gt;目录二&lt;/li&gt;
-&lt;li&gt;目录三&lt;/li&gt;
-&lt;li&gt;回车自动接上&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ol&gt;
-&lt;li&gt;名称&lt;/li&gt;
-&lt;li&gt;自动续行&lt;/li&gt;
-&lt;li&gt;别忘了打空格哦&lt;/li&gt;
-&lt;li&gt;鼠标点下一行取消换行&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;9-表格&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-表格&#34;&gt;#&lt;/a&gt; 9、表格&lt;/h2&gt;
-&lt;p&gt;一般直接右键插入表格&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;成绩&lt;/th&gt;
-&lt;th&gt;语文&lt;/th&gt;
-&lt;th style=&#34;text-align:left&#34;&gt;数学&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;就先写这么多吧，以后再继续添加（yeah~）&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/plan/2021_10/</guid>
             <title>10月学习计划日志</title>
             <link>https://astolfocat.github.io/MyCategories/note/plan/2021_10/</link>
@@ -2798,6 +2717,87 @@ Typora 食用方法和 Markdown 语法（完成～）&lt;/p&gt;
 &lt;p&gt;几乎满课，数据结构要准备写排序作业了，概率论也开始进入了看不懂的三大分布了。模电继续摆烂，回宿舍把选修课论文水了出来。然后继续摸鱼。&lt;/p&gt;
 &lt;h2 id=&#34;20211130-tue&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#20211130-tue&#34;&gt;#&lt;/a&gt; 2021.11.30 Tue&lt;/h2&gt;
 &lt;p&gt;洛谷基础题还差最后 10 题，好耶。家长送的手撕兔也到了，是熟悉的四川味道，好耶（无情的好耶机器）。最后还是晚上四个人一起把它解决了。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>
+            <title>Markdown 语法笔记</title>
+            <link>https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</link>
+            <category>笔记~</category>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;1-标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-标题&#34;&gt;#&lt;/a&gt; 1、标题&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 一级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;## 二级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;### 三级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;#### 四级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;##### 五级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;###### 六级标题&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;正文&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h1 id=&#34;一级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一级标题&#34;&gt;#&lt;/a&gt; 一级标题&lt;/h1&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二级标题&#34;&gt;#&lt;/a&gt; 二级标题&lt;/h2&gt;
+&lt;h3 id=&#34;三级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三级标题&#34;&gt;#&lt;/a&gt; 三级标题&lt;/h3&gt;
+&lt;h4 id=&#34;四级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四级标题&#34;&gt;#&lt;/a&gt; 四级标题&lt;/h4&gt;
+&lt;h5 id=&#34;五级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五级标题&#34;&gt;#&lt;/a&gt; 五级标题&lt;/h5&gt;
+&lt;h6 id=&#34;六级标题&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六级标题&#34;&gt;#&lt;/a&gt; 六级标题&lt;/h6&gt;
+&lt;p&gt;正文&lt;/p&gt;
+&lt;h2 id=&#34;2-代码块&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-代码块&#34;&gt;#&lt;/a&gt; 2、代码块：&lt;/h2&gt;
+&lt;p&gt;用英文下的 ``` 加语言进行注释&lt;/p&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(&lt;span class=&#34;string&#34;&gt;&amp;#x27;hello world&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 注释&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;figure class=&#34;highlight c++&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;cout &amp;lt;&amp;lt; &lt;span class=&#34;string&#34;&gt;&amp;#x27;hello world&amp;#x27;&lt;/span&gt; &amp;lt;&amp;lt; endl;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;3-字体&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-字体&#34;&gt;#&lt;/a&gt; 3、字体&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 加粗&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;**内容**&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 斜体&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;*斜体*&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 删除线&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;~~删除~~&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 高亮&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;==高亮==&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;内容&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;斜体&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;删除&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;mark&gt;we&lt;/mark&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-引用&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#4-引用&#34;&gt;#&lt;/a&gt; 4、引用&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 引用&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;gt;作者：Astolfo&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&amp;gt;&amp;gt;作者：Astolfo&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作者：Astolfo&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;作者：Astolfo&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;5-分割线&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#5-分割线&#34;&gt;#&lt;/a&gt; 5、分割线&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 分割线&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;---&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 或者&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;***&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;下面是分割线～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;或者这样～&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;好像没区别诶 QAQ&lt;/p&gt;
+&lt;h2 id=&#34;6-图片插入&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#6-图片插入&#34;&gt;#&lt;/a&gt; 6、图片插入&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 在线图片 or 本地图片&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;![图片名字](图片地址)&lt;span class=&#34;comment&#34;&gt;# 直接网上右键复制图片地址就可以了哟&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;img src=&#34;F:\Pictures\photogallery\Astolfo\Astolfo_001.jpg&#34; alt=&#34;Astolfo&#34; style=&#34;zoom: 50%;&#34; /&gt;
+&lt;h2 id=&#34;7-超链接&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#7-超链接&#34;&gt;#&lt;/a&gt; 7、超链接&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 超链接语法&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;[超链接内容](地址)&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Astolfocat&#34;&gt;我的 Github&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;8-列表&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#8-列表&#34;&gt;#&lt;/a&gt; 8、列表&lt;/h2&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;  &lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 无序列表&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录一&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录二&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;- 目录三&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# 有序列表&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;number&#34;&gt;1.&lt;/span&gt; 名称&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;目录一&lt;/li&gt;
+&lt;li&gt;目录二&lt;/li&gt;
+&lt;li&gt;目录三&lt;/li&gt;
+&lt;li&gt;回车自动接上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;名称&lt;/li&gt;
+&lt;li&gt;自动续行&lt;/li&gt;
+&lt;li&gt;别忘了打空格哦&lt;/li&gt;
+&lt;li&gt;鼠标点下一行取消换行&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;9-表格&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#9-表格&#34;&gt;#&lt;/a&gt; 9、表格&lt;/h2&gt;
+&lt;p&gt;一般直接右键插入表格&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;成绩&lt;/th&gt;
+&lt;th&gt;语文&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;数学&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;就先写这么多吧，以后再继续添加（yeah~）&lt;/p&gt;
  ]]></description>
         </item>
     </channel>

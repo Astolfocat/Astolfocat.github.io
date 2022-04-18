@@ -7,8 +7,8 @@
         <language>zh-CN</language>
         <pubDate>Thu, 14 Apr 2022 00:00:00 +0800</pubDate>
         <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0800</lastBuildDate>
-        <category>算法~</category>
         <category>笔记~</category>
+        <category>算法~</category>
         <category>博客</category>
         <category>Python~</category>
         <category>日记~</category>
@@ -173,6 +173,29 @@ Kepler 太空望远镜于 2014 年启动了观测的第二阶段，简称 K2。K
 (v) 将算法应用于整套光变曲线并检查分类为变量的光变曲线。可以通过改变分类器阈值来控制这一阶段的误检率。&lt;br&gt;
   这个过程甚至适用于中等大小的高度不平衡训练子样本：30265 条 OGLE-II 光曲线中有 168 个变量（第 2.1 节；另请参见图 5 中的 CV 分数）。应用到一组独立的 31 798 条 OGLE-II 光曲线中，选择了 205 个候选变量，其中 27 个被证明是错误检测，以及 178 个真实变量（其中 12 个是新变量，表 4 和图 8）。&lt;br&gt;
   为了直接将传统的可变性搜索方法与此处考虑的 ML 算法进行比较，我们将自己限制在 Sokolovsky 等人使用的数据集。 （2017）谁比较了各种可变性指数（特征）的有效性。就 F1 分数（表 3）而言，此处测试的所有 ML 算法都优于每个个体可变性指数以及它们的线性组合。 NN、SVM、SGB 和 RF 算法表现出最佳性能（图 4）。除了这里详细讨论的 OGLE-II 数据外，这些结论还得到了 Sokolovsky 等人的另外两个数据集的证实。 （2017），这些是用不同的望远镜收集的，并使用不同的源提取和测光软件进行处理（第 4.1 节）。为了进一步改善可变对象选择结果，需要使用更大的训练样本并设计附加特征，以量化对象的图像形状、与其他检测到的对象的接近程度以及光变化的周期性。建议的基于 ML 的变异性检测技术应适用于任何大型 (104) 组光曲线，因为这些光曲线的代表性子样本通过其他方式先验地分类为 “恒定” 或 “可变”（第 4.4 节）。&lt;/p&gt;
+&lt;h3 id=&#34;笔记-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#笔记-2&#34;&gt;#&lt;/a&gt; 笔记&lt;/h3&gt;
+&lt;h4 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;检测光变曲线的可变性往往被认为是一个假设检验问题，然而作者认为应该是一个二元分类问题。&lt;/li&gt;
+&lt;li&gt;即使是同数据集的光变曲线，也可能因为一些随机事件而破坏部分测量值。为了以统一的方式表示这些不同的光变曲线，需要提取光变曲线特征。这里作者使用了其他人的 VAST 代码，其计算的特征是为了用于变异性检测。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;数据源-2&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#数据源-2&#34;&gt;#&lt;/a&gt; 数据源&lt;/h4&gt;
+&lt;p&gt;OGLE-II PSF fitting I-band photometry of the field LMC_SC20&lt;br&gt;
+ 训练集组成：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;54 个食双星&lt;/li&gt;
+&lt;li&gt;52 个可变红巨星&lt;/li&gt;
+&lt;li&gt;26 个 RR lyrae 型变星&lt;/li&gt;
+&lt;li&gt;20 个造父变星&lt;/li&gt;
+&lt;li&gt;13 个蓝色不规则变星&lt;/li&gt;
+&lt;li&gt;3 个盾牌座 δ 型变星&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;偏差来源&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#偏差来源&#34;&gt;#&lt;/a&gt; 偏差来源&lt;/h4&gt;
+&lt;p&gt;训练集样本有限，不能代表所有的变异性类型。&lt;/p&gt;
+&lt;h4 id=&#34;变异性特征&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#变异性特征&#34;&gt;#&lt;/a&gt; 变异性特征&lt;/h4&gt;
+&lt;p&gt;参考其他研究人员论文中使用的特征。&lt;/p&gt;
+&lt;h4 id=&#34;分类&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#分类&#34;&gt;#&lt;/a&gt; 分类&lt;/h4&gt;
+&lt;p&gt;本实验测试了逻辑回归（LR），支持向量机（SVM），K 近邻算法（KNN），神经网络（NN），随机森林（RF）和随机梯度提升分类器（SGB），使用 python 里面的 scikit-learn 包来实现 SVM，RF，kNN，用 XGBoost 包来实现 SGB，用 Keras 来实现 NN。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
