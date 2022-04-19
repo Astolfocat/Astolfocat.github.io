@@ -7,9 +7,9 @@
         <language>zh-CN</language>
         <pubDate>Sun, 10 Apr 2022 00:00:00 +0800</pubDate>
         <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0800</lastBuildDate>
+        <category>算法~</category>
         <category>笔记~</category>
         <category>博客</category>
-        <category>算法~</category>
         <category>Python~</category>
         <category>日记~</category>
         <item>
@@ -1296,8 +1296,8 @@ e_{ssn} &amp;amp;= \lim_{s\to0}sE(s)\\
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/</guid>
             <title>素数筛</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E7%B4%A0%E6%95%B0%E7%AD%9B/</link>
-            <category>笔记~</category>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Fri, 19 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;求质数的素数筛&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#求质数的素数筛&#34;&gt;#&lt;/a&gt; 求质数的素数筛&lt;/h2&gt;
 &lt;h3 id=&#34;素数的判定&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#素数的判定&#34;&gt;#&lt;/a&gt; 素数的判定&lt;/h3&gt;
@@ -1438,8 +1438,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/</guid>
             <title>一句话算法</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%97%E6%B3%95/</link>
-            <category>笔记~</category>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Sat, 13 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;快速判断奇偶&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#快速判断奇偶&#34;&gt;#&lt;/a&gt; 快速判断奇偶&lt;/h2&gt;
 &lt;p&gt;在二进制中，所有奇数末位均为 1，所有偶数末位均为 0，故可使用按位与。&lt;/p&gt;
@@ -1465,8 +1465,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/</guid>
             <title>二分/尺取/三分</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E4%BA%8C%E5%88%86%E5%B0%BA%E5%8F%96%E4%B8%89%E5%88%86/</link>
-            <category>笔记~</category>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Wed, 10 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;二分&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二分&#34;&gt;#&lt;/a&gt; 二分&lt;/h2&gt;
 &lt;ul&gt;
@@ -1884,8 +1884,8 @@ M834 80h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/s
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/</guid>
             <title>递推与前缀和</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E9%80%92%E6%8E%A8%E4%B8%8E%E5%89%8D%E7%BC%80%E5%92%8C/</link>
-            <category>笔记~</category>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Sat, 06 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;算法概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#算法概述&#34;&gt;#&lt;/a&gt; 算法概述&lt;/h2&gt;
 &lt;h3 id=&#34;递推的定义&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#递推的定义&#34;&gt;#&lt;/a&gt; 递推的定义&lt;/h3&gt;
@@ -2009,8 +2009,8 @@ h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</guid>
             <title>贪心算法</title>
             <link>https://astolfocat.github.io/MyCategories/note/Algorithm/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/</link>
-            <category>笔记~</category>
             <category>算法~</category>
+            <category>笔记~</category>
             <pubDate>Thu, 04 Nov 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;贪心算法简介&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法简介&#34;&gt;#&lt;/a&gt; 贪心算法简介&lt;/h2&gt;
 &lt;h3 id=&#34;贪心算法基本思想&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#贪心算法基本思想&#34;&gt;#&lt;/a&gt; 贪心算法基本思想&lt;/h3&gt;
@@ -2025,20 +2025,6 @@ h400000v40h-400000z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
 &lt;li&gt;贪心选择性&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/rename/</guid>
-            <title>文件批量重命名</title>
-            <link>https://astolfocat.github.io/MyCategories/note/Python/rename/</link>
-            <category>笔记~</category>
-            <category>Python~</category>
-            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
-&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/python%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/</guid>
@@ -2508,6 +2494,20 @@ $ 表示匹配输入字符串的结束位置，这里意思是匹配以 abc 结�
 &lt;h3 id=&#34;使用re模块实现正则表达式操作&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#使用re模块实现正则表达式操作&#34;&gt;#&lt;/a&gt; 使用 re 模块实现正则表达式操作&lt;/h3&gt;
 &lt;p&gt;&lt;s&gt;（大概不考吧大概不考吧）&lt;/s&gt;&lt;/p&gt;
  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Python/rename/</guid>
+            <title>文件批量重命名</title>
+            <link>https://astolfocat.github.io/MyCategories/note/Python/rename/</link>
+            <category>笔记~</category>
+            <category>Python~</category>
+            <pubDate>Tue, 02 Nov 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;批量重命名&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#批量重命名&#34;&gt;#&lt;/a&gt; 批量重命名&lt;/h2&gt;
+&lt;p&gt;下面是在整理阿福的图片的时候，因为强迫症想要给图片同一名字，但是手动重命名过于麻烦，现在既然学了 Python 那么也是该让它发挥价值了（yeah~）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;因为比较简单所以就不做批注了叭&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;highlight python&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;comment&#34;&gt;# coding = gbk&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; os&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;import&lt;/span&gt; sys&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;path = &lt;span class=&#34;string&#34;&gt;&amp;#x27;F:\\Pictures\\photogallery\\Astolfo\\&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;file_names = os.listdir(path)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;n = &lt;span class=&#34;number&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;keyword&#34;&gt;for&lt;/span&gt; name &lt;span class=&#34;keyword&#34;&gt;in&lt;/span&gt; file_names:&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    oldname = path+file_names[n]&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    newname = path+&lt;span class=&#34;string&#34;&gt;&amp;#x27;Astolfo_&amp;#x27;&lt;/span&gt;+&lt;span class=&#34;built_in&#34;&gt;str&lt;/span&gt;(n+&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;).zfill(&lt;span class=&#34;number&#34;&gt;3&lt;/span&gt;)+&lt;span class=&#34;string&#34;&gt;&amp;#x27;.jpg&amp;#x27;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    os.rename(oldname, newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    &lt;span class=&#34;built_in&#34;&gt;print&lt;/span&gt;(oldname,&lt;span class=&#34;string&#34;&gt;&amp;#x27;---&amp;gt;&amp;#x27;&lt;/span&gt;,newname)&lt;/span&gt;&lt;br&gt;&lt;span class=&#34;line&#34;&gt;    n+=&lt;span class=&#34;number&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/others/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</guid>

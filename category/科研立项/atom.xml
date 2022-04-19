@@ -4,9 +4,9 @@
     <title>阿福の可爱猫窝 • Posts by &#34;科研立项&#34; category</title>
     <link href="https://astolfocat.github.io" />
     <updated>2022-04-13T16:00:00.000Z</updated>
+    <category term="算法~" />
     <category term="笔记~" />
     <category term="博客" />
-    <category term="算法~" />
     <category term="Python~" />
     <category term="日记~" />
     <entry>
@@ -156,7 +156,7 @@ Kepler 太空望远镜于 2014 年启动了观测的第二阶段，简称 K2。K
 &lt;h4 id=&#34;rf-的实施&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#rf-的实施&#34;&gt;#&lt;/a&gt; RF 的实施&lt;/h4&gt;
 &lt;p&gt;  使用 python 里的 scikit-learn 模块来实现 RF 。&lt;br&gt;
   RF 分类器的一个优点是能够估计特征的重要性，分类器会衡量哪些特征有更强的描述能力。&lt;/p&gt;
-&lt;h4 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h4&gt;
+&lt;h3 id=&#34;总结&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;本篇论文，在数据选取方面，优先选取数据量更大的长周期数据，并且应保证数据的一致性，同时剔除分类不为恒星的数据，以提高数据纯度。数据因为孔径损失（ aperture losses）和像素灵敏度变化（inter-pixel sensitivity changes）的原因存在系统噪声，因此需要对数据进行提取和去趋势化。可以在去趋势化前对曲线先进行多次多项式拟合再去趋势，这样可以改善变异性信号的保存。&lt;/li&gt;
 &lt;li&gt;SOM 方面可以借鉴的是，为了清楚起见，论文在 SOM 的最关键的 Kohonen 层方面选择了 2 维 40×40 的 Kohonen 层。同时在训练过程中，只有当归一化前的相位曲线变化范围大于每个相位点的标准偏差总平均值的 1.5 倍时，才会使用 K2 数据。这是为了避免基本上平坦的光变曲线影响 SOM，这些光变曲线也被一些人称之为 “噪声”。&lt;/li&gt;
