@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>阿福の可爱猫窝 • Posts by &#34;精神病学&#34; category</title>
+        <link>https://astolfocat.github.io</link>
+        <description>一只想要变可爱的男孩纸~</description>
+        <language>zh-CN</language>
+        <pubDate>Sat, 07 May 2022 00:00:00 +0800</pubDate>
+        <lastBuildDate>Sat, 07 May 2022 00:00:00 +0800</lastBuildDate>
+        <category>算法~</category>
+        <category>笔记~</category>
+        <category>博客</category>
+        <category>Python~</category>
+        <category>日记~</category>
+        <item>
+            <guid isPermalink="true">https://astolfocat.github.io/MyCategories/note/Psychiatry/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</guid>
+            <title>《精神病学》第一章笔记整理</title>
+            <link>https://astolfocat.github.io/MyCategories/note/Psychiatry/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</link>
+            <category>笔记~</category>
+            <pubDate>Sat, 07 May 2022 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;center精神病学第一章笔记整理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#center精神病学第一章笔记整理&#34;&gt;#&lt;/a&gt; &lt;center&gt;《精神病学》第一章笔记整理&lt;/h1&gt;
+&lt;h2 id=&#34;第一章-绪论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-绪论&#34;&gt;#&lt;/a&gt; 第一章 绪论&lt;/h2&gt;
+&lt;h3 id=&#34;第一节-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节-概述&#34;&gt;#&lt;/a&gt; 第一节 概述&lt;/h3&gt;
+&lt;h4 id=&#34;一-精神病学&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-精神病学&#34;&gt;#&lt;/a&gt; 一、精神病学&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;精神病学（psychiatry）：&lt;br&gt;
+ 是研究精神疾病病因、发病机制、临床表现、疾病发展规律以及治疗和预防的一门学科。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;二-精神障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-精神障碍&#34;&gt;#&lt;/a&gt; 二、精神障碍&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;精神障碍（mental disorders）：&lt;br&gt;
+ 是一类具有诊断意义的精神方面的问题，特征为认知（阿尔茨海默病）、情绪（抑郁症）、行为（儿童注意缺陷障碍）等方面的改变，可伴有痛苦体验和（或）功能损害。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;第二节-脑与精神活动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二节-脑与精神活动&#34;&gt;#&lt;/a&gt; 第二节 脑与精神活动&lt;/h3&gt;
+&lt;h4 id=&#34;一-脑结构与精神活动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-脑结构与精神活动&#34;&gt;#&lt;/a&gt; 一、脑结构与精神活动&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;突触联系使大脑形成了各式各样大大小小的环路，构成行为和精神活动的结构基础。&lt;/li&gt;
+&lt;li&gt;脑结构完整性受到破坏，势必影响正常的精神功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;二-脑神经化学与精神活动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-脑神经化学与精神活动&#34;&gt;#&lt;/a&gt; 二、脑神经化学与精神活动&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;神经元的电信号在突触处转化为化学信号，然后又转化为电信号。&lt;/li&gt;
+&lt;li&gt;神经递质大致分为两大类：
+&lt;ul&gt;
+&lt;li&gt;小分子：单胺类&lt;/li&gt;
+&lt;li&gt;大分子：内源性阿片肽、P 物质等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;神经递质只有与相应受体结合，方能产生生物学效应。&lt;/li&gt;
+&lt;li&gt;几乎所有递质均能与多种受体结合，从而产生不同的生物学效应。&lt;/li&gt;
+&lt;li&gt;受体可分为两大类：
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;配体门控通道&lt;/strong&gt;：&lt;br&gt;
+ 当神经递质与受体结合后，离子通道开放，细胞膜通透性增加，正或负离子进入细胞。&lt;br&gt;
+ 正离子进入后可激活其他离子通道，使更多的正离子进入细胞内，达到阈值时，产生动作电位。&lt;br&gt;
+ 使正离子进入细胞的受体称为&lt;strong&gt;兴奋性神经递质受体&lt;/strong&gt;（谷氨酸受体）&lt;br&gt;
+ 若负离子进入后，跨膜电位增加，产生动作电位更加困难，这种受体称为&lt;strong&gt;抑制性神经递质受体&lt;/strong&gt;（GABA 受体）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;G 蛋白偶联受体&lt;/strong&gt;：&lt;br&gt;
+ 产生更为复杂的生物学效应。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;神经递质介导的突触反应：毫秒级&lt;br&gt;
+经第二信使系统介导：分秒级&lt;br&gt;
+经第二、三信使参与：天级&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;三-脑可塑性与精神活动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三-脑可塑性与精神活动&#34;&gt;#&lt;/a&gt; 三、脑可塑性与精神活动&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;可塑性：&lt;br&gt;
+ 指脑的结构与化学活动处于变化之中。是神经系统的重要特征。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;第三节-精神障碍的病因相关因素&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第三节-精神障碍的病因相关因素&#34;&gt;#&lt;/a&gt; 第三节 精神障碍的病因相关因素&lt;/h3&gt;
+&lt;h4 id=&#34;一-精神障碍的生物学因素&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-精神障碍的生物学因素&#34;&gt;#&lt;/a&gt; 一、精神障碍的生物学因素&lt;/h4&gt;
+&lt;h5 id=&#34;1-遗传与环境因素&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-遗传与环境因素&#34;&gt;#&lt;/a&gt; 1、遗传与环境因素&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;一些 “功能性精神障碍” 具有遗传性，是基因将疾病的易感性一代传给一代。&lt;/li&gt;
+&lt;li&gt;一般认为是由多个基因，甚至微效基因的相互作用，使危险性增加，加上环境因素的参与，产生了疾病。&lt;/li&gt;
+&lt;li&gt;遗传度：&lt;br&gt;
+ 遗传因素所产生的影响程度。&lt;/li&gt;
+&lt;li&gt;证明某疾病有家族聚集现象&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;⟶&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\longrightarrow&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.522em;vertical-align:-0.011em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;⟶&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 找出遗传度&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;⟶&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\longrightarrow&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.522em;vertical-align:-0.011em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;⟶&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 找到遗传方式&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mo&gt;⟶&lt;/mo&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\longrightarrow&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.522em;vertical-align:-0.011em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;⟶&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 找到基因所在位置以及功能&lt;/li&gt;
+&lt;li&gt;了解遗传度的办法：双生子研究&lt;br&gt;
+ 通过比较同卵双生子和异卵双生子的同病率即可计算出遗传度。&lt;/li&gt;
+&lt;li&gt;表观遗传学：&lt;br&gt;
+ 指基于非基因序列改变所致基因表达水平变化（DNA 甲基化、染色质构象变化等），因为外界环境促发了导致疾病的易感性。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2-神经发育异常&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-神经发育异常&#34;&gt;#&lt;/a&gt; 2、神经发育异常&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;神经发育学说认为，神经发育障碍患者的大脑从一开始就未能有正常的发育。遗传因素以及早期环境因素干扰了神经系统的正常发育，导致神经元增殖、分化异常，突触过度修剪或异常联系等。共同表现为脑结构和功能可塑性改变。&lt;/li&gt;
+&lt;li&gt;在个体发育早期由于遗传和环境因素的相互作用，影响了特定脑区或环路的发育，导致神经发育异常。&lt;/li&gt;
+&lt;li&gt;不同脑区发育异常则分化为各种不同的精神疾病，表现出不同的临床特征。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;3-感染&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#3-感染&#34;&gt;#&lt;/a&gt; 3、感染&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;感染因素能影响中枢神经系统，产生精神障碍。&lt;/li&gt;
+&lt;li&gt;例如神经梅毒、人类免疫缺陷病毒、弓形虫感染、单纯疱疹性脑炎等等。&lt;/li&gt;
+&lt;li&gt;这些细菌、病毒或寄生虫都有可能透过血脑屏障，进入大脑，可能直接影响大脑，也可能产生免疫反应，甚至误导自身免疫系统攻击大脑细胞，干扰大脑正常发育，产生一系列精神神经症状。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;二-精神障碍的心理-社会因素&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-精神障碍的心理-社会因素&#34;&gt;#&lt;/a&gt; 二、精神障碍的心理、社会因素&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;心理、社会因素既可以作为原因因素在精神障碍的发病中起重要作用（急性应激性精神障碍、创伤后应激障碍、适应障碍等），也可以作为相关因素影响精神障碍的发生发展（焦虑障碍、抑郁障碍），还可以在躯体疾病的发生、发展中起作用（心身疾病）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;1-应激与精神障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#1-应激与精神障碍&#34;&gt;#&lt;/a&gt; 1、应激与精神障碍&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;应激源（stressor）：&lt;br&gt;
+ 有时是各种生活事件导致个体产生应激反应。&lt;/li&gt;
+&lt;li&gt;与应激有关的精神障碍主要是：
+&lt;ul&gt;
+&lt;li&gt;急性应激反应：&lt;br&gt;
+ 在强烈精神刺激后数分钟至数小时起病，持续时间相对较短（少于 1 个月），表现为精神运动性兴奋或抑制。&lt;/li&gt;
+&lt;li&gt;创伤后应激障碍（PTSD，延迟性应激反应障碍）：&lt;br&gt;
+ 主要表现为焦虑、恐惧、事后反复回忆和梦中重新体验到精神创伤的情景等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;2-人格特征与精神障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#2-人格特征与精神障碍&#34;&gt;#&lt;/a&gt; 2、人格特征与精神障碍&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;人格可以定义为个体在日常生活中所表现出的总的情绪和行为特征，相对稳定且可预测。&lt;/li&gt;
+&lt;li&gt;性格是在气质的基础上，由个体活动与社会环境相互作用而形成的。&lt;/li&gt;
+&lt;li&gt;有些人的性格自幼就偏离正常、适应不良、达到了害人害己的程度，称之为&lt;strong&gt;人格障碍&lt;/strong&gt;，有些人格障碍与精神障碍关系十分密切。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;三-关于精神障碍病因学的思考&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三-关于精神障碍病因学的思考&#34;&gt;#&lt;/a&gt; 三、关于精神障碍病因学的思考&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;注意区分关联、危险因素、疾病的结果和病因。&lt;/li&gt;
+&lt;li&gt;危险因素：&lt;br&gt;
+ 先于疾病存在的生物、心理、社会因素，能增加疾病发生的可能性。&lt;/li&gt;
+&lt;li&gt;疾病结果：&lt;br&gt;
+ 发生在疾病之后。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;br&gt;
+ &lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
