@@ -10,9 +10,9 @@
     <category term="Python~" />
     <category term="日记~" />
     <entry>
-        <id>https://astolfocat.github.io/MyCategories/note/Psychiatry/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
+        <id>https://astolfocat.github.io/MyCategories/note/Psychiatry/%E7%AC%AC1%E7%AB%A0/</id>
         <title>《精神病学》第一章笔记整理</title>
-        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Psychiatry/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Psychiatry/%E7%AC%AC1%E7%AB%A0/"/>
         <content type="html">&lt;h1 id=&#34;center精神病学第一章笔记整理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#center精神病学第一章笔记整理&#34;&gt;#&lt;/a&gt; &lt;center&gt;《精神病学》第一章笔记整理&lt;/h1&gt;
 &lt;h2 id=&#34;第一章-绪论&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一章-绪论&#34;&gt;#&lt;/a&gt; 第一章 绪论&lt;/h2&gt;
 &lt;h3 id=&#34;第一节-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节-概述&#34;&gt;#&lt;/a&gt; 第一节 概述&lt;/h3&gt;
@@ -134,6 +134,230 @@
  &lt;br&gt;
  &lt;br&gt;
  &lt;/p&gt;
+</content>
+        <category term="笔记~" />
+        <updated>2022-05-06T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://astolfocat.github.io/MyCategories/note/Psychiatry/%E7%AC%AC2%E7%AB%A0/</id>
+        <title>《精神病学》第二章笔记整理</title>
+        <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Psychiatry/%E7%AC%AC2%E7%AB%A0/"/>
+        <content type="html">&lt;h1 id=&#34;center精神病学第二章笔记整理&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#center精神病学第二章笔记整理&#34;&gt;#&lt;/a&gt; &lt;center&gt;《精神病学》第二章笔记整理&lt;/h1&gt;
+&lt;h2 id=&#34;第二章-精神障碍的症状学&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二章-精神障碍的症状学&#34;&gt;#&lt;/a&gt; 第二章 精神障碍的症状学&lt;/h2&gt;
+&lt;h3 id=&#34;第一节-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第一节-概述&#34;&gt;#&lt;/a&gt; 第一节 概述&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;精神症状&lt;/strong&gt;：&lt;br&gt;
+ 是异常精神活动的表现，涉及人们精神活动的各个方面并通过人的外显行为，如仪表动作、言谈举止、神态表情以及书写内容等表现出来。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;精神障碍的症状学&lt;/strong&gt;：&lt;br&gt;
+ 研究精神症状及其产生机制的学科。又称&lt;strong&gt;精神病理学（psychopathology）&lt;/strong&gt;。&lt;/li&gt;
+&lt;li&gt;精神障碍的诊断主要通过病史采集和精神检查，发现有关精神症状，然后进行综合分析和判断而得出。&lt;/li&gt;
+&lt;li&gt;首先应区分一个人的精神活动是正常还是病态，即是否存在精神症状。应从以下三个方面判断精神活动的正常与否：
+&lt;ul&gt;
+&lt;li&gt;纵向比较：与过去一贯表现进行比较，精神活动是否具有明显改变。&lt;/li&gt;
+&lt;li&gt;横向比较：与大多数正常人的精神活动相比较，是否有明显差别。&lt;/li&gt;
+&lt;li&gt;是否与现实环境相符，结合当事人的心理背景和当时的环境对其活动进行具体分析和判断。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;精神症状往往具有以下共同特点：
+&lt;ul&gt;
+&lt;li&gt;症状的出现不受患者意志的控制。&lt;/li&gt;
+&lt;li&gt;症状一旦出现，难以通过注意力转移等方法令其消失。&lt;/li&gt;
+&lt;li&gt;症状的内容与周围客观环境不相称。&lt;/li&gt;
+&lt;li&gt;症状往往会给患者带来不同程度的痛苦和社会功能损害。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;精神检查的方法主要为交流和观察。要注意以下几点：
+&lt;ul&gt;
+&lt;li&gt;确定精神症状是否存在。&lt;/li&gt;
+&lt;li&gt;确定精神症状出现的频率、持续时间和严重程度。&lt;/li&gt;
+&lt;li&gt;分析各症状之间的关系，区分原发症状和继发症状。&lt;/li&gt;
+&lt;li&gt;注意类似症状之间的鉴别。&lt;/li&gt;
+&lt;li&gt;探讨可能影响症状发生的生物学和社会心理因素。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;第二节-常见精神症状&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第二节-常见精神症状&#34;&gt;#&lt;/a&gt; 第二节 常见精神症状&lt;/h3&gt;
+&lt;h4 id=&#34;一-感知觉障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#一-感知觉障碍&#34;&gt;#&lt;/a&gt; 一、感知觉障碍&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;感觉：&lt;br&gt;
+ 大脑对客观刺激作用于感觉器官所产生的对事物个别属性的反映，如形状、颜色、大小、重量和气味等。&lt;/li&gt;
+&lt;li&gt;知觉：&lt;br&gt;
+ 是在感觉基础上，大脑对事物的各种不同属性进行整合，并结合以往经验，形成的整体印象。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;感觉障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#感觉障碍&#34;&gt;#&lt;/a&gt; 感觉障碍&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;感觉减退&lt;/strong&gt;：&lt;br&gt;
+ 对刺激的感受性降低，感觉阈值增高，表现为对外界强烈的刺激产生轻微的感觉体验或完全不能感知（感觉缺失）。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;感觉过敏&lt;/strong&gt;：&lt;br&gt;
+ 对刺激的感受性增高，感觉阈值降低，表现为对外界一般强度的刺激产生强烈的感觉体验，如感到阳光刺眼，音乐刺耳，皮肤疼痛难忍等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;内感性不适（体感异常）&lt;/strong&gt;：&lt;br&gt;
+ 躯体内部产生的不舒适和难以忍受的异样感。如咽喉部堵塞感，胃肠扭转感，腹部气流上涌感，可继发疑病观念。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;知觉障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#知觉障碍&#34;&gt;#&lt;/a&gt; 知觉障碍&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;错觉&lt;/strong&gt;：&lt;br&gt;
+ 对客观事物歪曲的知觉，如看错物体，产生错听。正常人错觉经过验证后可以认识到自己的错误并加以纠正。病理性错觉常在意识障碍时出现，常表现为错视和错听，并常带有恐怖色彩。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;幻觉&lt;/strong&gt;：&lt;br&gt;
+ 没有现实刺激作用于感觉器官时出现的知觉体验，是一种虚幻的知觉。可根据所涉及的感觉器官、来源和产生条件进行不同的分类。
+&lt;ol&gt;
+&lt;li&gt;根据所涉及的感觉器官分为：幻听、幻视、幻味、幻嗅、幻触、内脏幻觉等。
+&lt;ol&gt;
+&lt;li&gt;幻听：可见于多种精神障碍，其中评论性幻听、议论性幻听和命令性幻听是精神分裂症的典型症状。&lt;/li&gt;
+&lt;li&gt;幻视：意识清晰状态下出现的幻视多见于精神分裂症，意识障碍时的幻视多见于谵妄状态。&lt;/li&gt;
+&lt;li&gt;幻味：尝到哦事务中不存在的特殊味道从而常常拒饮拒食，多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;幻嗅：多见于精神分裂症，常与被害妄想结合在一起。单一幻嗅多见于颞叶癫痫或颞叶器质性损害。&lt;/li&gt;
+&lt;li&gt;幻触：在没有任何刺激时感到皮肤上有异常感觉，多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;内脏幻觉：患者身体内部某一部位或某一脏器虚幻的知觉体验。常与疑病妄想等伴随出现。多见于抑郁发作或精神分裂症。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;根据体验的来源分为真性幻觉和假性幻觉。
+&lt;ol&gt;
+&lt;li&gt;真性幻觉：来自于外部客观空间，通过感觉器官而获得的幻觉。特点为幻觉内容就像感知外界真实事物一样生动形象，患者更容易相信幻觉内容。&lt;/li&gt;
+&lt;li&gt;假性幻觉：存在于自己的主观空间内，不通过感觉器官而获得的幻觉。特点为幻觉内容较模糊、不清晰不完整。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;根据产生的条件分为功能性幻觉、反射性幻觉、心因性幻觉和入睡前幻觉。
+&lt;ol&gt;
+&lt;li&gt;功能性幻觉：伴随现实刺激而出现的幻觉，即当某种感觉器官处于功能活动状态同时出现设计该器官的幻觉。正常知觉与幻觉并存。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;反射性幻觉：伴随现实刺激而出现的幻觉，但是涉及两个不同的感觉器官。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;入睡前幻觉：出现在入睡前的幻觉，多为幻视。&lt;/li&gt;
+&lt;li&gt;心因性幻觉：在强烈心理因素影响下出现的幻觉，多见于应激相关障碍、分离障碍等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;感知综合障碍&lt;/strong&gt;：&lt;br&gt;
+ 指患者对客观事物的整体属性能够正确感知，但对某些个别属性产生错误的感知。常见感知综合障碍包括：
+&lt;ol&gt;
+&lt;li&gt;视物变形症：患者看到周围的人或物体的形状大小体积发生了变化。多见于癫痫。&lt;/li&gt;
+&lt;li&gt;自身感知综合障碍：患者感觉自己身体某一部分在大小、形状等方面发生了变化。多见于精神分裂症、癫痫等。&lt;/li&gt;
+&lt;li&gt;时间感知综合障碍：患者对时间的快慢出现不正确的感知体验。可见于抑郁发作、躁狂发作、精神分裂症等。&lt;/li&gt;
+&lt;li&gt;空间感知综合障碍：患者对周围事物的距离、空间位置等感知错误。&lt;/li&gt;
+&lt;li&gt;非真实感：指患者感到周围事物和环境变得不真实。可见于抑郁发作、精神分裂症等。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;二-思维障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#二-思维障碍&#34;&gt;#&lt;/a&gt; 二、思维障碍&lt;/h4&gt;
+&lt;h5 id=&#34;思维形式障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#思维形式障碍&#34;&gt;#&lt;/a&gt; 思维形式障碍&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;思维奔逸：&lt;br&gt;
+ 思维联想速度加快、数量增多和转换加速，患者表现为特别健谈，感到脑子特别灵活。患者说话语速快，语量多，主题易随环境而发生改变，也可有音韵联想或字意联想。多见于躁狂发作。&lt;/li&gt;
+&lt;li&gt;思维迟缓：&lt;br&gt;
+ 思维联想速度减慢、数量减少和转换困难。表现为语量少，语速慢、语音低、反应迟缓。多见于抑郁发作。&lt;/li&gt;
+&lt;li&gt;思维贫乏：&lt;br&gt;
+ 指联想概念与词汇贫乏。表现为寡言少语，谈话时言语内容空洞单调。多见于精神分裂症、痴呆以及智力发育障碍等。&lt;/li&gt;
+&lt;li&gt;思维散漫、思维破裂、语词杂拌：&lt;br&gt;
+ 指思维的连贯性障碍，即联想概念之间缺乏必要的联系。思维散漫表现为交谈时患者表现为联想松弛，内容散漫，缺乏主题，说话东拉西扯。多见于精神分裂症及智力发育障碍。&lt;br&gt;
+ 思维破裂表现为患者言语或书写内容有结构完整的句子，但各句含义互不相关。严重时言语支离破碎，句子结构不完整，成了一些不相干字、词的堆积，称为语词杂拌。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;思维不连贯：&lt;br&gt;
+ 表现与语词杂拌类似，但是在意识障碍背景下出现的言语支离破碎和杂乱无章状态。多见于谵妄状态。&lt;/li&gt;
+&lt;li&gt;思维中断：&lt;br&gt;
+ 指思维联想过程突然发生中断。表现为患者在无意识障碍，又无外界干扰时，言语突然停顿，片刻之后又重新开始，但所谈主题已经转换。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;思维被夺、思维插入：&lt;br&gt;
+ 属于思维联想障碍，前者感到自己思想被某种外力突然抽走，而后者表现为患者感到有某种不属于自己的思想被强行塞入自己脑钟。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;强制性思维：&lt;br&gt;
+ 是思维联想的自主性障碍。表现为患者感到脑内涌现大量无现实意义、不属于自己的联想，是被外力强加的。这些联想常常突然出现，突然消失，内容多变。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;病理性赘述：&lt;br&gt;
+ 指思维联想活动迂回 折，联想枝节过多。表现为患者对某种事物做不必要的过分详尽的描述，言语啰嗦，但最终能够回答出有关问题。如果要求患者简明扼要，患者无法做到。见于癫病、老年痴呆等。&lt;/li&gt;
+&lt;li&gt;思维化声：&lt;br&gt;
+ 是同时包含思维障碍和感知觉障碍两种成分的一种症状。患者在思考时，同时感到自己的思想在脑子里变成了言语声，自己和他人均能听到。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;语词新作：&lt;br&gt;
+ 是概念的融合、浓缩和无关概念的拼凑。患者自创一些奇特的文字、符号、图形或语言并赋予特殊意义，他人无法理解。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;象征性思维：&lt;br&gt;
+ 属于概念转换，患者以无关的具体概念代替某一抽象&lt;br&gt;
+概念，不经患者本人解释，他人无法理解。如患者经常反穿衣服，表示自己 “表里合一、心地坦白”，多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;逻辑倒错性思维：&lt;br&gt;
+ 以推理缺乏逻辑性为特点，表现为患者推理过程或缺乏前提依据，或因果倒置，令人感到不可理解，离奇古怪。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;强迫思维：&lt;br&gt;
+ 指在患者脑中反复出现的某一概念或相同内容的思维，明知不合理和没有必要，但又无法摆脱，常伴有痛苦体验。多见于强迫障碍，也可见于精神分裂症。强迫思维可表现为：
+&lt;ul&gt;
+&lt;li&gt;反复出现某些想法&lt;/li&gt;
+&lt;li&gt;总是怀疑自己的言行是否正确得当（强迫怀疑）&lt;/li&gt;
+&lt;li&gt;反复回忆做过的事情或说过的话（强迫回忆）&lt;/li&gt;
+&lt;li&gt;反复出现一些对立的思想（强迫性对立思维）&lt;/li&gt;
+&lt;li&gt;反复考虑毫无意义的问题（强迫性穷思竭虑）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;思维内容障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#思维内容障碍&#34;&gt;#&lt;/a&gt; 思维内容障碍&lt;/h5&gt;
+&lt;p&gt; 思维内容障碍主要表现为妄想，其特征包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;妄想内容与事实不符，缺乏客观现实基础，但患者仍坚信不移。&lt;/li&gt;
+&lt;li&gt;妄想内容涉及患者本人且具有利害关系。&lt;/li&gt;
+&lt;li&gt;妄想内容具有个体独特性，是个体的心理现象。&lt;/li&gt;
+&lt;li&gt;妄想内容与患者的文化背景和经历有关，通常有浓厚的时代色彩。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;根据妄想的起源可分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;原发性妄想：&lt;br&gt;
+ 没有发生基础的妄想，表现为内容不可理解，不能用既往经历、当前处境及其他心理活动加以解释。是精神分裂症的典型症状。&lt;/li&gt;
+&lt;li&gt;继发性妄想：&lt;br&gt;
+ 发生在其他病理心理基础上的妄想，或与某种经历、情境等有关的妄想。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;根据妄想的结构可分为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;系统性妄想：&lt;br&gt;
+ 是指内容前后相互联系，结构严密的妄想。此类妄想形成过程较漫长，逻辑性较强，与现实具有一定联系或围绕某种核心思想。&lt;/li&gt;
+&lt;li&gt;非系统性妄想：&lt;br&gt;
+ 是一些片段、零散、内容不固定、结构不严密的妄想。此类妄想往往产生较快，缺乏逻辑性，内容明显脱离现实。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;临床上根据妄想的内容归类为：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;关系妄想：&lt;br&gt;
+ 患者认为周围环境中所发生的与自己无关的事情均与自己有关。如认为周围人谈论是在议论自己等等。多见于精神分裂症和其他妄想性障碍。&lt;/li&gt;
+&lt;li&gt;被害妄想：&lt;br&gt;
+ 患者坚信自己被某些人或组织进行迫害。主要见于精神分裂症和其他妄想性障碍。&lt;/li&gt;
+&lt;li&gt;夸大妄想：&lt;br&gt;
+ 患者认为自己有非凡的才能、智慧、财富、权利、地位等。可见于躁狂发作、精神分裂症和痴呆等。&lt;/li&gt;
+&lt;li&gt;罪恶妄想（自罪妄想）：&lt;br&gt;
+ 患者毫无根据地坚信自己犯了严重错误或罪恶。多见于抑郁发作和精神分裂症。&lt;/li&gt;
+&lt;li&gt;疑病妄想：&lt;br&gt;
+ 患者毫无根据地坚信自己换了某种疾病，各种详细的检查和反复的医学验证也不能纠正。多见于抑郁发作、精神分裂症及躯体忧虑障碍等。&lt;/li&gt;
+&lt;li&gt;钟情妄想：&lt;br&gt;
+ 患者坚信自己被某异性或许多异性钟情。即使遭到对方严词拒绝也毫不置疑。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;嫉妒妄想：&lt;br&gt;
+ 患者无中生有地坚信自己的配偶对自己不忠诚。多见于精神分裂症、老年痴呆等。&lt;/li&gt;
+&lt;li&gt;非血统妄想：&lt;br&gt;
+ 患者毫无依据地坚信自己父母不是亲生的，虽经反复解释和证实，仍坚信不疑。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;物理影响妄想（被控制感）：&lt;br&gt;
+ 患者感到自己的思想、情感和意志行为受到某种外界力量的控制而身不由己。多见于精神分裂症。&lt;/li&gt;
+&lt;li&gt;内心被揭露感（被洞悉感）：&lt;br&gt;
+ 患者感到内心所想的事情都被别人知道了，至于他们通过什么方式知道的，患者则不能描述。多见于精神分裂症。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;超价观念&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#超价观念&#34;&gt;#&lt;/a&gt; 超价观念&lt;/h5&gt;
+&lt;p&gt; 是一种具有强烈情感色彩的错误观念，其发生一般均有一定事实依据。此种观念片面而偏激，可明显地影响患者的行为及其他心理活动，多见于人格障碍。&lt;br&gt;
+ 超价观念与妄想的区别在于，其形成有一定的性格基础与现实基础，伴有强烈的情绪体验，内容比较符合客观实际。&lt;/p&gt;
+&lt;h4 id=&#34;三-注意障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#三-注意障碍&#34;&gt;#&lt;/a&gt; 三、注意障碍&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;注意是指个体精神活动集中指向一定对象的心理过程。可分为主动注意和被动注意。具有如下特征：
+&lt;ul&gt;
+&lt;li&gt;集中性&lt;/li&gt;
+&lt;li&gt;稳定性&lt;/li&gt;
+&lt;li&gt;转移性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;常见注意障碍包括：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意增强：&lt;br&gt;
+ 主动注意的兴奋性增高，表现为过分关注某些事物。多见于精神分裂症、躯体忧虑障碍等。&lt;/li&gt;
+&lt;li&gt;注意减退：&lt;br&gt;
+ 主动及被动注意的兴奋性减弱和注意稳定性降低，表现为注意力难以唤起和维持。多见于抑郁发作、精神分裂症等。&lt;/li&gt;
+&lt;li&gt;注意涣散：&lt;br&gt;
+ 被动注意兴奋性增强和注意稳定性降低，表现为注意力不集中，容易受到外界的干扰而分心。多见于注意缺陷多动障碍、焦虑障碍、精神分裂症等。&lt;/li&gt;
+&lt;li&gt;注意狭窄：&lt;br&gt;
+ 注意广度和范围的显著缩小，表现为当注意集中于某一事物时，不能再注意与之有关的其他事物。多见于意识障碍、智能障碍等。&lt;/li&gt;
+&lt;li&gt;注意转移：&lt;br&gt;
+ 注意转换性增强和稳定性降低，表现为主动注意不能持久，很容易受到外界环境的影响而使注意对象不断转化。多见于躁狂发作等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;四-记忆障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#四-记忆障碍&#34;&gt;#&lt;/a&gt; 四、记忆障碍&lt;/h4&gt;
+&lt;h4 id=&#34;五-智能障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#五-智能障碍&#34;&gt;#&lt;/a&gt; 五、智能障碍&lt;/h4&gt;
+&lt;h4 id=&#34;六-定向力障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#六-定向力障碍&#34;&gt;#&lt;/a&gt; 六、定向力障碍&lt;/h4&gt;
+&lt;h4 id=&#34;七-情感障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#七-情感障碍&#34;&gt;#&lt;/a&gt; 七、情感障碍&lt;/h4&gt;
+&lt;h4 id=&#34;八-意志障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#八-意志障碍&#34;&gt;#&lt;/a&gt; 八、意志障碍&lt;/h4&gt;
+&lt;h4 id=&#34;九-动作行为障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#九-动作行为障碍&#34;&gt;#&lt;/a&gt; 九、动作行为障碍&lt;/h4&gt;
+&lt;h4 id=&#34;十-意识障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#十-意识障碍&#34;&gt;#&lt;/a&gt; 十、意识障碍&lt;/h4&gt;
+&lt;h4 id=&#34;十一-自知力障碍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#十一-自知力障碍&#34;&gt;#&lt;/a&gt; 十一、自知力障碍&lt;/h4&gt;
 </content>
         <category term="笔记~" />
         <updated>2022-05-06T16:00:00.000Z</updated>
