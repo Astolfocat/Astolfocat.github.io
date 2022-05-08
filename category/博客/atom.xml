@@ -13,12 +13,12 @@
         <id>https://astolfocat.github.io/MyCategories/note/Blog/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/</id>
         <title>博客书写指南</title>
         <link rel="alternate" href="https://astolfocat.github.io/MyCategories/note/Blog/%E5%8D%9A%E5%AE%A2%E4%B9%A6%E5%86%99%E6%A0%BC%E5%BC%8F/"/>
-        <content type="html">&lt;h2 id=&#34;博客书写格式&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#博客书写格式&#34;&gt;#&lt;/a&gt; 博客书写格式&lt;/h2&gt;
+        <content type="html">&lt;h2 id=&#34;博客书写格式&#34;&gt;博客书写格式&lt;/h2&gt;
 &lt;p&gt;首页的内容部分会显示上面 description 部分的内容&lt;br&gt;
-这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了 QAQ）&lt;/p&gt;
+这篇文章是以防忘记怎么写博客而放在这的（作者记忆太差了QAQ）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;有关介绍看这里→→→&lt;a href=&#34;https://butterfly.js.org/posts/dc584b87/#Post-Front-matter&#34;&gt;Butterfly 官方文档&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有关介绍看这里→→→&lt;a href=&#34;https://butterfly.js.org/posts/dc584b87/#Post-Front-matter&#34;&gt;Butterfly官方文档&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;关于分类的详情看这里→→→&lt;a href=&#34;https://www.jianshu.com/p/bff1b1845ac9?utm_campaign=maleskine&amp;amp;utm_content=note&amp;amp;utm_medium=seo_notes&amp;amp;utm_source=recommendation&#34;&gt;Hexo 文章 categories 设置&lt;/a&gt;&lt;/p&gt;
@@ -26,26 +26,26 @@
 &lt;/ul&gt;
 &lt;p&gt;目前设置有以下分类：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;学习笔记 note
+&lt;li&gt;学习笔记note
 &lt;ul&gt;
-&lt;li&gt;算法 Algorithm&lt;/li&gt;
-&lt;li&gt;数据结构 DataStructure&lt;/li&gt;
-&lt;li&gt;计划 plan&lt;/li&gt;
-&lt;li&gt;其它 others&lt;/li&gt;
+&lt;li&gt;算法Algorithm&lt;/li&gt;
+&lt;li&gt;数据结构DataStructure&lt;/li&gt;
+&lt;li&gt;计划plan&lt;/li&gt;
+&lt;li&gt;其它others&lt;/li&gt;
 &lt;li&gt;Python&lt;/li&gt;
 &lt;li&gt;Matlab&lt;/li&gt;
-&lt;li&gt;博客 Blog&lt;/li&gt;
+&lt;li&gt;博客Blog&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;科研立项 ScienceProject&lt;/li&gt;
+&lt;li&gt;科研立项ScienceProject&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;tags 会按照标签来显示，标签可以设置多个&lt;/p&gt;
+&lt;p&gt;tags 会按照标签来显示,标签可以设置多个&lt;/p&gt;
 &lt;p&gt;目前设置有以下标签：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;算法～&lt;/li&gt;
-&lt;li&gt;杂谈～&lt;/li&gt;
-&lt;li&gt;日记～&lt;/li&gt;
-&lt;li&gt;笔记～&lt;/li&gt;
+&lt;li&gt;算法~&lt;/li&gt;
+&lt;li&gt;杂谈~&lt;/li&gt;
+&lt;li&gt;日记~&lt;/li&gt;
+&lt;li&gt;笔记~&lt;/li&gt;
 &lt;li&gt;Python~&lt;/li&gt;
 &lt;/ul&gt;
 </content>
